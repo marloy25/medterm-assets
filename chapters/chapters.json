@@ -1,0 +1,92 @@
+[
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term_count": 228,
+    "file_name": "chapter1.json"
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term_count": 81,
+    "file_name": "chapter2.json"
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term_count": 314,
+    "file_name": "chapter3.json"
+  },
+  {
+    "chapter_num": 4,
+    "system_group": "Muscular System",
+    "term_count": 231,
+    "file_name": "chapter4.json"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term_count": 321,
+    "file_name": "chapter5.json"
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term_count": 284,
+    "file_name": "chapter6.json"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term_count": 282,
+    "file_name": "chapter7.json"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term_count": 397,
+    "file_name": "chapter8.json"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term_count": 233,
+    "file_name": "chapter9.json"
+  },
+  {
+    "chapter_num": 10,
+    "system_group": "Nervous System",
+    "term_count": 363,
+    "file_name": "chapter10.json"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term_count": 351,
+    "file_name": "chapter11.json"
+  },
+  {
+    "chapter_num": 12,
+    "system_group": "Integumentary System",
+    "term_count": 297,
+    "file_name": "chapter12.json"
+  },
+  {
+    "chapter_num": 13,
+    "system_group": "Endocrine System",
+    "term_count": 194,
+    "file_name": "chapter13.json"
+  },
+  {
+    "chapter_num": 14,
+    "system_group": "Reproductive System",
+    "term_count": 361,
+    "file_name": "chapter14.json"
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term_count": 315,
+    "file_name": "chapter15.json"
+  }
+]

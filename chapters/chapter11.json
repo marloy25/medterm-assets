@@ -1,0 +1,2810 @@
+[
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "blephar/o",
+    "pronunciation": "",
+    "definition": "eyelid",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "-cusis",
+    "pronunciation": "",
+    "definition": "hearing",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "irid/o",
+    "pronunciation": "",
+    "definition": "iris, colored part of eye",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "kerat/o",
+    "pronunciation": "",
+    "definition": "horny, hard, cornea",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "myring/o",
+    "pronunciation": "",
+    "definition": "tympanic membrane, eardrum",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "ophthalm/o",
+    "pronunciation": "",
+    "definition": "eye, vision",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "-opia",
+    "pronunciation": "",
+    "definition": "vision condition",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "opt/o",
+    "pronunciation": "",
+    "definition": "eye, vision",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "ot/o",
+    "pronunciation": "",
+    "definition": "ear, hearing",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "phak/o",
+    "pronunciation": "",
+    "definition": "lens of eye",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "presby/o",
+    "pronunciation": "",
+    "definition": "old age",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "retin/o",
+    "pronunciation": "",
+    "definition": "retina, net",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "scler/o",
+    "pronunciation": "",
+    "definition": "sclera, white of eye, hard",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "trop/o",
+    "pronunciation": "",
+    "definition": "turn, change",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "tympan/o",
+    "pronunciation": "",
+    "definition": "tympanic membrane, eardrum",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "opt/i",
+    "pronunciation": "",
+    "definition": "eye, vision",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "optic/o",
+    "pronunciation": "",
+    "definition": "eye, vision",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "ir/i",
+    "pronunciation": "",
+    "definition": "iris",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "ir/o",
+    "pronunciation": "",
+    "definition": "iris",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "irit/o",
+    "pronunciation": "",
+    "definition": "iris",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "phac/o",
+    "pronunciation": "",
+    "definition": "lens",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "dacryocyst/o",
+    "pronunciation": "",
+    "definition": "lacrimal sac",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "lacrim/o",
+    "pronunciation": "",
+    "definition": "lacrimal apparatus, tears",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "acous/o",
+    "pronunciation": "",
+    "definition": "hearing, sound",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "acoust/o",
+    "pronunciation": "",
+    "definition": "hearing, sound",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "audi/o",
+    "pronunciation": "",
+    "definition": "hearing",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "audit/o",
+    "pronunciation": "",
+    "definition": "hearing",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "pinn/i",
+    "pronunciation": "",
+    "definition": "pinna, outer ear",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "labyrinth/o",
+    "pronunciation": "",
+    "definition": "labyrinth",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "ambly",
+    "pronunciation": "",
+    "definition": "dim or dull",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "ametr",
+    "pronunciation": "",
+    "definition": "out of proportion",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "anis/o",
+    "pronunciation": "",
+    "definition": "unequal",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "aden",
+    "pronunciation": "",
+    "definition": "gland",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "aur",
+    "pronunciation": "",
+    "definition": "hearing",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "bar/o",
+    "pronunciation": "",
+    "definition": "pressure",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "canth",
+    "pronunciation": "",
+    "definition": "corner of the eye",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "cholesteat",
+    "pronunciation": "",
+    "definition": "cholesterol",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "conjunctiv",
+    "pronunciation": "",
+    "definition": "conjunctiva",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "cor",
+    "pronunciation": "",
+    "definition": "pupil",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "corne",
+    "pronunciation": "",
+    "definition": "cornea",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "cyst",
+    "pronunciation": "",
+    "definition": "sac of fluid",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "dacry/o",
+    "pronunciation": "",
+    "definition": "tear",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "dipl",
+    "pronunciation": "",
+    "definition": "double",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "emmetr",
+    "pronunciation": "",
+    "definition": "in proper measure",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "irid",
+    "pronunciation": "",
+    "definition": "iris",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "ir",
+    "pronunciation": "",
+    "definition": "iris",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "kerat",
+    "pronunciation": "",
+    "definition": "cornea",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "macul",
+    "pronunciation": "",
+    "definition": "spot",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "mastoid",
+    "pronunciation": "",
+    "definition": "mastoid process",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "mydrias",
+    "pronunciation": "",
+    "definition": "the dilation of the pupil",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "my",
+    "pronunciation": "",
+    "definition": "shortsighted (from the Greek word)",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "myc",
+    "pronunciation": "",
+    "definition": "fungus",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "myring",
+    "pronunciation": "",
+    "definition": "eardrum",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "nucle",
+    "pronunciation": "",
+    "definition": "nucleus",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "nyctal",
+    "pronunciation": "",
+    "definition": "night",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "ocul",
+    "pronunciation": "",
+    "definition": "eye",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "ophthalm",
+    "pronunciation": "",
+    "definition": "eye",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "opt",
+    "pronunciation": "",
+    "definition": "vision",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "orbit",
+    "pronunciation": "",
+    "definition": "bony socket, eyeball",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "ot",
+    "pronunciation": "",
+    "definition": "ear",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "papill",
+    "pronunciation": "",
+    "definition": "nipple-like",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "phot",
+    "pronunciation": "",
+    "definition": "light",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "phot/o",
+    "pronunciation": "",
+    "definition": "light",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "presby",
+    "pronunciation": "",
+    "definition": "old age",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "py/o",
+    "pronunciation": "",
+    "definition": "pus",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "scler",
+    "pronunciation": "",
+    "definition": "white of the eye",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "staped",
+    "pronunciation": "",
+    "definition": "stapes",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "tars",
+    "pronunciation": "",
+    "definition": "edge of the eyelid",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "tars/o",
+    "pronunciation": "",
+    "definition": "eyelid",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "ton/o",
+    "pronunciation": "",
+    "definition": "tension",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "tympan",
+    "pronunciation": "",
+    "definition": "eardrum",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "uve",
+    "pronunciation": "",
+    "definition": "uvea",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "vestibul",
+    "pronunciation": "",
+    "definition": "an entrance",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "vitr",
+    "pronunciation": "",
+    "definition": "vitreous humor",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "vitre",
+    "pronunciation": "",
+    "definition": "vitreous humor",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "xer",
+    "pronunciation": "",
+    "definition": "dry",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "-ar",
+    "pronunciation": "",
+    "definition": "pertaining to",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "-al",
+    "pronunciation": "",
+    "definition": "pertaining to",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "-algia",
+    "pronunciation": "",
+    "definition": "pain",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "-ation",
+    "pronunciation": "",
+    "definition": "action",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "-ectomy",
+    "pronunciation": "",
+    "definition": "surgical removal, removal",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "-ia",
+    "pronunciation": "",
+    "definition": "abnormal condition",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "-ic",
+    "pronunciation": "",
+    "definition": "pertaining to",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "-ion",
+    "pronunciation": "",
+    "definition": "condition",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "-is",
+    "pronunciation": "",
+    "definition": "abnormal condition",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "-itis",
+    "pronunciation": "",
+    "definition": "inflammation",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "-metrist",
+    "pronunciation": "",
+    "definition": "one who measures",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "-metry",
+    "pronunciation": "",
+    "definition": "to measure",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "-mileusis",
+    "pronunciation": "",
+    "definition": "carving",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "-oma",
+    "pronunciation": "",
+    "definition": "tumor",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "-opsia",
+    "pronunciation": "",
+    "definition": "view of",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "-ory",
+    "pronunciation": "",
+    "definition": "pertaining to",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "-osis",
+    "pronunciation": "",
+    "definition": "abnormal condition",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "-otomy",
+    "pronunciation": "",
+    "definition": "surgical incision",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "-pexy",
+    "pronunciation": "",
+    "definition": "surgical fixation",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "-plasty",
+    "pronunciation": "",
+    "definition": "surgical repair",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "-rrhagia",
+    "pronunciation": "",
+    "definition": "bleeding",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "-rrhaphy",
+    "pronunciation": "",
+    "definition": "surgical suturing",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "-rrhea",
+    "pronunciation": "",
+    "definition": "flow or discharge, discharge",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "-sclerosis",
+    "pronunciation": "",
+    "definition": "abnormal hardening",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "-sis",
+    "pronunciation": "",
+    "definition": "abnormal condition",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "-tic",
+    "pronunciation": "",
+    "definition": "pertaining to",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "-trauma",
+    "pronunciation": "",
+    "definition": "injury",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "-us",
+    "pronunciation": "",
+    "definition": "a singular noun ending",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "-edema",
+    "pronunciation": "",
+    "definition": "swelling",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "-phobia",
+    "pronunciation": "",
+    "definition": "abnormal fear",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "bin-",
+    "pronunciation": "",
+    "definition": "two",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "e-",
+    "pronunciation": "",
+    "definition": "out of",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "ec-",
+    "pronunciation": "",
+    "definition": "out",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "en-",
+    "pronunciation": "",
+    "definition": "in",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "end-",
+    "pronunciation": "",
+    "definition": "inside",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "eso-",
+    "pronunciation": "",
+    "definition": "inward",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "exo-",
+    "pronunciation": "",
+    "definition": "outward",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "extra-",
+    "pronunciation": "",
+    "definition": "on the outside",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "hemi-",
+    "pronunciation": "",
+    "definition": "half",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "an",
+    "pronunciation": "",
+    "definition": "without",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "hyper-",
+    "pronunciation": "",
+    "definition": "excessive",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "intra-",
+    "pronunciation": "",
+    "definition": "within",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "mio-",
+    "pronunciation": "",
+    "definition": "smaller",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "mon-",
+    "pronunciation": "",
+    "definition": "one",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "peri-",
+    "pronunciation": "",
+    "definition": "surrounding",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "adnexa",
+    "pronunciation": "ad-NECK-sah",
+    "definition": "The accessory or adjoining anatomical parts of an organ. The term adnexa is plural. The adnexa of the eyes, also known as adnexa oculi, are the structures outside the eyeball, including the orbit, eye muscles, eyelids, eyelashes, conjunctiva, and lacrimal apparatus.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "amblyopia",
+    "pronunciation": "am-blee-OH-pee-ah",
+    "definition": "A dimness of vision or the partial loss of sight, especially in one eye, without detectable disease of the eye.",
+    "breakdown_text": "ambly: dim or dull ; -opia: vision condition"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "ametropia",
+    "pronunciation": "am-eh-TROH-pee-ah",
+    "definition": "Any error of refraction in which images do not focus properly on the retina. Astigmatism, hyperopia, and myopia are all forms of ametropia.",
+    "breakdown_text": "ametr: out of proportion ; -opia: vision condition"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "anisocoria",
+    "pronunciation": "an-ih-so-KOH-ree-ah",
+    "definition": "A condition in which the pupils are unequal in size. Can be congenital or caused by a head injury, aneurysm, or pathology of the central nervous system.",
+    "breakdown_text": "anis/o: unequal ; cor: pupil ; -ia: abnormal condition"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "astigmatism",
+    "pronunciation": "ah-STIG-mah-tizm",
+    "definition": "A condition in which the eye does not focus properly because of uneven curvatures of the cornea.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "audiometry",
+    "pronunciation": "aw-dee-OM-eh-tree",
+    "definition": "The use of an audiometer to measure hearing acuity. An audiometer is an electronic device that produces acoustic stimuli of a set frequency and intensity.",
+    "breakdown_text": "audi/o: hearing ; -metry: to measure"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "cataract",
+    "pronunciation": "KAT-ah-rakt",
+    "definition": "The loss of transparency of the lens that causes a progressive loss of visual clarity. The formation of most cataracts is associated with aging; however, this condition can be congenital or due to an injury or disease.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "chalazion",
+    "pronunciation": "kah-LAY-zee-on",
+    "definition": "A nodule or cyst, usually on the upper eyelid, caused by obstruction of a sebaceous gland. The plural of chalazion is chalazia. Compare with a hordeolum.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "cochlear implant",
+    "pronunciation": "KOCK-lee-ar",
+    "definition": "An electronic device that bypasses the damaged portions of the ear and directly stimulates the auditory nerve. The external speech processor captures sounds and converts them into digital signals; electrodes implanted into the cochlea receive the signals and stimulate the auditory nerve. It may take several months to adjust to the difference in speech.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "conjunctivitis",
+    "pronunciation": "kon-junk-tih-VYE-tis",
+    "definition": "Also known as pinkeye; an inflammation of the conjunctiva that is usually caused by a viral infection, allergy, or irritants.",
+    "breakdown_text": "conjunctiv: conjunctiva ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "dacryoadenitis",
+    "pronunciation": "dack-ree-oh-ad-eh-NIGH-tis",
+    "definition": "An inflammation of the lacrimal gland caused by a bacterial, viral, or fungal infection. Signs and symptoms include sudden severe pain, redness, and pressure above the eye.",
+    "breakdown_text": "dacry/o: tear ; aden: gland ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "diplopia",
+    "pronunciation": "dih-PLOH-pee-ah",
+    "definition": "Also known as double vision; the perception of two images of a single object. Sometimes a symptom of a serious underlying disorder such as multiple sclerosis or a brain tumor.",
+    "breakdown_text": "dipl: double ; -opia: vision condition"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "ectropion",
+    "pronunciation": "eck-TROH-pee-on",
+    "definition": "The eversion of the edge of an eyelid. Eversion means turning outward. Usually affects the lower lid, exposing the inner surface of the eyelid to irritation and preventing tears from draining properly. Ectropion is the opposite of entropion.",
+    "breakdown_text": "ec-: out ; trop: turn ; -ion: condition"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "emmetropia",
+    "pronunciation": "em-eh-TROH-pee-ah",
+    "definition": "The normal relationship between the refractive power of the eye and the shape of the eye that enables light rays to focus correctly on the retina.",
+    "breakdown_text": "emmetr: in proper measure ; -opia: vision condition"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "entropion",
+    "pronunciation": "en-TROH-pee-on",
+    "definition": "The inversion of the edge of an eyelid. Inversion means turning inward. Usually affects the lower eyelid and causes the eyelashes to rub against the cornea. Entropion is the opposite of ectropion.",
+    "breakdown_text": "en-: in ; trop: turn ; -ion: condition"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "esotropia",
+    "pronunciation": "es-oh-TROH-pee-ah",
+    "definition": "Abbreviated ET; also known as cross-eyes; strabismus characterized by an inward deviation of one or both eyes. Esotropia is the opposite of exotropia.",
+    "breakdown_text": "eso-: inward ; trop: turn ; -ia: abnormal condition"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "exotropia",
+    "pronunciation": "eck-soh-TROH-pee-ah",
+    "definition": "Also known as walleye; strabismus characterized by the outward deviation of one eye relative to the other. Exotropia is the opposite of esotropia.",
+    "breakdown_text": "exo-: outward ; trop: turn ; -ia: abnormal condition"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "fluorescein angiography",
+    "pronunciation": "flew-oh-RES-ee-in an-jee-OG-rah-fee",
+    "definition": "Abbreviated FA; a photographic study of the blood vessels in the back of the eye following the intravenous injection of a fluorescein dye as a contrast medium. The resulting angiograms are used to determine whether there is proper circulation in the retinal vessels.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "glaucoma",
+    "pronunciation": "glaw-KOH-mah",
+    "definition": "A group of diseases characterized by increased intraocular pressure that causes damage to the retinal nerve fibers and the optic nerve. The increase in pressure is caused by a blockage in the flow of fluid out of the eye. If untreated, it can cause the loss of peripheral vision and eventually blindness.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "hemianopia",
+    "pronunciation": "hem-ee-ah-NOH-pee-ah",
+    "definition": "Blindness in one-half of the visual field.",
+    "breakdown_text": "hemi-: half ; an: without ; -opia: vision condition"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "hordeolum",
+    "pronunciation": "hor-DEE-oh-lum",
+    "definition": "Also known as a stye; a pus-filled and often painful lesion on the eyelid resulting from an acute infection in a sebaceous gland. Compare with a chalazion.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "hyperopia",
+    "pronunciation": "high-per-OH-pee-ah",
+    "definition": "Also known as farsightedness; a defect in which light rays focus beyond the retina. Can occur in childhood but usually causes difficulty after age 40. Hyperopia is the opposite of myopia.",
+    "breakdown_text": "hyper-: excessive ; -opia: vision condition"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "infectious myringitis",
+    "pronunciation": "mir-in-JIGH-tis",
+    "definition": "A contagious inflammation that causes painful blisters on the eardrum. Associated with a middle ear infection. Not to be confused with infectious meningitis, which is an inflammation of the brain and spinal cord.",
+    "breakdown_text": "myring: eardrum ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "iritis",
+    "pronunciation": "eye-RYE-tis",
+    "definition": "The most common form of uveitis; an inflammation of the uvea that affects primarily structures in the front of the eye. Has a sudden onset and may last six to eight weeks.",
+    "breakdown_text": "ir: iris ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "keratitis",
+    "pronunciation": "ker-ah-TYE-tis",
+    "definition": "An inflammation of the cornea. Can be due to many causes, including bacterial, viral, or fungal infections. Note: kerat/o also means hard.",
+    "breakdown_text": "kerat: cornea ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "labyrinthectomy",
+    "pronunciation": "lab-ih-rin-THECK-toh-mee",
+    "definition": "The surgical removal of all or a portion of the labyrinth. Performed to relieve uncontrolled vertigo; however, it causes complete hearing loss in the affected ear.",
+    "breakdown_text": "labyrinth: labyrinth ; -ectomy: surgical removal"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "laser iridotomy",
+    "pronunciation": "ir-ih-DOT-oh-mee",
+    "definition": "A procedure that uses a focused beam of light to create a hole in the iris of the eye. Performed to treat closed-angle glaucoma by creating an opening that allows the aqueous humor to flow between the anterior and posterior chambers of the anterior segment of the eye.",
+    "breakdown_text": "irid: iris ; -otomy: surgical incision"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "laser trabeculoplasty",
+    "pronunciation": "trah-BECK-you-loh-plas-tee",
+    "definition": "Used to treat open-angle glaucoma by creating openings in the trabecular meshwork to allow the fluid to drain properly.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "mastoidectomy",
+    "pronunciation": "mas-toy-DECK-toh-mee",
+    "definition": "The surgical removal of part of the mastoid process. Used to treat mastoiditis that cannot be controlled with antibiotics or in preparation for the placement of a cochlear implant.",
+    "breakdown_text": "mastoid: mastoid process ; -ectomy: surgical removal"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "mydriasis",
+    "pronunciation": "mih-DRY-ah-sis",
+    "definition": "The dilation of the pupil; the opposite of miosis. Causes include diseases, trauma (injury), and drugs.",
+    "breakdown_text": "mydrias: the dilation of the pupil ; -is: abnormal condition"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "myopia",
+    "pronunciation": "my-OH-pee-ah",
+    "definition": "Also known as nearsightedness; a defect in which light rays focus in front of the retina. Occurs most commonly around puberty. Myopia is the opposite of hyperopia.",
+    "breakdown_text": "my: shortsighted (from the Greek word) ; -opia: vision condition"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "myringotomy",
+    "pronunciation": "mir-in-GOT-oh-mee",
+    "definition": "A small surgical incision in the eardrum to relieve pressure from excess pus or fluid or to create an opening for the placement of ear tubes.",
+    "breakdown_text": "myring: eardrum ; -otomy: surgical incision"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "nyctalopia",
+    "pronunciation": "nick-tah-LOH-pee-ah",
+    "definition": "Also known as night blindness; a condition in which an individual with normal daytime vision has difficulty seeing at night.",
+    "breakdown_text": "nyctal: night ; -opia: vision condition"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "nystagmus",
+    "pronunciation": "nis-TAG-mus",
+    "definition": "An involuntary, constant, rhythmic movement of the eyeball that can be congenital or caused by a neurological injury or drug use.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "ophthalmoscopy",
+    "pronunciation": "ahf-thal-MOS-koh-pee",
+    "definition": "Also known as funduscopy; the use of an ophthalmoscope to visually examine the fundus (back part) of the eye. The examination includes the retina, optic disk, choroid, and blood vessels.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "optometrist",
+    "pronunciation": "op-TOM-eh-trist",
+    "definition": "A professional who holds a doctor of optometry degree and provides primary eye care, including diagnosing eye diseases and conditions, and measuring the accuracy of vision to determine whether corrective lenses are needed.",
+    "breakdown_text": "opt/o: vision ; -metrist: one who measures"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "otitis media",
+    "pronunciation": "oh-TYE-tis MEE-dee-ah",
+    "definition": "An inflammation of the middle ear.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "otomycosis",
+    "pronunciation": "oh-toh-my-KOH-sis",
+    "definition": "A fungal infection of the external auditory canal.",
+    "breakdown_text": "ot/o: ear ; myc: fungus ; -osis: abnormal condition"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "otopyorrhea",
+    "pronunciation": "oh-toh-pye-oh-REE-ah",
+    "definition": "The flow of pus from the ear.",
+    "breakdown_text": "ot/o: ear ; py/o: pus ; -rrhea: flow or discharge"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "otorrhea",
+    "pronunciation": "oh-toh-REE-ah",
+    "definition": "Any discharge from the ear. In rare cases this could include leakage of cerebrospinal fluid.",
+    "breakdown_text": "ot/o: ear ; -rrhea: discharge"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "otosclerosis",
+    "pronunciation": "oh-toh-skleh-ROH-sis",
+    "definition": "The ankylosis of the bones of the middle ear, resulting in a conductive hearing loss. Ankylosis means fused together. If severe, this condition is treated with a stapedectomy.",
+    "breakdown_text": "ot/o: ear ; -sclerosis: abnormal hardening"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "papilledema",
+    "pronunciation": "pap-ill-eh-DEE-mah",
+    "definition": "Also known as a choked disk; swelling and inflammation of the optic nerve at the point of entrance into the eye through the optic disk. Caused by increased intracranial pressure and can be due to a tumor pressing on the optic nerve.",
+    "breakdown_text": "papill: nipple-like ; -edema: swelling"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "periorbital edema",
+    "pronunciation": "pehr-ee-OR-bih-tal eh-DEE-mah",
+    "definition": "Swelling of the tissues surrounding the eye or eyes. Can give the face a bloated appearance and cause the eyes to be partially covered by the swollen eyelids. Associated with conditions such as allergic reaction, nephrotic syndrome, or cellulitis.",
+    "breakdown_text": "peri-: surrounding ; orbit: eyeball ; -al: pertaining to"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "photophobia",
+    "pronunciation": "foh-toh-FOH-bee-ah",
+    "definition": "Excessive sensitivity to light; can be the result of migraines, excessive wearing of contact lenses, drug use, or inflammation.",
+    "breakdown_text": "phot/o: light ; -phobia: abnormal fear"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "pneumatic retinopexy",
+    "pronunciation": "RET-ih-noh-peck-see",
+    "definition": "A surgery in which a gas bubble is injected into the vitreous cavity to put pressure on the detached area in a retinal detachment while it heals. The bubble gradually dissipates.",
+    "breakdown_text": "retin/o: retina ; -pexy: surgical fixation"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "presbycusis",
+    "pronunciation": "pres-beh-KOO-sis",
+    "definition": "A gradual loss of sensorineural hearing that occurs as the body ages.",
+    "breakdown_text": "presby: old age ; -cusis: hearing"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "presbyopia",
+    "pronunciation": "pres-bee-OH-pee-ah",
+    "definition": "The condition of common changes in the eyes that occur with aging. With age, near vision declines noticeably as the lens becomes less flexible and the muscles of the ciliary body become weaker, so the eyes are no longer able to focus the image properly on the retina.",
+    "breakdown_text": "presby: old age ; -opia: vision condition"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "ptosis",
+    "pronunciation": "TOH-sis",
+    "definition": "The drooping of the upper eyelid that is usually due to muscle weakness or paralysis. The term blepharoptosis has the same meaning.",
+    "breakdown_text": "ptosis: drooping or sagging"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "radial keratotomy",
+    "pronunciation": "ker-ah-TOT-oh-mee",
+    "definition": "Abbreviated RK; a surgical procedure to treat myopia. Incisions are made in the cornea to cause it to flatten, which brings the focal point of the eye closer to the retina and improves distance vision. Compare with LASIK and photorefractive keratotomy.",
+    "breakdown_text": "kerat: cornea ; -otomy: surgical incision"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "scleritis",
+    "pronunciation": "skleh-RYE-tis",
+    "definition": "An inflammation of the sclera. Usually associated with infections, chemical injuries, or autoimmune diseases.",
+    "breakdown_text": "scler: white of the eye ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "sensorineural hearing loss",
+    "pronunciation": "sen-suh-ree-NOOR-al",
+    "definition": "Also known as nerve deafness; hearing loss that develops when the auditory nerve or hair cells in the inner ear are damaged. Usually due to age, noise exposure, or an acoustic neuroma. The source can be located in the inner ear, in the nerve from the inner ear to the brain, or in the brain.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "stapedectomy",
+    "pronunciation": "stay-peh-DECK-toh-mee",
+    "definition": "The surgical removal of the stapes bone and the insertion of a small prosthetic device to conduct sound vibrations to the inner ear.",
+    "breakdown_text": "staped: stapes ; -ectomy: surgical removal"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "strabismus",
+    "pronunciation": "strah-BIZ-mus",
+    "definition": "A disorder in which the eyes point in different directions or are not aligned correctly, because the eye muscles are unable to focus together.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "tarsorrhaphy",
+    "pronunciation": "tahr-SOR-ah-fee",
+    "definition": "The partial or complete suturing together of the upper and lower eyelids to protect the eye when the lids are paralyzed and unable to close normally, or to help corneal lesions heal.",
+    "breakdown_text": "tars/o: eyelid ; -rrhaphy: surgical suturing"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "tinnitus",
+    "pronunciation": "tih-NITE-us",
+    "definition": "A condition of a ringing, buzzing, or roaring sound in one or both ears; also commonly pronounced TIN-ih-tus. Often associated with hearing loss and more likely to occur when there has been prolonged exposure to loud noises.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "tonometry",
+    "pronunciation": "toh-NOM-eh-tree",
+    "definition": "The measurement of intraocular pressure. Abnormally high pressure can be an indication of glaucoma.",
+    "breakdown_text": "ton/o: tension ; -metry: to measure"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "tympanometry",
+    "pronunciation": "tim-pah-NOM-eh-tree",
+    "definition": "The use of air pressure in the ear canal to test for disorders of the middle ear. The resulting record is a tympanogram. Used to test for middle-ear fluid buildup or eustachian tube obstruction, or to evaluate a conductive hearing loss.",
+    "breakdown_text": "tympan/o: eardrum ; -metry: to measure"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "vertigo",
+    "pronunciation": "VER-tih-goh",
+    "definition": "A sense of whirling, dizziness, and loss of balance that is often combined with nausea and vomiting. Although a symptom of many disorders, recurrent vertigo is sometimes associated with inner ear problems such as Ménière's disease.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "vitrectomy",
+    "pronunciation": "vih-TRECK-toh-mee",
+    "definition": "The removal of the vitreous humor and its replacement with a saline solution. Sometimes performed to provide access to treat a retinal detachment or when diabetic retinopathy causes blood to leak and cloud the vitreous humor.",
+    "breakdown_text": "vitr: vitreous humor ; -ectomy: removal"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "xerophthalmia",
+    "pronunciation": "zeer-ahf-THAL-mee-ah",
+    "definition": "Also known as dry eye; drying of eye surfaces, including the conjunctiva, because the tear glands do not produce enough tears. Often associated with aging; can also be due to systemic diseases such as rheumatoid arthritis or caused by a lack of vitamin A.",
+    "breakdown_text": "xer: dry ; ophthalm: eye ; -ia: abnormal condition"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "oculus",
+    "pronunciation": "",
+    "definition": "Latin word meaning eye; the plural is oculi.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "OD",
+    "pronunciation": "",
+    "definition": "Right eye (oculus dexter).",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "OS",
+    "pronunciation": "",
+    "definition": "Left eye (oculus sinister).",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "OU",
+    "pronunciation": "",
+    "definition": "Each eye (oculus uterque) or both eyes (oculi uterque).",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "orbit",
+    "pronunciation": "",
+    "definition": "Also known as the eye socket; the bony cavity of the skull that contains and protects the eyeball and its associated muscles, blood vessels, and nerves.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "eye muscles",
+    "pronunciation": "",
+    "definition": "Six major eye muscles, arranged in three pairs, are attached to each eye: the superior and inferior oblique muscles, the superior and inferior rectus muscles, and the lateral and medial rectus muscles. Oblique describes an angle that is slanted but is not perpendicular or parallel. Rectus means straight.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "binocular vision",
+    "pronunciation": "",
+    "definition": "Vision that occurs when the muscles of both eyes work together in coordination to make normal depth perception possible.",
+    "breakdown_text": "bin-: two ; ocul: eye ; -ar: pertaining to"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "depth perception",
+    "pronunciation": "",
+    "definition": "The ability to see things in three dimensions.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "canthus",
+    "pronunciation": "KAN-thus",
+    "definition": "The angle where the upper and lower eyelids meet. The plural of canthus is canthi.",
+    "breakdown_text": "canth: corner of the eye ; -us: a singular noun ending"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "cilia",
+    "pronunciation": "SIL-ee-ah",
+    "definition": "Small hairs that make up the eyebrows and eyelashes. Cilia are also present in the nose to prevent foreign matter from being inhaled.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "tarsus",
+    "pronunciation": "TAHR-suhs",
+    "definition": "Also known as the tarsal plate; the framework within the upper and lower eyelids that provides the necessary stiffness and shape. The plural of tarsus is tarsi. Tarsus also refers to the cluster of seven tarsal bones of the foot's instep.",
+    "breakdown_text": "tars: edge of the eyelid ; -us: a singular noun ending"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "conjunctiva",
+    "pronunciation": "kon-junk-TYE-vah",
+    "definition": "The transparent mucous membrane that lines the underside of each eyelid and continues to form a protective covering over the exposed surface of the eyeball. The plural is conjunctivae.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "lacrimal apparatus",
+    "pronunciation": "LACK-rih-mal",
+    "definition": "Also known as the tear apparatus; consists of the structures that produce, store, and remove tears.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "lacrimation",
+    "pronunciation": "",
+    "definition": "The secretion of tears.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "lacrimal glands",
+    "pronunciation": "",
+    "definition": "Glands that secrete lacrimal fluid (tears), located on the underside of the upper eyelid just above the outer corner of each eye.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "lacrimal fluid",
+    "pronunciation": "",
+    "definition": "Commonly known as tears; its function is to maintain moisture on the anterior surface of the eyeball. Blinking distributes the lacrimal fluid across the eye.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "lacrimal canal",
+    "pronunciation": "",
+    "definition": "A duct at the inner corner of each eye that collects tears and empties them into the lacrimal sacs. Crying is the overflowing of tears from the lacrimal canals.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "lacrimal sac",
+    "pronunciation": "",
+    "definition": "Also known as the tear sac; an enlargement of the upper portion of the lacrimal duct.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "lacrimal duct",
+    "pronunciation": "",
+    "definition": "Also known as the nasolacrimal duct; the passageway that drains excess tears into the nose.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "eyeball",
+    "pronunciation": "",
+    "definition": "Also known as the globe; a 1-inch sphere with only about one-sixth of its surface visible.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "optic",
+    "pronunciation": "OP-tik",
+    "definition": "Pertaining to the eye or sight.",
+    "breakdown_text": "opt: vision ; -ic: pertaining to"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "ocular",
+    "pronunciation": "OCK-you-lar",
+    "definition": "Pertaining to the eye.",
+    "breakdown_text": "ocul: eye ; -ar: pertaining to"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "extraocular",
+    "pronunciation": "eck-strah-OCK-you-lar",
+    "definition": "Outside the eyeball.",
+    "breakdown_text": "extra-: on the outside ; ocul: eye ; -ar: pertaining to"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "intraocular",
+    "pronunciation": "in-trah-OCK-you-lar",
+    "definition": "Within the eyeball.",
+    "breakdown_text": "intra-: within ; ocul: eye ; -ar: pertaining to"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "sclera",
+    "pronunciation": "SKLEHR-ah",
+    "definition": "Also known as the white of the eye; maintains the shape of the eye and protects the delicate inner layers of tissue. Tough, fibrous tissue forming the outer layer of the eye, except for the part covered by the cornea. The combining form scler/o means the white of the eye, and it also means hard.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "choroid",
+    "pronunciation": "KOH-roid",
+    "definition": "Also known as the choroid coat; the opaque middle layer of the eyeball that contains many blood vessels and provides the blood supply for the entire eye. Opaque means that light cannot pass through this substance.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "retina",
+    "pronunciation": "RET-ih-nah",
+    "definition": "The sensitive innermost layer that lines the posterior segment of the eye. Receives nerve impulses and transmits them to the brain via the optic nerve.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "optic nerve",
+    "pronunciation": "",
+    "definition": "Also known as the second cranial nerve; transmits nerve impulses from the retina to the brain.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "anterior segment",
+    "pronunciation": "",
+    "definition": "The front one-third of the eyeball, divided into anterior and posterior chambers.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "anterior chamber",
+    "pronunciation": "",
+    "definition": "The chamber of the anterior segment located behind the cornea and in front of the iris.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "posterior chamber",
+    "pronunciation": "",
+    "definition": "The chamber of the anterior segment located behind the iris and in front of the ligaments holding the lens in place. Not to be confused with the posterior segment.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "aqueous humor",
+    "pronunciation": "AH-kwee-uhs",
+    "definition": "Also known as aqueous fluid; fills both the anterior and posterior chambers. Helps the eye maintain its shape and nourishes the intraocular structures. Constantly filtered and drained through the trabecular meshwork and the canal of Schlemm. Aqueous means watery or containing water; humor describes any clear body liquid or semifluid substance.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "intraocular pressure",
+    "pronunciation": "",
+    "definition": "Abbreviated IOP; a measurement of the fluid pressure inside the eye, regulated by the rate at which aqueous humor enters and leaves the eye.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "posterior segment",
+    "pronunciation": "",
+    "definition": "The remaining two-thirds of the eyeball, lined with the retina and filled with vitreous humor.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "vitreous humor",
+    "pronunciation": "VIT-ree-us",
+    "definition": "Also known as vitreous gel; a soft, clear, jelly-like mass that contains millions of fine fibers attached to the surface of the retina, which help the eye maintain its shape.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "rods",
+    "pronunciation": "",
+    "definition": "The black and white receptors of the retina that receive images that have passed through the lens.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "cones",
+    "pronunciation": "",
+    "definition": "The color receptors of the retina that receive images that have passed through the lens.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "macula",
+    "pronunciation": "MACK-you-lah",
+    "definition": "Also known as the macula lutea; the clearly defined light-sensitive area in the center of the retina that is responsible for sharp central vision. Macula means a small spot; it can also refer to a small, discolored spot on the skin, such as a freckle.",
+    "breakdown_text": "macul: spot"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "fovea centralis",
+    "pronunciation": "FOH-vee-ah sen-TRAH-lis",
+    "definition": "A pit in the middle of the macula. Color vision is best in this area because it contains a high concentration of cones and no rods.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "optic disk",
+    "pronunciation": "",
+    "definition": "Also known as the blind spot; a small region in the eye where the nerve endings of the retina enter the optic nerve. Called the blind spot because it does not contain any rods or cones to convert images into nerve impulses.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "uvea",
+    "pronunciation": "YOU-vee-ah",
+    "definition": "The pigmented layer of the eye with a rich blood supply; consists of the choroid, ciliary body, and iris.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "ciliary body",
+    "pronunciation": "SIL-ee-ehr-ee",
+    "definition": "A set of muscles and suspensory ligaments located within the choroid that adjust the thickness of the lens to refine the focus of light rays on the retina. Produces the aqueous humor that fills the anterior segment. To focus on nearby objects the lens is made thicker; to focus on distant objects the lens is stretched thinner.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "iris",
+    "pronunciation": "",
+    "definition": "The colorful circular structure that surrounds the pupil. Its muscles control the amount of light that is allowed to enter the eye through the pupil: they contract to make the pupil smaller and relax, or dilate, to make the pupil larger.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "cornea",
+    "pronunciation": "KOR-nee-ah",
+    "definition": "The transparent outer surface of the eye covering the iris and pupil. The primary structure focusing light rays entering the eye.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "pupil",
+    "pronunciation": "",
+    "definition": "The black circular opening in the center of the iris that permits light to enter the eye.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "lens",
+    "pronunciation": "",
+    "definition": "The clear, flexible, curved structure that focuses images on the retina. Contained within a clear capsule located behind the iris and pupil.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "accommodation",
+    "pronunciation": "ah-kom-oh-DAY-shun",
+    "definition": "The process whereby the eyes make adjustments for seeing objects at various distances. These adjustments include contraction (narrowing) and dilation (widening) of the pupil, movement of the eyes, and changes in the shape of the lens.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "convergence",
+    "pronunciation": "kon-VER-jens",
+    "definition": "The simultaneous inward movement of the eyes toward each other, occurring in an effort to maintain single binocular vision as an object comes nearer.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "refraction",
+    "pronunciation": "",
+    "definition": "Also refractive power; the ability of the lens to bend light rays so they focus on the retina.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "visual acuity",
+    "pronunciation": "ah-KYOU-ih-tee",
+    "definition": "Abbreviated VA; the ability to distinguish object details and shape at a distance. Acuity means sharpness.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "ophthalmologist",
+    "pronunciation": "ahf-thal-MOL-oh-jist",
+    "definition": "A physician who specializes in diagnosing and treating the full spectrum of diseases and disorders of the eyes, from vision correction to eye surgery.",
+    "breakdown_text": "ophthalm: eye ; -ologist: specialist"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "optician",
+    "pronunciation": "op-TISH-uhn",
+    "definition": "A health care practitioner who designs, fits, and dispenses lenses for vision correction.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "certified paraoptometric",
+    "pronunciation": "",
+    "definition": "A professional who sometimes plays a support role to an optometrist.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "blepharitis",
+    "pronunciation": "",
+    "definition": "Swelling of the eyelid, often at the location of the eyelash hair follicles.",
+    "breakdown_text": "blephar: eyelid ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "dacryocystitis",
+    "pronunciation": "dack-ree-oh-sis-TYE-tis",
+    "definition": "An inflammation of the lacrimal sac usually caused by blockage of the lacrimal duct, often accompanied by a bacterial infection.",
+    "breakdown_text": "dacry/o: tear ; cyst: sac of fluid ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "subconjunctival hemorrhage",
+    "pronunciation": "sub-kon-junk-TIH-val HEM-or-idj",
+    "definition": "Bleeding between the conjunctiva and the sclera. Usually caused by an injury and creates a red area over the white of the eye.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "uveitis",
+    "pronunciation": "you-vee-EYE-tis",
+    "definition": "An inflammation of the uvea causing swelling and irritation. Complications can potentially lead to permanent vision loss.",
+    "breakdown_text": "uve: uvea ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "corneal abrasion",
+    "pronunciation": "ah-BRAY-zhun",
+    "definition": "An injury, such as a scratch or irritation, to the outer layers of the cornea. Compare with corneal ulcer.",
+    "breakdown_text": "corne: cornea ; -al: pertaining to"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "corneal ulcer",
+    "pronunciation": "",
+    "definition": "An open sore on the cornea caused by an infection or injury. Although these ulcers heal with treatment, they can leave a cloudy scar that impairs vision. Compare with corneal abrasion.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "keratoconus",
+    "pronunciation": "ker-uh-toh-KOH-nus",
+    "definition": "A condition that occurs when the cornea becomes irregular and cone-shaped, causing blurring and distortion of vision.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "diabetic retinopathy",
+    "pronunciation": "",
+    "definition": "Damage to the retina as a complication of uncontrolled diabetes. As it progresses, diabetic macular edema can occur.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "endophthalmitis",
+    "pronunciation": "end-op-thahl-MYE-tis",
+    "definition": "Inflammation of the intraocular fluids. Can be caused by infection or as a complication of eye surgery.",
+    "breakdown_text": "end-: inside ; ophthalm: eye ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "floaters",
+    "pronunciation": "",
+    "definition": "Also known as vitreous floaters; particles of cellular debris that float in the vitreous humor and cast shadows on the retina. Often occur normally but may be an indication of retinal detachment, especially when accompanied by photopsia.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "photopsia",
+    "pronunciation": "foh-TOP-see-ah",
+    "definition": "The presence of what appears to be flashes of light, or flashers. Often caused by damage to the eye or migraine headaches.",
+    "breakdown_text": "phot: light ; -opsia: view of"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "miosis",
+    "pronunciation": "mye-OH-sis",
+    "definition": "The contraction of the pupil, normally in response to exposure to light but also possibly due to the use of prescription or illegal drugs.",
+    "breakdown_text": "mio-: smaller ; -sis: abnormal condition"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "retinal detachment",
+    "pronunciation": "",
+    "definition": "Also known as a detached retina; the separation of some or all of the light-sensitive retina from the choroid, as are retinal tears. If not treated, the entire retina can detach, causing blindness. Risk factors include head trauma, severe myopia, diabetic retinopathy, and complications from eye surgery.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "retinitis pigmentosa",
+    "pronunciation": "ret-ih-NIGH-tis pig-men-TOH-sah",
+    "definition": "A progressive degeneration of the retina that affects night and peripheral vision. Can be detected by the presence of dark pigmented spots in the retina.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "retinoblastoma",
+    "pronunciation": "ret-ih-noh-blas-TOH-ma",
+    "definition": "An eye cancer caused by the abnormal growth of retinal cells. While rare, it is the most common type of intraocular cancer in children.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "temporal arteritis",
+    "pronunciation": "",
+    "definition": "A form of vasculitis that can cause a sudden vision loss, usually in one eye.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "open-angle glaucoma",
+    "pronunciation": "",
+    "definition": "Also known as chronic glaucoma; by far the most common form of glaucoma. The trabecular meshwork gradually becomes blocked, causing a buildup of pressure. Symptoms are not noticed by the patient until the optic nerve has been damaged; can be detected earlier through regular eye examinations, including tonometry and visual field testing.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "closed-angle glaucoma",
+    "pronunciation": "",
+    "definition": "Also known as acute glaucoma; the opening between the cornea and iris narrows so that fluid cannot reach the trabecular meshwork. Can cause a sudden increase in the intraocular pressure that produces severe pain, nausea, redness of the eye, and blurred vision. Without immediate treatment, blindness can occur in as little as two days.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "macular degeneration",
+    "pronunciation": "MACK-you-lar",
+    "definition": "Abbreviated MD; a gradually progressive condition in which the macula at the center of the retina is damaged, resulting in the loss of central vision but not in total blindness.",
+    "breakdown_text": "macul: spot ; -ar: pertaining to"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "age-related macular degeneration",
+    "pronunciation": "",
+    "definition": "Abbreviated AMD; occurs most frequently in older people and is the leading cause of severe vision loss in those over age 60. Symptoms often start in one eye, and there is a high risk that AMD will also develop in the other eye.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "dry macular degeneration",
+    "pronunciation": "",
+    "definition": "Accounts for 90% of all AMD cases; caused by the slow deterioration of the cells of the macula over time.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "wet macular degeneration",
+    "pronunciation": "",
+    "definition": "An advanced form of dry AMD. New blood vessels growing beneath the retina leak blood and fluid, damaging the macular cells. These small hemorrhages usually result in rapid and severe vision loss.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "color blindness",
+    "pronunciation": "",
+    "definition": "A general term referring to the inability to perceive certain colors in a normal manner due to the absence or abnormal function of cones. The most common type is red-green color blindness.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "refractive disorder",
+    "pronunciation": "",
+    "definition": "A focusing problem that occurs when the lens and cornea do not bend light so that it focuses properly on the retina.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "blindness",
+    "pronunciation": "",
+    "definition": "The inability to see.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "legal blindness",
+    "pronunciation": "",
+    "definition": "The point at which, under law, an individual is considered to be blind. A commonly used standard is that a person is legally blind when his or her best-corrected vision is reduced to 20/200 or less.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "scotoma",
+    "pronunciation": "skoh-TOH-mah",
+    "definition": "Also known as blind spot; an abnormal area of diminished vision surrounded by an area of normal vision.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "Snellen chart",
+    "pronunciation": "",
+    "definition": "Abbreviated SC; used to measure visual acuity. The results for each eye are recorded as a fraction with 20/20 being considered normal. The first number is the standard distance from the chart, 20 feet; the second number indicates the deviation from the norm based on the ability to read progressively smaller lines of letters.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "refraction test",
+    "pronunciation": "",
+    "definition": "A test done to determine an eye's refractive error so that the best corrective lenses can be prescribed. The term also refers to the ability of the lens to bend light rays so they focus on the retina.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "diopter",
+    "pronunciation": "dye-AHP-tur",
+    "definition": "The unit of measurement of a lens's refractive power.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "cover test",
+    "pronunciation": "",
+    "definition": "An examination of how the two eyes work together, used to assess binocular vision. One eye at a time is covered while the patient focuses on an object across the room.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "visual field testing",
+    "pronunciation": "",
+    "definition": "Also known as perimetry; performed to determine losses in peripheral vision. Blank sections in the visual field can be symptomatic of glaucoma or an optic nerve disorder. The patient looks straight ahead and indicates whether or not they can see an object or flash of light presented in their periphery. Peripheral means occurring away from the center.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "dilation",
+    "pronunciation": "dye-LAY-shun",
+    "definition": "The artificial enlargement of the pupils, required in preparation for the ophthalmoscopic examination of the interior of the eye. Achieved through the use of mydriatic drops.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "mydriatic drops",
+    "pronunciation": "mid-ree-AT-ick",
+    "definition": "Drops placed into the eyes to produce temporary paralysis, forcing the pupils to remain dilated even in the presence of bright light.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "slit-lamp ophthalmoscopy",
+    "pronunciation": "ahf-thal-MOS-koh-pee",
+    "definition": "A diagnostic procedure in which a narrow beam of light is focused onto parts of the eye to permit the ophthalmologist to examine the structures at the front of the eye, including the cornea, iris, and lens. Often fluorescein staining is used to help detect foreign bodies or an infected or injured area of the eye.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "fluorescein staining",
+    "pronunciation": "flew-oh-RES-ee-in",
+    "definition": "The application of fluorescent dye to the surface of the eye via eye drops or a strip applicator. The dye causes a corneal abrasion to temporarily appear bright green.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "PERRLA",
+    "pronunciation": "",
+    "definition": "An acronym meaning Pupils are Equal, Round, Reactive to Light and Accommodation. A diagnostic observation; any abnormality could indicate a head injury or damage to the brain.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "orbitotomy",
+    "pronunciation": "or-bih-TOT-oh-mee",
+    "definition": "A surgical incision into the orbit. Performed for biopsy, abscess drainage, or removal of a tumor or foreign object.",
+    "breakdown_text": "orbit: bony socket ; -otomy: surgical incision"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "anti-VEGF injections",
+    "pronunciation": "",
+    "definition": "Vascular Endothelial Growth Factor injections; intravitreal injections used to treat wet macular degeneration by slowing the growth of abnormal blood vessels in the eye.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "corneal transplant",
+    "pronunciation": "",
+    "definition": "Also known as keratoplasty; the surgical replacement of a scarred or diseased cornea with clear corneal tissue from a donor. Currently the most common and successful transplant procedure in the U.S.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "enucleation",
+    "pronunciation": "ee-new-klee-AY-shun",
+    "definition": "The removal of the eyeball, leaving the eye muscles intact.",
+    "breakdown_text": "e-: out of ; nucle: nucleus ; -ation: action"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "ocular prosthesis",
+    "pronunciation": "pros-THEE-sis",
+    "definition": "Also known as an artificial eye; may be fitted to wear over a malformed eye or to replace an eyeball that is either congenitally missing or has been surgically removed. A prosthesis is an artificial substitute for a diseased or missing body part.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "scleral buckle",
+    "pronunciation": "SKLER-al",
+    "definition": "A silicone band or sponge used to repair a detached retina. The detached layers are brought closer together by attaching this band onto the sclera, or outer wall, of the eyeball, creating an indentation or buckle effect inside the eye.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "cataract surgery",
+    "pronunciation": "",
+    "definition": "The general term used to describe the surgical removal of a cataract-clouded lens and its replacement with an artificial intraocular lens.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "phacoemulsification",
+    "pronunciation": "fack-koh-ee-mul-sih-fih-KAY-shun",
+    "definition": "The use of ultrasonic vibration to shatter and remove the lens clouded by a cataract. Performed through a very small opening, and the same opening is used to slide the intraocular lens into place.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "intraocular lens",
+    "pronunciation": "",
+    "definition": "Abbreviated IOL; a surgically implanted replacement for a natural lens that has been removed. There are two types, monofocal and multifocal, which was designed to eliminate the need for additional corrective lenses.",
+    "breakdown_text": "intra-: within ; ocul: eye ; -ar: pertaining to"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "concave lenses",
+    "pronunciation": "",
+    "definition": "Lenses curved inward; used in glasses for myopia, or nearsightedness.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "convex lenses",
+    "pronunciation": "",
+    "definition": "Lenses curved outward; used in glasses for hyperopia (farsightedness).",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "bifocals",
+    "pronunciation": "",
+    "definition": "Corrective lenses with two powers, one above the other, allowing better distance vision when looking up and near vision when looking down.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "trifocals",
+    "pronunciation": "",
+    "definition": "Corrective lenses with three powers.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "contact lenses",
+    "pronunciation": "",
+    "definition": "Refractive lenses that float directly on the tear film in front of the eye. Rigid gas-permeable lenses cover the central part of the cornea, and disposable soft lenses cover the entire cornea. Can be single focus, have multiple refractive powers, or be weighted at the bottom to correct astigmatism.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "LASIK",
+    "pronunciation": "",
+    "definition": "Laser-Assisted in Situ Keratomileusis; used to treat vision conditions, such as myopia, that are caused by the shape of the cornea. A flap is opened in the surface of the cornea, and then a laser is used to change the shape of a deep corneal layer. In situ means in its original place.",
+    "breakdown_text": "kerat/o: cornea ; -mileusis: carving"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "photorefractive keratotomy",
+    "pronunciation": "",
+    "definition": "Abbreviated PRK; a laser eye surgery similar to LASIK, in which the outer layer of the cornea (corneal epithelium) is removed and discarded before a laser is used to change the shape of a deep corneal layer. A new epithelial layer grows back within a few days of surgery.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "laser photocoagulation",
+    "pronunciation": "foh-toh-koh-ag-you-LAY-shun",
+    "definition": "The use of a laser to treat diabetic retinopathy and age-related macular degeneration by sealing leaking or damaged blood vessels. Also used to repair small retinal tears by intentionally forming scar tissue to seal the holes.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "auditory",
+    "pronunciation": "AW-dih-tor-ee",
+    "definition": "Pertaining to the sense of hearing.",
+    "breakdown_text": "audit: hearing or sense of hearing ; -ory: pertaining to"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "acoustic",
+    "pronunciation": "ah-KOOS-tick",
+    "definition": "Pertaining to sound or hearing.",
+    "breakdown_text": "acous: hearing or sound ; -tic: pertaining to"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "AD",
+    "pronunciation": "",
+    "definition": "Right ear (auris dexter).",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "AS",
+    "pronunciation": "",
+    "definition": "Left ear (auris sinister).",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "AU",
+    "pronunciation": "",
+    "definition": "Each ear (auris uterque) or both ears (auris unitas).",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "pinna",
+    "pronunciation": "PIN-nah",
+    "definition": "Also known as the auricle or outer ear; the external portion of the ear. Captures sound waves and transmits them into the external auditory canal.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "external auditory canal",
+    "pronunciation": "",
+    "definition": "Transmits sound waves from the pinna to the tympanic membrane (eardrum) of the middle ear.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "cerumen",
+    "pronunciation": "seh-ROO-men",
+    "definition": "Also known as earwax; secreted by ceruminous glands that line the auditory canal. A sticky yellow-brown substance that traps small insects, dust, debris, and some bacteria to prevent them from entering the middle ear.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "middle ear",
+    "pronunciation": "",
+    "definition": "Located between the outer ear and the inner ear; transmits sound across the space between these two parts.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "tympanic membrane",
+    "pronunciation": "tim-PAN-ick",
+    "definition": "Also known as the eardrum; located between the outer and middle ear. When sound waves reach the eardrum, this membrane transmits the sound by vibrating. The word parts myring/o and tympan/o both mean tympanic membrane.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "mastoid process",
+    "pronunciation": "",
+    "definition": "The temporal bone containing hollow air space that surrounds the middle ear. As used here, a process is a projection on a structure such as a bone.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "auditory ossicles",
+    "pronunciation": "OSS-ih-kulz",
+    "definition": "Three small bones located within the middle ear that transmit the sound waves from the eardrum to the inner ear by vibration: the malleus, incus, and stapes.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "malleus",
+    "pronunciation": "MAL-ee-us",
+    "definition": "Also known as the hammer; one of the auditory ossicles.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "incus",
+    "pronunciation": "ING-kus",
+    "definition": "Also known as the anvil; one of the auditory ossicles.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "stapes",
+    "pronunciation": "STAY-peez",
+    "definition": "Also known as the stirrup; one of the auditory ossicles.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "eustachian tubes",
+    "pronunciation": "you-STAY-shun",
+    "definition": "Also known as the auditory tubes; narrow tubes that lead from the middle ear to the nasal cavity and the throat. Their purpose is to equalize the air pressure within the middle ear with that of the outside atmosphere.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "inner ear",
+    "pronunciation": "",
+    "definition": "Contains the sensory receptors for hearing and balance. Its structures are a maze-like system known as the labyrinth.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "labyrinth",
+    "pronunciation": "LAB-ih-rinth",
+    "definition": "The maze-like system of structures of the inner ear.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "oval window",
+    "pronunciation": "",
+    "definition": "The membrane located under the base of the stapes that separates the middle ear from the inner ear. Vibrations enter the inner ear through this structure.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "cochlea",
+    "pronunciation": "KOCK-lee-ah",
+    "definition": "The snail-shaped structure of the inner ear where sound vibrations are converted into nerve impulses. Cochlea comes from the Greek term for snail.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "organ of Corti",
+    "pronunciation": "",
+    "definition": "Receives the vibrations from the cochlear duct and relays them to the auditory nerve fibers, which transmit the sound impulses to the auditory center of the brain's cerebral cortex, where they are heard and interpreted.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "semicircular canals",
+    "pronunciation": "",
+    "definition": "Three canals connected to the cochlea by the vestibule that contain the liquid endolymph and sensitive hair cells. The bending of these hair cells in response to the movements of the head sets up impulses in nerve fibers to help maintain equilibrium. Equilibrium is the state of balance.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "acoustic nerves",
+    "pronunciation": "",
+    "definition": "Cranial nerve VIII, also called auditory nerves; transmit information to the brain. Made up of cochlear nerves that transmit sound for hearing and vestibular nerves that sense balance and head position.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "air conduction",
+    "pronunciation": "",
+    "definition": "Abbreviated AC; the process by which sound waves enter the ear through the pinna and then travel down the external auditory canal until they strike the tympanic membrane.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "bone conduction",
+    "pronunciation": "",
+    "definition": "Abbreviated BC; occurs as the eardrum vibrates and causes the auditory ossicles of the middle ear to vibrate. The vibration of these bones transmits the sound waves through the middle ear to the oval window of the inner ear.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "sensorineural conduction",
+    "pronunciation": "sen-suh-ree-NOOR-al",
+    "definition": "Occurs when sound vibrations reach the inner ear. The structures of the inner ear receive the sound waves and relay them to the auditory nerve for transmission to the brain.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "audiologist",
+    "pronunciation": "aw-dee-OL-oh-jist",
+    "definition": "A professional who specializes in the measurement of hearing function and in the rehabilitation of persons with hearing impairments.",
+    "breakdown_text": "audi: hearing ; -ologist: specialist"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "speech-language pathologist",
+    "pronunciation": "",
+    "definition": "Abbreviated SLP; a practitioner who can be involved in numerous medical areas including audiology. Helps patients who have problems related to swallowing, speech, and communication disorders.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "impacted cerumen",
+    "pronunciation": "",
+    "definition": "An accumulation of earwax that forms a solid mass by adhering to the walls of the external auditory canal. Impacted means lodged or wedged firmly in place. Can cause otalgia, tinnitus, and temporary hearing loss.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "otalgia",
+    "pronunciation": "oh-TAL-gee-ah",
+    "definition": "Also known as an earache; pain in the ear.",
+    "breakdown_text": "ot: ear ; -algia: pain"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "otitis",
+    "pronunciation": "oh-TYE-tis",
+    "definition": "Any inflammation of the ear. The second part of the term gives the location of the inflammation.",
+    "breakdown_text": "ot: ear ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "otitis externa",
+    "pronunciation": "",
+    "definition": "An inflammation of the external auditory canal, also known as swimmer's ear.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "otorrhagia",
+    "pronunciation": "oh-toh-RAY-jee-ah",
+    "definition": "Bleeding from the ear.",
+    "breakdown_text": "ot/o: ear ; -rrhagia: bleeding"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "barotrauma",
+    "pronunciation": "bar-oh-TRAW-mah",
+    "definition": "A pressure-related ear condition. Can be caused by pressure changes when flying, driving in the mountains, scuba diving, or when the eustachian tube is blocked.",
+    "breakdown_text": "bar/o: pressure ; -trauma: injury"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "cholesteatoma",
+    "pronunciation": "koh-les-tee-ah-TOH-mah",
+    "definition": "Also known as a pearly tumor; a destructive epidermal cyst in the middle ear and/or the mastoid process made up of epithelial cells and cholesterol. Can be congenital or a serious complication of chronic otitis media.",
+    "breakdown_text": "cholesteat: cholesterol ; -oma: tumor"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "mastoiditis",
+    "pronunciation": "mas-toy-DYE-tis",
+    "definition": "An inflammation of any part of the mastoid bone. May develop when acute otitis media that cannot be controlled with antibiotics spreads to the mastoid process.",
+    "breakdown_text": "mastoid: mastoid process ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "acute otitis media",
+    "pronunciation": "",
+    "definition": "Usually associated with an upper respiratory infection and most commonly seen in young children. Can lead to a ruptured eardrum due to the buildup of pus or fluid in the middle ear.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "serous otitis media",
+    "pronunciation": "",
+    "definition": "A fluid buildup in the middle ear without symptoms of an infection. Can follow acute otitis media or be caused by dysfunction of the eustachian tube. More common in infants and small children.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "labyrinthitis",
+    "pronunciation": "lab-ih-rin-THIGH-tis",
+    "definition": "An inflammation of the labyrinth that can result in vertigo and deafness.",
+    "breakdown_text": "labyrinth: labyrinth ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "benign paroxysmal positional vertigo",
+    "pronunciation": "",
+    "definition": "Abbreviated BPPV; a common cause of vertigo that occurs when there is a shift in the location of small crystals in the semicircular canals. BPPV, labyrinthitis, and Ménière's disease are examples of vestibular disorders, which are disorders of the body's balance-controlling vestibular system in the inner ear.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "Ménière's disease",
+    "pronunciation": "men-YEHRS",
+    "definition": "A relatively rare chronic disorder in which the amount of fluid in the inner ear increases intermittently, producing attacks of vertigo, a fluctuating hearing loss (usually in one ear), and tinnitus.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "acoustic neuroma",
+    "pronunciation": "new-ROH-mah",
+    "definition": "A benign brain tumor that develops adjacent to the cranial nerve running from the brain to the inner ear. One of the most common types of brain tumors and can cause hearing loss, vertigo, and tinnitus.",
+    "breakdown_text": "acous: hearing ; -tic: pertaining to ; neur: nerve ; -oma: tumor"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "deafness",
+    "pronunciation": "",
+    "definition": "The complete or partial loss of the ability to hear. Can range from the inability to hear sounds of a certain pitch or intensity, to a complete loss of hearing.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "conductive hearing loss",
+    "pronunciation": "",
+    "definition": "Occurs when sound waves are prevented from passing from the air to the fluid-filled inner ear. Causes include a buildup of earwax, infection, fluid in the middle ear, a punctured eardrum, otosclerosis, and scarring. Can often be treated.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "noise-induced hearing loss",
+    "pronunciation": "",
+    "definition": "Abbreviated NIHL; a type of nerve deafness caused by repeated exposure to extremely loud noises such as a gunshot or to moderately loud noises that continue for long periods of time. These noises can permanently damage the hair cells in the cochlea. Any sound above 85 decibels can cause some hearing loss if the exposure is prolonged.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "decibel",
+    "pronunciation": "DES-ih-bell",
+    "definition": "Abbreviated dB; commonly used as the measurement of the loudness of sound.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "audiological evaluation",
+    "pronunciation": "",
+    "definition": "Also known as speech audiometry; the measurement of the ability to hear and understand speech sounds based on their pitch and loudness. Best achieved in a sound-treated room with earphones. The resulting graph is an audiogram.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "audiometer",
+    "pronunciation": "",
+    "definition": "An electronic device that produces acoustic stimuli of a set frequency and intensity.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "hertz",
+    "pronunciation": "",
+    "definition": "Abbreviated Hz; a measure of sound frequency that determines how high or low a pitch is. The singular and plural of hertz are the same.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "otoscope",
+    "pronunciation": "",
+    "definition": "An instrument used to examine the external ear canal. A pneumatic otoscope has the attachment of a bulb filled with air; during an exam the bulb is pressed to visualize whether or not the tympanic membrane is immobile, indicating possible otitis media.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "monaural testing",
+    "pronunciation": "mon-AW-rahl",
+    "definition": "Testing that involves one ear. Compare with binaural testing.",
+    "breakdown_text": "mon-: one ; aur: hearing ; -al: pertaining to"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "binaural testing",
+    "pronunciation": "bye-NAW-rul or bin-AW-rahl",
+    "definition": "Testing that involves both ears. Compare with monaural testing.",
+    "breakdown_text": "bin-: two ; aur: hearing ; -al: pertaining to"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "acoustic reflectometry",
+    "pronunciation": "",
+    "definition": "Abbreviated AR; measures how much sound is reflected back from the eardrum, a way to test how much fluid is in the middle ear to diagnose otitis media.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "Weber and Rinne tests",
+    "pronunciation": "",
+    "definition": "Tests that use a tuning fork to distinguish between conductive and sensorineural hearing losses. The patient's perception of the tuning fork's vibrations helps evaluate his or her hearing ability by air conduction compared to that of bone conduction.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "otoplasty",
+    "pronunciation": "OH-toh-plas-tee",
+    "definition": "The surgical repair, restoration, or alteration of the pinna of the ear. Sometimes done as a cosmetic surgery called ear pinning to bring protruding ears closer to the head.",
+    "breakdown_text": "ot/o: ear ; -plasty: surgical repair"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "ear tubes",
+    "pronunciation": "",
+    "definition": "Formally known as tympanostomy tubes; tiny ventilating tubes placed through the eardrum of a child prone to repeated ear infections to provide ongoing drainage for fluids and to relieve pressure. Fluid buildup can lead to hearing problems and speech delays.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "tympanoplasty",
+    "pronunciation": "tim-pah-noh-PLAS-tee",
+    "definition": "The surgical correction of a hole in the eardrum, either to cure chronic inflammation or to restore function.",
+    "breakdown_text": "tympan/o: eardrum ; -plasty: a surgical repair"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "vestibular rehabilitation therapy",
+    "pronunciation": "ves-TIB-you-lar",
+    "definition": "Abbreviated VRT; a form of physical therapy designed to treat a wide variety of balance disorders, including dizziness, the majority of which are caused by problems in the inner ear and vestibular nerve.",
+    "breakdown_text": "vestibul: an entrance ; -ar: pertaining to"
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "assistive listening device",
+    "pronunciation": "",
+    "definition": "Abbreviated ALD; transmits, processes, or amplifies sound and can be used with or without a hearing aid. Can be helpful in eliminating distracting background noise. The Americans with Disabilities Act (ADA) requires that many public places provide assisted listening devices.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "hearing aids",
+    "pronunciation": "",
+    "definition": "Electronic devices that are worn to correct a hearing loss. Worn behind the ear (BTE), in the ear (ITE), in the canal (ITC), or completely in the canal (CIC).",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "analog hearing aid",
+    "pronunciation": "",
+    "definition": "An external electronic device that uses a microphone to detect and amplify sounds.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "digital hearing aid",
+    "pronunciation": "",
+    "definition": "Uses a computer chip to convert the incoming sound into a code that can be filtered before being amplified. Designed to best compensate for a specific type of hearing loss; some are programmable from a smart phone or tablet.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 11,
+    "system_group": "Eye and Ears",
+    "term": "bone-anchored hearing aid",
+    "pronunciation": "",
+    "definition": "Abbreviated BAHA; surgically implanted behind the ear, and uses bone conduction from an external sound processor to transmit sounds to the cochlea.",
+    "breakdown_text": ""
+  }
+]

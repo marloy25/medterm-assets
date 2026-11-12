@@ -1,0 +1,1826 @@
+[
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Abdominocentesis",
+    "pronunciation": "/ab-dom-ih-noh-sen-TEE-sis/",
+    "definition": "Surgical puncture of the abdominal cavity to remove fluid.",
+    "breakdown_text": "abdomin/o: abdomen ; -centesis: a surgical puncture to remove fluid"
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Acronym",
+    "pronunciation": "/ACK-roh-nim/",
+    "definition": "A word formed from the initial letter of the major parts of a compound term.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Acute",
+    "pronunciation": "",
+    "definition": "A condition that has a rapid onset, a severe course, and a relatively short duration.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Angiography",
+    "pronunciation": "/an-jee-OG-rah-fee/",
+    "definition": "Process of producing an x-ray, or radiographic study, of the blood vessels after the injection of a contrast medium.",
+    "breakdown_text": "angi/o: blood vessel ; -graphy: the process of recording"
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Appendectomy",
+    "pronunciation": "/ap-en-DECK-toh-mee/",
+    "definition": "Surgical removal of the appendix.",
+    "breakdown_text": "append: appendix ; -ectomy: surgical removal"
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Arteriosclerosis",
+    "pronunciation": "/ar-tee-ree-oh-skleh-ROH-sis/",
+    "definition": "Abnormal hardening of the walls of an artery or arteries.",
+    "breakdown_text": "arteri/o: artery ; -sclerosis: abnormal hardening"
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Arthralgia",
+    "pronunciation": "/ar-THRAL-jee-ah/",
+    "definition": "Pain in a joint or joints.",
+    "breakdown_text": "arthr: joint ; -algia: pain"
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Colostomy",
+    "pronunciation": "/koh-LAHS-toh-mee/",
+    "definition": "Surgical creation of an artificial excretory opening between the colon and the body surface.",
+    "breakdown_text": "col: colon ; -ostomy: the surgical creation of an artificial opening"
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Cyanosis",
+    "pronunciation": "/sigh-ah-NOH-sis/",
+    "definition": "Blue discoloration of the skin caused by lack of adequate oxygen in the blood.",
+    "breakdown_text": "cyan: blue ; -osis: abnormal condition or disease"
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Dermatologist",
+    "pronunciation": "/der-mah-TOL-oh-jist/",
+    "definition": "A physician who specializes in diagnosing and treating disorders of the skin.",
+    "breakdown_text": "dermat: skin ; -ologist: specialist"
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Diagnosis",
+    "pronunciation": "/dye-ag-NOH-sis/",
+    "definition": "The identification of a disease.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Diarrhea",
+    "pronunciation": "/dye-ah-REE-ah/",
+    "definition": "The frequent flow of loose or watery stools.",
+    "breakdown_text": "dia-: through ; -rrhea: flow or discharge"
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Edema",
+    "pronunciation": "/eh-DEE-mah/",
+    "definition": "Swelling caused by an abnormal accumulation of fluid in cells, tissues, or cavities of the body.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Endarterial",
+    "pronunciation": "/end-ar-TEE-ree-al/",
+    "definition": "Pertaining to the interior or lining of an artery.",
+    "breakdown_text": "end-: within ; arteri: artery ; -al: pertaining to"
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Eponym",
+    "pronunciation": "/EP-oh-nim/",
+    "definition": "A disease, structure, operation, or procedure named for the person who discovered or described it first.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Erythrocyte",
+    "pronunciation": "/eh-RITH-roh-sight/",
+    "definition": "A mature red blood cell.",
+    "breakdown_text": "erythr/o: red ; -cyte: cell"
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Fissure",
+    "pronunciation": "/FISH-ur/",
+    "definition": "A groove or crack-like sore of the skin; also normal folds in the contours of the brain.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Fistula",
+    "pronunciation": "/FIS-chuh-lah/",
+    "definition": "An abnormal passage, usually between two internal organs or leading from an organ to the surface of the body.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Gastralgia",
+    "pronunciation": "/gas-TRAL-jee-ah/",
+    "definition": "Pain in the stomach.",
+    "breakdown_text": "gastr: stomach ; -algia: pain"
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Gastritis",
+    "pronunciation": "/gas-TRY-tis/",
+    "definition": "Inflammation of the stomach lining.",
+    "breakdown_text": "gastr: stomach ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Gastroenteritis",
+    "pronunciation": "/gas-troh-en-ter-EYE-tis/",
+    "definition": "Inflammation of the stomach and small intestine.",
+    "breakdown_text": "gastr/o: stomach ; enter: small intestine ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Gastrosis",
+    "pronunciation": "/gas-TROH-sis/",
+    "definition": "Any disease of the stomach.",
+    "breakdown_text": "gastr: stomach ; -osis: abnormal condition or disease"
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Hemorrhage",
+    "pronunciation": "/HEM-or-idj/",
+    "definition": "The loss of a large amount of blood in a short time.",
+    "breakdown_text": "hem/o: blood ; -rrhage: abnormal excessive fluid discharge"
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Hepatomegaly",
+    "pronunciation": "/hep-ah-toh-MEG-ah-lee/",
+    "definition": "Abnormal enlargement of the liver.",
+    "breakdown_text": "hepat/o: liver ; -megaly: enlargement"
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Hypertension",
+    "pronunciation": "/high-per-TEN-shun/",
+    "definition": "Higher-than-normal blood pressure.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Hypotension",
+    "pronunciation": "/high-poh-TEN-shun/",
+    "definition": "Lower-than-normal blood pressure.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Infection",
+    "pronunciation": "/in-FECK-shun/",
+    "definition": "Invasion of the body by a pathogenic organism.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Inflammation",
+    "pronunciation": "/in-flah-MAY-shun/",
+    "definition": "A localized response to an injury or to the destruction of tissues.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Interstitial",
+    "pronunciation": "/in-ter-STISH-al/",
+    "definition": "Between, but not within, the parts of a tissue.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Intramuscular",
+    "pronunciation": "/in-trah-MUS-kyou-lar/",
+    "definition": "Within the muscle.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Laceration",
+    "pronunciation": "/lass-er-AY-shun/",
+    "definition": "A torn or jagged wound or an accidental cut.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Lesion",
+    "pronunciation": "/LEE-zhun/",
+    "definition": "A pathologic change of tissues due to disease or injury.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Malaise",
+    "pronunciation": "/mah-LAYZ/",
+    "definition": "A feeling of general discomfort or uneasiness that is often the first indication of an infection or other disease.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Mycosis",
+    "pronunciation": "/my-KOH-sis/",
+    "definition": "Any abnormal condition or disease caused by a fungus.",
+    "breakdown_text": "myc: fungus ; -osis: abnormal condition or disease"
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Myelopathy",
+    "pronunciation": "/my-eh-LOP-ah-thee/",
+    "definition": "Any injury, degeneration or disease in the spinal cord.",
+    "breakdown_text": "myel/o: spinal cord or bone marrow ; -pathy: disease"
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Myopathy",
+    "pronunciation": "/my-OP-ah-thee/",
+    "definition": "Any pathologic change or disease of muscle tissue.",
+    "breakdown_text": "my/o: muscle ; -pathy: disease"
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Natal",
+    "pronunciation": "/NAY-tal/",
+    "definition": "Pertaining to birth.",
+    "breakdown_text": "nat: birth ; -al: pertaining to"
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Neonatology",
+    "pronunciation": "/nee-oh-nay-TOL-oh-jee/",
+    "definition": "The study of disorders of the newborn.",
+    "breakdown_text": "neo-: new ; nat: birth ; -ology: study of"
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Neurorrhaphy",
+    "pronunciation": "/new-ROR-ah-fee/",
+    "definition": "Suturing together the ends of a severed nerve.",
+    "breakdown_text": "neur/o: nerve ; -rrhaphy: surgical suturing"
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Otorhinolaryngology",
+    "pronunciation": "/oh-toh-rye-noh-lar-in-GOL-oh-jee/",
+    "definition": "Study of the ears, nose, and throat.",
+    "breakdown_text": "ot/o: ear ; rhin/o: nose ; laryng: throat ; -ology: study of"
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Palpation",
+    "pronunciation": "/pal-PAY-shun/",
+    "definition": "An examination technique in which the examiner’s hands are used to feel the texture, size, consistency, and location of certain body parts.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Palpitation",
+    "pronunciation": "/pal-pih-TAY-shun/",
+    "definition": "A pounding or racing heart.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Pathology",
+    "pronunciation": "/pah-THOL-oh-jee/",
+    "definition": "The study of all aspects of diseases.",
+    "breakdown_text": "path: disease ; -ology: study of"
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Phalanges",
+    "pronunciation": "/fah-LAN-jeez/",
+    "definition": "The bones of the fingers and toes (singular, phalanx).",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Poliomyelitis",
+    "pronunciation": "/poh-lee-oh-my-eh-LYE-tis/",
+    "definition": "A viral infection of the gray nerve tissue of the spinal cord.",
+    "breakdown_text": "poli/o: gray ; myel: spinal cord ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Prognosis",
+    "pronunciation": "/prog-NOH-sis/",
+    "definition": "A prediction of the probable course and outcome of a disease.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Pyoderma",
+    "pronunciation": "/pye-oh-DER-mah/",
+    "definition": "Any acute, inflammatory, pus-forming bacterial skin infection such as impetigo.",
+    "breakdown_text": "py/o: pus ; -derma: skin"
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Pyrosis",
+    "pronunciation": "/pye-ROH-sis/",
+    "definition": "Discomfort due to the regurgitation of stomach acid upward into the esophagus.",
+    "breakdown_text": "pyr: fever or fire ; -osis: abnormal condition or disease"
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Remission",
+    "pronunciation": "",
+    "definition": "The temporary, partial, or complete disappearance of the symptoms of a disease without having achieved a cure.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Sign",
+    "pronunciation": "",
+    "definition": "Objective evidence of disease, such as a fever.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Supination",
+    "pronunciation": "/soo-pih-NAY-shun/",
+    "definition": "The act of rotating the arm so that the palm of the hand is forward or upward.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Suppuration",
+    "pronunciation": "/sup-you-RAY-shun/",
+    "definition": "The formation of pus.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Supracostal",
+    "pronunciation": "/sue-prah-KOS-tal/",
+    "definition": "Above or outside the ribs.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Symptom",
+    "pronunciation": "/SIMP-tum/",
+    "definition": "Subjective evidence of a disease, such as pain or a headache.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Syndrome",
+    "pronunciation": "/SIN-drohm/",
+    "definition": "A set of signs and symptoms that occur together as part of a specific disease process.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Tenorrhaphy",
+    "pronunciation": "/ten-OR-ah-fee/",
+    "definition": "Surgical suturing of a tendon.",
+    "breakdown_text": "ten/o: tendon ; -rrhaphy: surgical suturing"
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Tonsillitis",
+    "pronunciation": "/ton-sih-LYE-tis/",
+    "definition": "Inflammation of the tonsils.",
+    "breakdown_text": "tonsill: tonsils ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Trauma",
+    "pronunciation": "/TRAW-mah/",
+    "definition": "Wound or injury.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Triage",
+    "pronunciation": "/tree-AHZH/",
+    "definition": "The medical screening of patients to determine their relative priority of need and the proper place of treatment.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Viral",
+    "pronunciation": "/VYE-ral/",
+    "definition": "Pertaining to a virus.",
+    "breakdown_text": "vir: virus or poison ; -al: pertaining to"
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Leukocyte",
+    "pronunciation": "/LOO-koh-sight/",
+    "definition": "A white blood cell.",
+    "breakdown_text": "leuk/o: white ; -cyte: cell"
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Melanosis",
+    "pronunciation": "/mel-ah-NOH-sis/",
+    "definition": "Any condition of unusual deposits of black pigment in body tissues or organs.",
+    "breakdown_text": "melan: black ; -osis: abnormal condition or disease"
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Neuroplasty",
+    "pronunciation": "/NEW-roh-plas-tee/",
+    "definition": "The surgical repair of a nerve.",
+    "breakdown_text": "neur/o: nerve ; -plasty: surgical repair"
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Tonsillectomy",
+    "pronunciation": "/ton-sih-LECK-toh-mee/",
+    "definition": "The surgical removal of the tonsils.",
+    "breakdown_text": "tonsill: tonsils ; -ectomy: surgical removal"
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Cranium",
+    "pronunciation": "/KRAY-nee-um/",
+    "definition": "The portion of the skull that encloses the brain.",
+    "breakdown_text": "crani: skull ; -um: noun ending"
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Cardiac",
+    "pronunciation": "/KAR-dee-ack/",
+    "definition": "Pertaining to the heart.",
+    "breakdown_text": "cardi: heart ; -ac: pertaining to"
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Gastrodynia",
+    "pronunciation": "/gas-troh-DIN-ee-ah/",
+    "definition": "Pain in the stomach. It has the same meaning as gastralgia but is not used as commonly.",
+    "breakdown_text": "gastr/o: stomach ; -dynia: pain"
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Arteriomalacia",
+    "pronunciation": "/ar-tee-ree-oh-mah-LAY-shee-ah/",
+    "definition": "The abnormal softening of the walls of an artery or arteries.",
+    "breakdown_text": "arteri/o: artery ; -malacia: abnormal softening"
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Arterionecrosis",
+    "pronunciation": "/ar-tee-ree-oh-neh-KROH-sis/",
+    "definition": "The tissue death of an artery or arteries.",
+    "breakdown_text": "arteri/o: artery ; -necrosis: tissue death"
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Arteriostenosis",
+    "pronunciation": "/ar-tee-ree-oh-steh-NOH-sis/",
+    "definition": "The abnormal narrowing of an artery or arteries.",
+    "breakdown_text": "arteri/o: artery ; -stenosis: abnormal narrowing"
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Angiogram",
+    "pronunciation": "/AN-jee-oh-gram/",
+    "definition": "The resulting film that is produced by angiography.",
+    "breakdown_text": "angi/o: blood vessel ; -gram: a picture or record"
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Myoplasty",
+    "pronunciation": "/MY-oh-plas-tee/",
+    "definition": "The surgical repair of a muscle.",
+    "breakdown_text": "my/o: muscle ; -plasty: surgical repair"
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Arthroscopy",
+    "pronunciation": "/ar-THROS-koh-pee/",
+    "definition": "The visual examination of the internal structure of a joint.",
+    "breakdown_text": "arthr/o: joint ; -scopy: visual examination"
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Prenatal",
+    "pronunciation": "/pre-NAY-tal/",
+    "definition": "The time and events before birth.",
+    "breakdown_text": "pre-: before ; nat: birth ; -al: pertaining to"
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Perinatal",
+    "pronunciation": "/pehr-ih-NAY-tal/",
+    "definition": "Refers to the time and events surrounding birth. This is the time just before, during, and just after birth.",
+    "breakdown_text": "peri-: surrounding ; nat: birth ; -al: pertaining to"
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Postnatal",
+    "pronunciation": "/pohst-NAY-tal/",
+    "definition": "Refers to the time and events after birth.",
+    "breakdown_text": "post-: after ; nat: birth ; -al: pertaining to"
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Otolaryngology",
+    "pronunciation": "/oh-toh-lar-in-GOL-oh-jee/",
+    "definition": "The study of the ears and larynx or throat. A shortened version of otorhinolaryngology.",
+    "breakdown_text": "ot/o: ears ; laryng: larynx ; -ology: study of"
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Lithotomy",
+    "pronunciation": "/lih-THOT-oh-mee/",
+    "definition": "A surgical incision for the removal of a stone. Also the name of an examination position in which a female patient is lying on her back with her feet and legs raised and supported in stirrups.",
+    "breakdown_text": "lith: stone ; -otomy: a surgical incision"
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Appendicitis",
+    "pronunciation": "/ah-pen-dih-SIGH-tis/",
+    "definition": "An inflammation of the appendix.",
+    "breakdown_text": "appendic: appendix ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Atheroma",
+    "pronunciation": "/ath-er-OH-mah/",
+    "definition": "A fatty deposit within the wall of an artery.",
+    "breakdown_text": "ather: fatty substance ; -oma: tumor"
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Pyelotomy",
+    "pronunciation": "/pye-eh-LOT-oh-mee/",
+    "definition": "A surgical incision into the renal pelvis to remove obstructions such as a kidney stone.",
+    "breakdown_text": "pyel: the renal pelvis ; -otomy: surgical incision"
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Pyelitis",
+    "pronunciation": "/pye-eh-LYE-tis/",
+    "definition": "An inflammation of the renal pelvis.",
+    "breakdown_text": "pyel: renal pelvis ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Ileum",
+    "pronunciation": "/ILL-ee-um/",
+    "definition": "The last and longest portion of the small intestine. Memory aid: ileum is spelled with an e as in intestine.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Ilium",
+    "pronunciation": "/ILL-ee-um/",
+    "definition": "Part of the hip bone. Memory aid: ilium is spelled with an i as in hip.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Meningitis",
+    "pronunciation": "",
+    "definition": "Inflammation of the meninges; the cause of the inflammation is an infection.",
+    "breakdown_text": "mening: the meninges ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Tendinitis",
+    "pronunciation": "",
+    "definition": "Inflammation of the tendon, usually caused by overuse rather than infection.",
+    "breakdown_text": "tendin: tendon ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Exudate",
+    "pronunciation": "/ECKS-you-dayt/",
+    "definition": "Any fluid, such as pus, that leaks out of an infected wound.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Mucous",
+    "pronunciation": "/MYOU-kus/",
+    "definition": "The adjective that describes the specialized membranes that line the body cavities.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Mucus",
+    "pronunciation": "/MYOU-kus/",
+    "definition": "The noun that refers to the fluid secreted by the mucous membranes. It is pronounced the same way as mucous.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Virile",
+    "pronunciation": "/VIR-ill/",
+    "definition": "Having the nature, properties, or qualities of an adult male.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Chronic",
+    "pronunciation": "",
+    "definition": "A condition of long duration. Although such diseases can be controlled, they are rarely cured.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Disease",
+    "pronunciation": "",
+    "definition": "A condition in which one or more body parts are not functioning normally.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Differential Diagnosis (D/DX)",
+    "pronunciation": "",
+    "definition": "Also known as a rule out (R/O). An attempt to determine which one of several possible diseases is causing the signs and symptoms that are present.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Abnormal",
+    "pronunciation": "",
+    "definition": "Not normal or away from normal.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Addiction",
+    "pronunciation": "",
+    "definition": "Being drawn toward or having a strong dependence on a drug or substance.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Dysfunctional",
+    "pronunciation": "",
+    "definition": "An organ or body part that is not working properly.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Eupnea",
+    "pronunciation": "",
+    "definition": "Easy or normal breathing.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Subcostal",
+    "pronunciation": "",
+    "definition": "Below a rib or ribs.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Word Root",
+    "pronunciation": "",
+    "definition": "The word part that contains the basic meaning of the term and usually, but not always, indicates the part of the body involved. A word root cannot stand alone.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Combining Form",
+    "pronunciation": "",
+    "definition": "A word root that has a vowel, usually the letter “o,” put on the end before the addition of another word root or suffix.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Suffix",
+    "pronunciation": "",
+    "definition": "The word part attached at the end of a word that usually, but not always, indicates the procedure, condition, disorder, or disease.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Prefix",
+    "pronunciation": "",
+    "definition": "The word part attached at the beginning of a word that usually, but not always, indicates location, time, number, or status.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Diagnose",
+    "pronunciation": "",
+    "definition": "The process of reaching a diagnosis.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Objective",
+    "pronunciation": "",
+    "definition": "Can be evaluated or measured by the patient or others.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Subjective",
+    "pronunciation": "",
+    "definition": "Can be evaluated or measured only by the patient.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Pathogenic",
+    "pronunciation": "",
+    "definition": "Disease-producing.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Localized",
+    "pronunciation": "",
+    "definition": "Near the point of entry (describes an infection that stays in one area).",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Systemic",
+    "pronunciation": "",
+    "definition": "Affecting the entire body.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Erythema",
+    "pronunciation": "",
+    "definition": "Redness; one of the four key indicators of inflammation.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Hyperthermia",
+    "pronunciation": "",
+    "definition": "Heat; one of the four key indicators of inflammation.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "Laser",
+    "pronunciation": "",
+    "definition": "An acronym that stands for light amplification by stimulated emission of radiation.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "ENT",
+    "pronunciation": "",
+    "definition": "Ears, nose, and throat; the frequently used short form for the specialty of otorhinolaryngology.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "-algia",
+    "pronunciation": "",
+    "definition": "Pain and suffering.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "-dynia",
+    "pronunciation": "",
+    "definition": "Pain.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "-ectomy",
+    "pronunciation": "",
+    "definition": "Surgical removal.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "-gram",
+    "pronunciation": "",
+    "definition": "A picture or record.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "-graphy",
+    "pronunciation": "",
+    "definition": "The process of producing a picture or record.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "-itis",
+    "pronunciation": "",
+    "definition": "Inflammation.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "-megaly",
+    "pronunciation": "",
+    "definition": "Enlargement.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "-malacia",
+    "pronunciation": "",
+    "definition": "Abnormal softening. It is the opposite of -sclerosis.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "-necrosis",
+    "pronunciation": "",
+    "definition": "Tissue death.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "-sclerosis",
+    "pronunciation": "",
+    "definition": "Abnormal hardening. It is the opposite of -malacia.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "-stenosis",
+    "pronunciation": "",
+    "definition": "Abnormal narrowing.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "-centesis",
+    "pronunciation": "",
+    "definition": "A surgical puncture to remove fluid for diagnostic purposes or to remove excess fluid.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "-plasty",
+    "pronunciation": "",
+    "definition": "Surgical repair.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "-scopy",
+    "pronunciation": "",
+    "definition": "Visual examination.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "-rrhage",
+    "pronunciation": "",
+    "definition": "Bleeding; most often used to describe sudden, severe bleeding.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "-rrhagia",
+    "pronunciation": "",
+    "definition": "Bleeding; most often used to describe sudden, severe bleeding.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "-rrhaphy",
+    "pronunciation": "",
+    "definition": "Surgical suturing to close a wound; includes the use of sutures, staples, or surgical glue.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "-rrhea",
+    "pronunciation": "",
+    "definition": "Flow or discharge; refers to the flow of most body fluids.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "-osis",
+    "pronunciation": "",
+    "definition": "Abnormal condition or disease.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "-ostomy",
+    "pronunciation": "",
+    "definition": "The surgical creation of an artificial opening to the body surface.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "-otomy",
+    "pronunciation": "",
+    "definition": "Cutting or a surgical incision.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "-ologist",
+    "pronunciation": "",
+    "definition": "Specialist.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "-ology",
+    "pronunciation": "",
+    "definition": "The study of.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "-pathy",
+    "pronunciation": "",
+    "definition": "Disease.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "-oma",
+    "pronunciation": "",
+    "definition": "Tumor.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "-cyte",
+    "pronunciation": "",
+    "definition": "Cell.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "-derma",
+    "pronunciation": "",
+    "definition": "Skin.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "-a",
+    "pronunciation": "",
+    "definition": "A suffix commonly used as a noun ending.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "-e",
+    "pronunciation": "",
+    "definition": "A suffix commonly used as a noun ending.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "-um",
+    "pronunciation": "",
+    "definition": "A suffix commonly used as a noun ending.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "-us",
+    "pronunciation": "",
+    "definition": "A suffix commonly used as a noun ending.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "-y",
+    "pronunciation": "",
+    "definition": "A suffix commonly used as a noun ending.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "-ac",
+    "pronunciation": "",
+    "definition": "Pertaining to.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "-al",
+    "pronunciation": "",
+    "definition": "Pertaining to.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "-an",
+    "pronunciation": "",
+    "definition": "Pertaining to.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "-ar",
+    "pronunciation": "",
+    "definition": "Pertaining to.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "-ary",
+    "pronunciation": "",
+    "definition": "Pertaining to.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "-eal",
+    "pronunciation": "",
+    "definition": "Pertaining to.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "-ical",
+    "pronunciation": "",
+    "definition": "Pertaining to.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "-ial",
+    "pronunciation": "",
+    "definition": "Pertaining to.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "-ic",
+    "pronunciation": "",
+    "definition": "Pertaining to.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "-ine",
+    "pronunciation": "",
+    "definition": "Pertaining to.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "-ior",
+    "pronunciation": "",
+    "definition": "Pertaining to.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "-ory",
+    "pronunciation": "",
+    "definition": "Pertaining to.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "-ous",
+    "pronunciation": "",
+    "definition": "Pertaining to.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "-tic",
+    "pronunciation": "",
+    "definition": "Pertaining to.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "-ago",
+    "pronunciation": "",
+    "definition": "Abnormal condition.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "-esis",
+    "pronunciation": "",
+    "definition": "Abnormal condition.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "-ia",
+    "pronunciation": "",
+    "definition": "Abnormal condition.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "-iasis",
+    "pronunciation": "",
+    "definition": "Abnormal condition.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "-ion",
+    "pronunciation": "",
+    "definition": "Abnormal condition.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "-ism",
+    "pronunciation": "",
+    "definition": "Abnormal condition.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "hyper-",
+    "pronunciation": "",
+    "definition": "Excessive or increased.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "hypo-",
+    "pronunciation": "",
+    "definition": "Deficient or decreased.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "pre-",
+    "pronunciation": "",
+    "definition": "Before.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "post-",
+    "pronunciation": "",
+    "definition": "After, behind.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "peri-",
+    "pronunciation": "",
+    "definition": "Surrounding.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "ab-",
+    "pronunciation": "",
+    "definition": "Away from, negative, absent.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "ad-",
+    "pronunciation": "",
+    "definition": "Toward, to, in the direction of.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "dextro-",
+    "pronunciation": "",
+    "definition": "Right side.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "sinistro-",
+    "pronunciation": "",
+    "definition": "Left side.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "ex-",
+    "pronunciation": "",
+    "definition": "Out of, outside, away from.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "in-",
+    "pronunciation": "",
+    "definition": "In, into, not, without.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "macro-",
+    "pronunciation": "",
+    "definition": "Large, abnormal size, or long.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "micro-",
+    "pronunciation": "",
+    "definition": "Small.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "mega-",
+    "pronunciation": "",
+    "definition": "Large, great.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "megalo-",
+    "pronunciation": "",
+    "definition": "Large, great.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "oligo-",
+    "pronunciation": "",
+    "definition": "Scanty, few.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "dys-",
+    "pronunciation": "",
+    "definition": "Bad, difficult, or painful.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "eu-",
+    "pronunciation": "",
+    "definition": "Good, normal, well, or easy.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "inter-",
+    "pronunciation": "",
+    "definition": "Between or among.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "intra-",
+    "pronunciation": "",
+    "definition": "Within or inside.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "sub-",
+    "pronunciation": "",
+    "definition": "Under, less, or below.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "super-",
+    "pronunciation": "",
+    "definition": "Above or excessive.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "supra-",
+    "pronunciation": "",
+    "definition": "Above or excessive.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "dia-",
+    "pronunciation": "",
+    "definition": "Through.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "end-",
+    "pronunciation": "",
+    "definition": "Within.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "neo-",
+    "pronunciation": "",
+    "definition": "New.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "gastr/o",
+    "pronunciation": "",
+    "definition": "Stomach.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "cyan/o",
+    "pronunciation": "",
+    "definition": "Blue.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "erythr/o",
+    "pronunciation": "",
+    "definition": "Red.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "leuk/o",
+    "pronunciation": "",
+    "definition": "White.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "melan/o",
+    "pronunciation": "",
+    "definition": "Black.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "poli/o",
+    "pronunciation": "",
+    "definition": "Gray.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "myel/o",
+    "pronunciation": "",
+    "definition": "Bone marrow or spinal cord.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "enter",
+    "pronunciation": "",
+    "definition": "Small intestine.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "tonsill",
+    "pronunciation": "",
+    "definition": "Tonsils.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "neur/o",
+    "pronunciation": "",
+    "definition": "Nerve.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "crani",
+    "pronunciation": "",
+    "definition": "Skull.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "cardi",
+    "pronunciation": "",
+    "definition": "Heart.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "hepat/o",
+    "pronunciation": "",
+    "definition": "Liver.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "arteri/o",
+    "pronunciation": "",
+    "definition": "Artery.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "abdomin/o",
+    "pronunciation": "",
+    "definition": "Abdomen.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "angi/o",
+    "pronunciation": "",
+    "definition": "Blood vessel.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "my/o",
+    "pronunciation": "",
+    "definition": "Muscle.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "arthr/o",
+    "pronunciation": "",
+    "definition": "Joint.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "hem/o",
+    "pronunciation": "",
+    "definition": "Blood.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "ten/o",
+    "pronunciation": "",
+    "definition": "Tendon.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "nat",
+    "pronunciation": "",
+    "definition": "Birth.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "laryng",
+    "pronunciation": "",
+    "definition": "Larynx or throat.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "rhin/o",
+    "pronunciation": "",
+    "definition": "Nose.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "ot/o",
+    "pronunciation": "",
+    "definition": "Ear.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "lith",
+    "pronunciation": "",
+    "definition": "Stone.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "append",
+    "pronunciation": "",
+    "definition": "Appendix.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "appendic",
+    "pronunciation": "",
+    "definition": "Appendix.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "ather/o",
+    "pronunciation": "",
+    "definition": "Plaque or fatty substance.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "col",
+    "pronunciation": "",
+    "definition": "Colon.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "pyel/o",
+    "pronunciation": "",
+    "definition": "Renal pelvis, which is part of the kidney.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "myc/o",
+    "pronunciation": "",
+    "definition": "Fungus.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "dermat",
+    "pronunciation": "",
+    "definition": "Skin.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "py/o",
+    "pronunciation": "",
+    "definition": "Pus.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "pyr/o",
+    "pronunciation": "",
+    "definition": "Fever or fire.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "vir",
+    "pronunciation": "",
+    "definition": "Virus or poison.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "path",
+    "pronunciation": "",
+    "definition": "Disease.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "mening",
+    "pronunciation": "",
+    "definition": "The meninges.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 1,
+    "system_group": "Introduction",
+    "term": "tendin",
+    "pronunciation": "",
+    "definition": "Tendon.",
+    "breakdown_text": ""
+  }
+]

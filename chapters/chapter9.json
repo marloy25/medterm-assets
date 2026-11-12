@@ -1,0 +1,1866 @@
+[
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "-cele",
+    "pronunciation": "",
+    "definition": "hernia, tumor, swelling",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "cyst/o",
+    "pronunciation": "",
+    "definition": "urinary bladder, cyst, sac of fluid",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "dia-",
+    "pronunciation": "",
+    "definition": "through, between, apart, complete",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "glomerul/o",
+    "pronunciation": "",
+    "definition": "glomerulus",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "hydr/o",
+    "pronunciation": "",
+    "definition": "water",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "lith/o",
+    "pronunciation": "",
+    "definition": "stone, calculus",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "-lysis",
+    "pronunciation": "",
+    "definition": "breakdown, separation, setting free, destruction, loosening",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "nephr/o",
+    "pronunciation": "",
+    "definition": "kidney",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "pyel/o",
+    "pronunciation": "",
+    "definition": "renal pelvis, bowl of kidney",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "-tripsy",
+    "pronunciation": "",
+    "definition": "to crush",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "ur/o",
+    "pronunciation": "",
+    "definition": "urine, urinary tract",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "ureter/o",
+    "pronunciation": "",
+    "definition": "ureter",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "urethr/o",
+    "pronunciation": "",
+    "definition": "urethra",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "-uria",
+    "pronunciation": "",
+    "definition": "urination, urine",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "vesic/o",
+    "pronunciation": "",
+    "definition": "urinary bladder",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "ren/o",
+    "pronunciation": "",
+    "definition": "kidney",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "urin/o",
+    "pronunciation": "",
+    "definition": "urine",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "prostat/o",
+    "pronunciation": "",
+    "definition": "prostate",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "-algia",
+    "pronunciation": "",
+    "definition": "pain",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "-alysis",
+    "pronunciation": "",
+    "definition": "a study of the parts",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "-al",
+    "pronunciation": "",
+    "definition": "pertaining to",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "-ectomy",
+    "pronunciation": "",
+    "definition": "surgical removal",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "-emia",
+    "pronunciation": "",
+    "definition": "blood condition",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "-genic",
+    "pronunciation": "",
+    "definition": "created by",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "-gram",
+    "pronunciation": "",
+    "definition": "a picture or record",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "-graphy",
+    "pronunciation": "",
+    "definition": "the process of creating a picture or record",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "-ic",
+    "pronunciation": "",
+    "definition": "pertaining to",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "-ism",
+    "pronunciation": "",
+    "definition": "condition of",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "-itis",
+    "pronunciation": "",
+    "definition": "inflammation",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "-lith",
+    "pronunciation": "",
+    "definition": "stone",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "-lithiasis",
+    "pronunciation": "",
+    "definition": "presence of stones",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "-ologist",
+    "pronunciation": "",
+    "definition": "specialist",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "-osis",
+    "pronunciation": "",
+    "definition": "abnormal condition or disease",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "-ostomy",
+    "pronunciation": "",
+    "definition": "creating an opening",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "-otomy",
+    "pronunciation": "",
+    "definition": "surgical incision",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "-pathy",
+    "pronunciation": "",
+    "definition": "disease",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "-plasty",
+    "pronunciation": "",
+    "definition": "surgical repair",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "-rrhagia",
+    "pronunciation": "",
+    "definition": "bleeding",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "-rrhaphy",
+    "pronunciation": "",
+    "definition": "surgical suturing",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "-rrhea",
+    "pronunciation": "",
+    "definition": "flow or discharge",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "-scopy",
+    "pronunciation": "",
+    "definition": "visual examination",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "-stasis",
+    "pronunciation": "",
+    "definition": "control",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "-stenosis",
+    "pronunciation": "",
+    "definition": "tightening or narrowing",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "-tic",
+    "pronunciation": "",
+    "definition": "pertaining to",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "-ureter",
+    "pronunciation": "",
+    "definition": "ureter",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "-uresis",
+    "pronunciation": "",
+    "definition": "urination",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "an-",
+    "pronunciation": "",
+    "definition": "without",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "di-",
+    "pronunciation": "",
+    "definition": "through",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "dys-",
+    "pronunciation": "",
+    "definition": "painful",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "ec-",
+    "pronunciation": "",
+    "definition": "out",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "en-",
+    "pronunciation": "",
+    "definition": "into",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "hyper-",
+    "pronunciation": "",
+    "definition": "excessive",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "hypo-",
+    "pronunciation": "",
+    "definition": "deficient or decreased",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "poly-",
+    "pronunciation": "",
+    "definition": "many",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "home/o",
+    "pronunciation": "",
+    "definition": "constant",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "hem/o",
+    "pronunciation": "",
+    "definition": "blood",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "ile",
+    "pronunciation": "",
+    "definition": "ileum or small intestine",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "meat",
+    "pronunciation": "",
+    "definition": "meatus",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "neur/o",
+    "pronunciation": "",
+    "definition": "nerve",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "noct",
+    "pronunciation": "",
+    "definition": "night",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "olig",
+    "pronunciation": "",
+    "definition": "scanty",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "prostat",
+    "pronunciation": "",
+    "definition": "prostate gland",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "protein",
+    "pronunciation": "",
+    "definition": "protein",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "py/o",
+    "pronunciation": "",
+    "definition": "pus",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "top",
+    "pronunciation": "",
+    "definition": "place",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "vagin",
+    "pronunciation": "",
+    "definition": "vagina",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "ablation",
+    "pronunciation": "ab-LAY-shun",
+    "definition": "The term used to describe some types of treatment of prostate cancer. Involves the removal of a body part or the destruction of its function through the use of surgery, hormones, drugs, heat, chemicals, electrocautery, or other methods.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "acute renal failure",
+    "pronunciation": "",
+    "definition": "Abbreviated ARF; sudden onset of kidney failure characterized by uremia. May be caused by the kidneys not receiving enough blood to filter due to dehydration or a sudden drop in blood volume or blood pressure from injury, burns, or a severe infection. Can be fatal if not reversed promptly.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "anuria",
+    "pronunciation": "ah-NEW-ree-ah",
+    "definition": "The absence of urine formation by the kidneys. Often caused by kidney failure or a urinary tract obstruction.",
+    "breakdown_text": "an-: without ; -uria: urine"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "benign prostatic hyperplasia",
+    "pronunciation": "bee-NINE pros-TAT-ick high-per-PLAY-zee-ah",
+    "definition": "Abbreviated BPH; also known as benign prostatic hypertrophy or an enlarged prostate. An enlargement of the prostate gland that most often occurs in men older than age 50. Can make urination difficult and causes other urinary tract problems for men. Hyperplasia is an increase in cell numbers typically associated with tumor growth; in this case, it is not caused by cancer or infection.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "chronic kidney disease",
+    "pronunciation": "",
+    "definition": "Abbreviated CKD; the progressive loss of renal function over months or years. May result from diabetes mellitus, hypertension, or a family history of kidney disease. Can be life-threatening.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "cystitis",
+    "pronunciation": "sis-TYE-tis",
+    "definition": "An inflammation of the bladder.",
+    "breakdown_text": "cyst: bladder ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "cystocele",
+    "pronunciation": "SIS-toh-seel",
+    "definition": "Also known as a prolapsed bladder; a hernia of the bladder through the vaginal wall. Sometimes occurs as a result of pregnancy or childbirth.",
+    "breakdown_text": "cyst/o: bladder ; -cele: hernia"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "cystolith",
+    "pronunciation": "SIS-toh-lith",
+    "definition": "A stone located within the urinary bladder.",
+    "breakdown_text": "cyst/o: bladder ; -lith: stone"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "cystoscopy",
+    "pronunciation": "sis-TOS-koh-pee",
+    "definition": "The visual examination of the urinary bladder with the use of a specialized type of endoscope known as a cystoscope.",
+    "breakdown_text": "cyst/o: bladder ; -scopy: visual examination"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "dialysis",
+    "pronunciation": "dye-AL-ih-sis",
+    "definition": "A procedure to remove waste products, such as urea, creatinine, and excess water from the blood of a patient whose kidneys no longer function. The two types in common use are hemodialysis and peritoneal dialysis.",
+    "breakdown_text": "dia-: complete or through ; -lysis: separation"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "diuresis",
+    "pronunciation": "dye-you-REE-sis",
+    "definition": "The increased output of urine.",
+    "breakdown_text": "di-: through ; -uresis: urination"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "dysuria",
+    "pronunciation": "dis-YOU-ree-ah",
+    "definition": "Difficult or painful urination. Frequently associated with urinary tract infections.",
+    "breakdown_text": "dys-: painful ; -uria: urination"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "ectopic kidney",
+    "pronunciation": "",
+    "definition": "A congenital condition in which one kidney is located in an abnormal position or has fused with the other kidney. Ectopic means located in an abnormal place or position. Can be associated with an increased risk of urinary tract infections and nephroliths.",
+    "breakdown_text": "ec-: out ; top: place ; -ic: pertaining to"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "edema",
+    "pronunciation": "eh-DEE-mah",
+    "definition": "Swelling caused by excessive fluid accumulation in body tissues that can be symptomatic of nephrotic syndrome and other kidney diseases. The swelling can be in the area around the eyes, or in the legs and feet.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "end-stage renal disease",
+    "pronunciation": "",
+    "definition": "Abbreviated ESRD; also known as kidney failure. The final stage of chronic kidney disease; fatal unless the functions of the failed kidneys are replaced by dialysis, or with a successful kidney transplant.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "epispadias",
+    "pronunciation": "ep-ih-SPAY-dee-as",
+    "definition": "A congenital abnormality of the urethral opening. In the male, the opening is located on the upper surface of the penis; in the female, the urethral opening is in the region of the clitoris.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "extracorporeal shockwave lithotripsy",
+    "pronunciation": "ecks-trah-kor-POUR-ee-al shock-wayv LITH-oh-trip-see",
+    "definition": "Abbreviated ESWL; the most common kidney stone treatment. High-energy ultrasonic waves traveling through water or gel are used to break the stone into fragments, which are then excreted in the urine. Extracorporeal means situated or occurring outside the body.",
+    "breakdown_text": "lith/o: stone ; -tripsy: to crush"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "glomerulonephritis",
+    "pronunciation": "gloh-mer-you-loh-neh-FRY-tis",
+    "definition": "A type of nephritis caused by inflammation of the glomeruli that causes red blood cells and proteins to leak into the urine.",
+    "breakdown_text": "glomerul/o: glomeruli ; nephr: kidney ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "hemodialysis",
+    "pronunciation": "hee-moh-dye-AL-ih-sis",
+    "definition": "The process by which waste products are filtered directly from the patient's blood. Performed on an external hemodialysis machine, sometimes referred to as an artificial kidney. The most common type of dialysis.",
+    "breakdown_text": "hem/o: blood ; dia: complete or through ; -lysis: separation"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "hydronephrosis",
+    "pronunciation": "high-droh-neh-FROH-sis",
+    "definition": "The dilation (swelling) of one or both kidneys. Can be caused by problems associated with the backing up of urine due to an obstruction such as a nephrolith (kidney stone) or a stricture (narrowing) in the ureter.",
+    "breakdown_text": "hydr/o: water ; nephr: kidney ; -osis: abnormal condition or disease"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "hydroureter",
+    "pronunciation": "high-droh-YOUR-eh-ter",
+    "definition": "The distention (swelling) of the ureter with urine that cannot flow because of a ureteral obstruction. Always accompanies hydronephrosis.",
+    "breakdown_text": "hydr/o: water ; -ureter: ureter"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "hyperproteinuria",
+    "pronunciation": "high-per-proh-tee-in-YOU-ree-ah",
+    "definition": "The presence of abnormally high concentrations of protein in the urine.",
+    "breakdown_text": "hyper-: excessive ; protein: protein ; -uria: urine"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "hypoproteinemia",
+    "pronunciation": "high-poh-proh-tee-in-EE-mee-ah",
+    "definition": "The presence of abnormally low concentrations of protein in the blood. Often associated with hyperproteinuria.",
+    "breakdown_text": "hypo-: deficient or decreased ; protein: protein ; -emia: blood condition"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "hypospadias",
+    "pronunciation": "high-poh-SPAY-dee-as",
+    "definition": "A congenital abnormality of the urethral opening. In the male, the urethral opening is on the ventral surface (underside) of the penis; in the female, the urethra opens into the vagina.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "incontinence",
+    "pronunciation": "in-KON-tih-nents",
+    "definition": "The inability to control the excretion of urine, feces, or both.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "interstitial cystitis",
+    "pronunciation": "in-ter-STISH-al sis-TYE-tis",
+    "definition": "A chronic inflammation within the walls of the bladder. The symptoms are similar to those of cystitis; however, they do not respond to traditional treatment. Interstitial means relating to spaces within a tissue or organ.",
+    "breakdown_text": "cyst: bladder ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "intravenous pyelogram",
+    "pronunciation": "in-trah-VEE-nus PYE-eh-loh-gram",
+    "definition": "Abbreviated IVP; a set of x-ray images of the kidneys, ureters, and bladder using an intravenous contrast medium to clearly visualize the structures. The process of creating the images is called intravenous pyelography. Used to diagnose changes in the urinary tract resulting from nephroliths, infections, enlarged prostate, tumors, and internal injuries after an abdominal trauma.",
+    "breakdown_text": "pyel/o: renal pelvis ; -gram: a picture or record"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "nephrolith",
+    "pronunciation": "NEF-roh-lith",
+    "definition": "Also known as a kidney stone or renal calculus; a stone found in the kidney.",
+    "breakdown_text": "nephr/o: kidney ; -lith: stone"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "nephrolithiasis",
+    "pronunciation": "nef-roh-lih-THIGH-ah-sis",
+    "definition": "The presence of stones in the kidney.",
+    "breakdown_text": "nephr/o: kidney ; -lithiasis: presence of stones"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "nephrolysis",
+    "pronunciation": "neh-FROL-ih-sis",
+    "definition": "The surgical freeing of a kidney from adhesions. The suffix -lysis also means destruction, so the term can also describe a pathologic condition in which there is destruction of renal cells.",
+    "breakdown_text": "nephr/o: kidney ; -lysis: setting free"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "nephrons",
+    "pronunciation": "NEF-ronz",
+    "definition": "The microscopic functional units of each kidney, where urine is produced through the processes of filtration, reabsorption, and secretion. Each nephron contains a glomerulus and a renal tubule.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "nephropathy",
+    "pronunciation": "neh-FROP-ah-thee",
+    "definition": "Any disease of the kidney. Includes both degenerative and inflammatory conditions.",
+    "breakdown_text": "nephr/o: kidney ; -pathy: disease"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "nephrostomy",
+    "pronunciation": "neh-FROS-toh-mee",
+    "definition": "The placement of a catheter to maintain an opening from the pelvis of one or both kidneys to the exterior of the body. In a kidney affected by hydronephrosis, this allows urine to be drained directly through the lower back. Nephrostomy tubes are also used to gain access to the kidneys for diagnostic procedures.",
+    "breakdown_text": "nephr: kidney ; -ostomy: creating an opening"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "nephrotic syndrome",
+    "pronunciation": "neh-FROT-ick",
+    "definition": "Also known as nephrosis; a group of conditions in which excessive amounts of protein are lost through the urine. Usually caused by damage to the glomeruli, resulting in abnormally low levels of protein in the blood.",
+    "breakdown_text": "nephr/o: kidney ; -tic: pertaining to"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "neurogenic bladder",
+    "pronunciation": "new-roh-JEN-ick",
+    "definition": "A urinary problem caused by interference with the normal nerve pathways associated with urination.",
+    "breakdown_text": "neur/o: nerve ; -genic: created by"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "nocturia",
+    "pronunciation": "nock-TOO-ree-ah",
+    "definition": "Frequent and excessive urination during the night.",
+    "breakdown_text": "noct: night ; -uria: urination"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "nocturnal enuresis",
+    "pronunciation": "nock-TER-nal en-you-REE-sis",
+    "definition": "Urinary incontinence during sleep; also known as bed-wetting. Nocturnal means pertaining to night.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "oliguria",
+    "pronunciation": "ol-ih-GOO-ree-ah",
+    "definition": "Scanty urination. Can be caused by dehydration, renal failure, or a urinary tract obstruction. Oliguria is the opposite of polyuria.",
+    "breakdown_text": "olig: scanty ; -uria: urination"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "percutaneous nephrolithotomy",
+    "pronunciation": "per-kyou-TAY-nee-us nef-roh-lih-THOT-oh-mee",
+    "definition": "Abbreviated PCNL; the surgical removal of a nephrolith through a small incision in the back. A small tube is temporarily inserted through the incision into the kidney; the stone is crushed and the pieces are removed. Used if ESWL has not been successful, if an infection is present, or if the stone is particularly large. Percutaneous means performed through the skin.",
+    "breakdown_text": "nephr/o: kidney ; lith: stone ; -otomy: surgical incision"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "peritoneal dialysis",
+    "pronunciation": "pehr-ih-toh-NEE-al dye-AL-ih-sis",
+    "definition": "Dialysis in which the lining of the peritoneal cavity acts as a filter to remove waste from the blood. Sterile dialysate flows into the peritoneal cavity through a catheter implanted in the abdominal wall, is left in to absorb waste products, and is then drained out. Can be done at home but is considered less effective than hemodialysis.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "polycystic kidney disease",
+    "pronunciation": "pol-ee-SIS-tick",
+    "definition": "Abbreviated PKD; a genetic disorder characterized by the growth of numerous fluid-filled cysts in the kidneys. These cysts slowly replace much of the mass of the kidney, reduce the kidney function, and eventually lead to kidney failure.",
+    "breakdown_text": "poly-: many ; cyst: cyst ; -ic: pertaining to"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "polyuria",
+    "pronunciation": "pol-ee-YOU-ree-ah",
+    "definition": "Excessive urination; a common symptom of diabetes. Polyuria is the opposite of oliguria.",
+    "breakdown_text": "poly-: many ; -uria: urination"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "prostatism",
+    "pronunciation": "PROS-tah-tizm",
+    "definition": "A disorder resulting from the compression or obstruction of the urethra due to benign prostatic hyperplasia. Can produce difficulties with urination, including urinary retention.",
+    "breakdown_text": "prostat: prostate gland ; -ism: condition of"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "pyelonephritis",
+    "pronunciation": "pye-eh-loh-neh-FRY-tis",
+    "definition": "An inflammation of both the renal pelvis and kidney. Usually caused by a bacterial infection that has spread upward from the bladder.",
+    "breakdown_text": "pyel/o: renal pelvis ; nephr: kidney ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "pyelotomy",
+    "pronunciation": "pye-eh-LOT-oh-mee",
+    "definition": "A surgical incision into the renal pelvis. Performed to remove obstructions such as a stone lodged in the junction between the renal pelvis and the ureter.",
+    "breakdown_text": "pyel: the renal pelvis ; -otomy: surgical incision"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "renal colic",
+    "pronunciation": "REE-nal KOLL-ick",
+    "definition": "Acute pain in the kidney area that is caused by blockage during the passage of a nephrolith (kidney stone). Colic means spasms of pain in the abdomen. The pain sometimes comes in waves due to the peristaltic movement of the ureters.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "suprapubic catheterization",
+    "pronunciation": "soo-prah-PYOU-bick kath-eh-ter-eye-ZAY-shun",
+    "definition": "The placement of a urinary catheter into the bladder through a small incision made through the abdominal wall just above the pubic bone.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "transurethral prostatectomy",
+    "pronunciation": "",
+    "definition": "Abbreviated TURP; the removal of excess tissue from an enlarged prostate gland with the use of a resectoscope. Retrograde ejaculation is the most common long-term complication.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "uremia",
+    "pronunciation": "you-REE-mee-ah",
+    "definition": "Also known as uremic poisoning; a toxic condition resulting from renal failure in which kidney function is compromised and urea and other waste products normally secreted in the urine are retained in the blood.",
+    "breakdown_text": "ur: urine ; -emia: blood condition"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "ureterolith",
+    "pronunciation": "you-REE-ter-oh-lith",
+    "definition": "A stone located anywhere along the ureter.",
+    "breakdown_text": "ureter/o: ureter ; -lith: stone"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "ureterorrhagia",
+    "pronunciation": "you-ree-ter-oh-RAY-jee-ah",
+    "definition": "The discharge of blood from the ureter.",
+    "breakdown_text": "ureter/o: ureter ; -rrhagia: bleeding"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "urethritis",
+    "pronunciation": "you-reh-THRIGH-tis",
+    "definition": "An inflammation of the urethra.",
+    "breakdown_text": "urethr: urethra ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "urethroplasty",
+    "pronunciation": "you-REE-throh-plas-tee",
+    "definition": "The surgical repair of damage or a defect in the walls of the urethra.",
+    "breakdown_text": "urethr/o: urethra ; -plasty: surgical repair"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "urethrorrhagia",
+    "pronunciation": "you-ree-throh-RAY-jee-ah",
+    "definition": "Bleeding from the urethra.",
+    "breakdown_text": "urethr/o: urethra ; -rrhagia: bleeding"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "urethrostenosis",
+    "pronunciation": "you-ree-throh-steh-NOH-sis",
+    "definition": "Also known as urethral stricture; narrowing of the urethra. Occurs almost exclusively in men and is caused by scarring from infection or injury.",
+    "breakdown_text": "urethr/o: urethra ; -stenosis: tightening or narrowing"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "urethrotomy",
+    "pronunciation": "you-reh-THROT-oh-mee",
+    "definition": "A surgical incision into the urethra for relief of a stricture. A stricture is an abnormal narrowing of a bodily passage.",
+    "breakdown_text": "urethr: urethra ; -otomy: surgical incision"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "urinary catheterization",
+    "pronunciation": "kath-eh-ter-eye-ZAY-shun",
+    "definition": "Also known as cathing; the insertion of a flexible plastic tube called a catheter into the bladder to withdraw urine for diagnostic purposes, to allow urine to drain freely, or to place a fluid such as a chemotherapy solution.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "vesicovaginal fistula",
+    "pronunciation": "ves-ih-koh-VAJ-ih-nahl FIS-tyou-lah",
+    "definition": "An abnormal opening between the bladder and vagina that allows constant involuntary flow of urine from the bladder into the vagina. A fistula is an abnormal passage between two internal organs. May be caused by prolonged labor during childbirth or surgery such as a hysterectomy.",
+    "breakdown_text": "vesic/o: bladder ; vagin: vagina ; -al: pertaining to"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "voiding cystourethrography",
+    "pronunciation": "sis-toh-you-ree-THROG-rah-fee",
+    "definition": "A diagnostic procedure in which fluoroscopy is used to examine the flow of urine from the bladder and through the urethra. Often performed after cystography.",
+    "breakdown_text": "cyst/o: bladder ; urethr/o: urethra ; -graphy: the process of producing a picture or record"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "Wilms tumor",
+    "pronunciation": "",
+    "definition": "Also known as a nephroblastoma; a rare type of malignant tumor of the kidney that occurs in young children. There is a high cure rate when treated promptly.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "homeostasis",
+    "pronunciation": "",
+    "definition": "The process through which the body maintains a constant internal environment.",
+    "breakdown_text": "home/o: constant ; -stasis: control"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "urea",
+    "pronunciation": "you-REE-ah",
+    "definition": "The major waste product of protein metabolism.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "creatinine",
+    "pronunciation": "",
+    "definition": "A waste product of muscle metabolism.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "urinary system",
+    "pronunciation": "",
+    "definition": "Also referred to as the urinary tract; consists of two kidneys, two ureters, one bladder, and one urethra.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "genitourinary tract",
+    "pronunciation": "",
+    "definition": "The urinary tract and the reproductive organs referred to together because they are located in close proximity.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "kidneys",
+    "pronunciation": "",
+    "definition": "Two bean-shaped organs that constantly filter the blood to remove waste products and excess water, which are excreted as urine (95% water and 5% urea and other body wastes). Also help maintain proper fluid levels, produce hormones that control blood pressure and make red blood cells, and activate vitamin D to maintain healthy bones.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "renal",
+    "pronunciation": "REE-nal",
+    "definition": "Pertaining to the kidneys.",
+    "breakdown_text": "ren: kidney or kidneys ; -al: pertaining to"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "retroperitoneal",
+    "pronunciation": "",
+    "definition": "Behind the peritoneum, which is the membrane that lines the abdominal cavity. The kidneys are located in the retroperitoneal space.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "renal cortex",
+    "pronunciation": "REE-nal KOR-tecks",
+    "definition": "The outer region of the kidney; contains more than one million microscopic units called nephrons. Cortex means the outer portion of an organ.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "medulla",
+    "pronunciation": "meh-DULL-ah",
+    "definition": "The inner region of the kidney; contains most of the urine-collecting tubules.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "tubule",
+    "pronunciation": "",
+    "definition": "A small tube.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "reabsorption",
+    "pronunciation": "",
+    "definition": "The return to the blood of some of the substances that were removed during filtration.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "glomerulus",
+    "pronunciation": "gloh-MER-you-lus",
+    "definition": "A cluster of capillaries (plural, glomeruli) within each nephron, surrounded by a cup-shaped membrane called the Bowman's capsule.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "Bowman's capsule",
+    "pronunciation": "",
+    "definition": "A cup-shaped membrane that surrounds the glomerulus.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "renal tubule",
+    "pronunciation": "",
+    "definition": "The part of the nephron into which the remaining filtrate flows; elements including some water, sugar, and electrolytes are returned to the bloodstream via a nearby capillary.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "renal artery",
+    "pronunciation": "",
+    "definition": "The vessel through which blood enters the kidney and flows into the nephrons.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "renal vein",
+    "pronunciation": "",
+    "definition": "The vessel through which filtered blood leaves the kidney and returns to the bloodstream.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "renal pelvis",
+    "pronunciation": "",
+    "definition": "The funnel-shaped area inside each kidney that is surrounded by the renal cortex and medulla; where the newly formed urine from the nephrons collects before it flows into the ureters.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "ureters",
+    "pronunciation": "you-REE-ters",
+    "definition": "Two narrow tubes, each about 10 to 12 inches long, which transport urine from the kidney to the bladder. Peristalsis moves urine down each ureter to the bladder.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "peristalsis",
+    "pronunciation": "",
+    "definition": "A series of wave-like contractions that moves urine down each ureter to the bladder; also part of the digestive process.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "ureteral orifices",
+    "pronunciation": "",
+    "definition": "The openings in the wall of the urinary bladder through which urine drains from the ureters. Orifice means opening.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "urinary bladder",
+    "pronunciation": "",
+    "definition": "An oval, hollow, muscular organ that is a reservoir for urine before it is excreted from the body. Located in the anterior portion of the pelvic cavity behind the pubic symphysis; the average adult bladder stores more than one pint of urine.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "rugae",
+    "pronunciation": "",
+    "definition": "Folds lining the bladder, as in the stomach, that allow it to expand when full and contract when empty.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "urethra",
+    "pronunciation": "you-REE-thrah",
+    "definition": "The tube extending from the bladder to the exterior of the body.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "urinary sphincters",
+    "pronunciation": "",
+    "definition": "Two muscular rings, one at either end of the urethra, that control the flow of urine from the bladder into the urethra and out of the urethra through the urethral meatus.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "sphincter",
+    "pronunciation": "",
+    "definition": "A ring-like muscle that closes a passageway.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "urethral meatus",
+    "pronunciation": "you-REE-thrahl mee-AY-tus",
+    "definition": "Also known as the urinary meatus; the external opening of the urethra. Meatus means the external opening of a canal.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "female urethra",
+    "pronunciation": "",
+    "definition": "Approximately 1.5 inches long; the urethral meatus is located between the clitoris and the opening of the vagina. Transports only urine.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "male urethra",
+    "pronunciation": "",
+    "definition": "Approximately 8 inches long; the urethral meatus is located at the tip of the penis. Transports both urine and semen.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "prostate gland",
+    "pronunciation": "PROS-tayt",
+    "definition": "A gland of the male reproductive system that surrounds the urethra. Most disorders of the prostate affect the male's ability to urinate.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "urination",
+    "pronunciation": "",
+    "definition": "Also known as voiding or micturition; the normal process of excreting urine. Requires the coordinated contraction of the bladder muscles and relaxation of the sphincters.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "nephrologist",
+    "pronunciation": "neh-FROL-oh-jist",
+    "definition": "A physician who specializes in diagnosing and treating diseases and disorders of the kidneys.",
+    "breakdown_text": "nephr: kidney ; -ologist: specialist"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "urologist",
+    "pronunciation": "you-ROL-oh-jist",
+    "definition": "A physician who specializes in diagnosing and treating diseases and disorders of the urinary system of females and the genitourinary system of males.",
+    "breakdown_text": "ur: urine ; -ologist: specialist"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "diabetic nephropathy",
+    "pronunciation": "",
+    "definition": "Kidney disease resulting from poorly controlled diabetes mellitus.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "renal failure",
+    "pronunciation": "",
+    "definition": "Also known as kidney failure; the inability of one or both of the kidneys to perform their functions. The body cannot replace damaged nephrons, and when too many nephrons have been destroyed, the result is kidney failure.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "azotemia",
+    "pronunciation": "ay-zoh-TEE-mee-ah",
+    "definition": "An elevation of the blood urea nitrogen (BUN) caused by a lack of blood flow to each kidney. Uremia can occur when this excess becomes toxic.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "minimal change disease",
+    "pronunciation": "",
+    "definition": "So called because the nephrons look normal under a regular microscope; the most common cause of nephrotic syndrome in children.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "nephritis",
+    "pronunciation": "neh-FRY-tis",
+    "definition": "An inflammation of the kidney or kidneys. The most common causes are toxins, infection, or an autoimmune disease.",
+    "breakdown_text": "nephr: kidney ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "pyonephrosis",
+    "pronunciation": "pye-oh-nef-ROH-sis",
+    "definition": "Also known as nephropyosis; suppuration of the kidney, often associated with hydronephrosis. Suppuration means the formation of pus.",
+    "breakdown_text": "py/o: pus ; nephr: kidney ; -osis: abnormal condition or disease"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "colic",
+    "pronunciation": "",
+    "definition": "Spasms of pain in the abdomen.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "renal cell carcinoma",
+    "pronunciation": "",
+    "definition": "The most common form of kidney cancer in adults. Can cause flank pain and blood in the urine, but is most commonly asymptomatic until the tumor has grown enough to impair kidney function.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "stone",
+    "pronunciation": "",
+    "definition": "Also known as calculus (plural, calculi); an abnormal mineral deposit that has formed within the body and is named for the organ or tissue where it is located. In the urinary system, stones form when waste products in the urine separate and crystallize.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "urinary tract obstruction",
+    "pronunciation": "",
+    "definition": "A blockage that prevents the flow of urine in one part of the urinary tract. Named for their locations, and commonly caused by stones, congenital abnormalities, or an enlarged prostate.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "ureteral obstruction",
+    "pronunciation": "",
+    "definition": "A blockage of one or both ureters. Can be due to congenital abnormality, ureterolith, or other disorders.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "cystalgia",
+    "pronunciation": "sis-TAL-jee-ah",
+    "definition": "Pain in the bladder; also called cystodynia.",
+    "breakdown_text": "cyst: bladder ; -algia: pain"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "vesicoureteral reflux",
+    "pronunciation": "veh-sih-ko-you-REE-teh-ral",
+    "definition": "Abbreviated VUR; the backward flow of urine into the ureters from the bladder. Most common in infants and children.",
+    "breakdown_text": "vesic/o: bladder ; ureter: ureter ; -al: pertaining to"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "fistula",
+    "pronunciation": "",
+    "definition": "An abnormal passage between two internal organs.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "urinary retention",
+    "pronunciation": "",
+    "definition": "The inability to completely empty the bladder when attempting to urinate. More common in men and frequently associated with an enlarged prostate gland. In neurogenic bladder it can result in overflow leakage.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "neuropathy",
+    "pronunciation": "",
+    "definition": "Any disease or damage to a nerve.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "prostate cancer",
+    "pronunciation": "",
+    "definition": "One of the most common cancers among men. Can grow slowly with no symptoms, or can grow aggressively and spread throughout the body.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "prostatitis",
+    "pronunciation": "pros-tah-TYE-tis",
+    "definition": "A group of disorders characterized by the inflammation of the prostate gland. The most common type is chronic nonbacterial prostatitis, with no single known cause. Bacterial prostatitis usually results from bacteria transported in the urine.",
+    "breakdown_text": "prostat: prostate gland ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "urethrorrhea",
+    "pronunciation": "you-ree-throh-REE-ah",
+    "definition": "An abnormal discharge from the urethra. Associated with some sexually transmitted diseases.",
+    "breakdown_text": "urethr/o: urethra ; -rrhea: flow or discharge"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "urinary tract infection",
+    "pronunciation": "",
+    "definition": "Abbreviated UTI; usually begins in the bladder but can affect all parts of the urinary system. Caused by bacteria, most often E. coli, entering the urinary system through the urethra. More frequent in women because the urethra is short and located near the opening to the rectum. In the elderly, often causes weakness and confusion rather than urinary symptoms.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "urosepsis",
+    "pronunciation": "you-roh-SEP-sis",
+    "definition": "A life-threatening systemic bacterial infection that can occur when a urinary tract infection spreads to the kidneys.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "recurrent urinary tract infection",
+    "pronunciation": "",
+    "definition": "Cystitis that occurs two or more times in six months, or three or more times a year. May require long-term daily antibiotic treatment.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "enuresis",
+    "pronunciation": "en-you-REE-sis",
+    "definition": "The involuntary discharge of urine.",
+    "breakdown_text": "en-: into ; -uresis: urination"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "urinary hesitancy",
+    "pronunciation": "",
+    "definition": "Difficulty in starting a urinary stream. Most common in older men with enlarged prostate glands. In younger people, the inability to urinate when another person is present is known as bashful bladder syndrome.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "bashful bladder syndrome",
+    "pronunciation": "",
+    "definition": "The inability to urinate when another person is present, in younger people.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "urinary incontinence",
+    "pronunciation": "",
+    "definition": "The inability to control the voiding of urine.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "overflow incontinence",
+    "pronunciation": "",
+    "definition": "Continuous leaking from the bladder either because it is full or because it does not empty completely. Usually caused by a blocked urethra and prevalent in older men with enlarged prostates.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "stress incontinence",
+    "pronunciation": "",
+    "definition": "The inability to control the voiding of urine under physical stress such as running, sneezing, laughing, or coughing. Occurs more often in women than in men.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "overactive bladder",
+    "pronunciation": "",
+    "definition": "Abbreviated OAB; also known as urge incontinence; occurs when the muscles of the bladder contract involuntarily even though the bladder is not actually full enough to indicate the need to urinate. May result in increased urinary frequency or incontinence.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "urinalysis",
+    "pronunciation": "you-rih-NAL-ih-sis",
+    "definition": "Abbreviated UA; the examination of urine for the presence of abnormal elements. Used to diagnose diseases, kidney damage, and pregnancy, as well as to detect the presence of substances such as illicit drugs and prescription medications.",
+    "breakdown_text": "urin: urine ; -alysis: a study of the parts"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "glomerular filtration rate",
+    "pronunciation": "",
+    "definition": "Abbreviated GFR; a blood test to check how well the kidneys are functioning at filtering blood. Can help diagnose chronic kidney disease and kidney failure.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "blood urea nitrogen",
+    "pronunciation": "",
+    "definition": "Abbreviated BUN; a blood test that is an indicator of kidney function.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "bladder ultrasound",
+    "pronunciation": "",
+    "definition": "The use of a handheld ultrasound transducer to look for stones or for elevation of the bladder by an enlarged prostate and to measure the residual amount of urine remaining in the bladder after urination. A normal bladder holds between 300 and 400 mL of urine; when more than this amount is still present after urination, the bladder is described as being distended.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "endoscope",
+    "pronunciation": "",
+    "definition": "An instrument used for visual examination of internal structures.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "cystoscope",
+    "pronunciation": "",
+    "definition": "A specialized type of endoscope used for visual examination of the urinary bladder; also used for treatment procedures such as the removal of tumors or the reduction of an enlarged prostate gland.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "computed tomography",
+    "pronunciation": "",
+    "definition": "Also known as a CT scan; commonly used to evaluate the urinary system because it can be rapidly performed and provides additional radiographic imaging of the abdomen.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "cystography",
+    "pronunciation": "sis-TOG-rah-fee",
+    "definition": "An x-ray or fluoroscopy examination of the bladder after a contrast medium is instilled via a urethral catheter. The resulting film is a cystogram.",
+    "breakdown_text": "cyst/o: bladder ; -graphy: the process of creating a picture or record"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "fluoroscopy",
+    "pronunciation": "",
+    "definition": "Continuous x-rays projected onto a screen during the examination; can be used to track the flow of contrast or direct an intervention, such as stent placement.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "KUB",
+    "pronunciation": "",
+    "definition": "Kidneys, ureters, bladder; an x-ray study without the use of a contrast medium, also referred to as a flat-plate of the abdomen. Used to detect bowel obstructions and nephroliths.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "retrograde pyelogram",
+    "pronunciation": "",
+    "definition": "An x-ray of the urinary system taken after a contrast medium has been instilled into one or both ureters through a sterile catheter and caused to flow upward through the urinary tract, usually as part of cystoscopy. Retrograde means moving backward.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "digital rectal examination",
+    "pronunciation": "",
+    "definition": "Abbreviated DRE; performed on men by using a lubricated, gloved finger placed in the rectum to palpate the prostate gland to detect prostate enlargement and to look for indications of prostate cancer or tumors of the rectum. Digital means using a finger; palpate means the use of touch to examine a body part.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "prostate-specific antigen",
+    "pronunciation": "",
+    "definition": "Abbreviated PSA; a protein produced by the cells of the prostate gland to help liquefy semen. The PSA blood test is used to screen for prostate cancer; the higher a man's PSA level, the more likely cancer is present.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "diuretics",
+    "pronunciation": "dye-you-RET-icks",
+    "definition": "Medications administered to increase urine secretion, primarily to rid the body of excess water and salt. Some foods and drinks, such as coffee, tea, and alcoholic beverages, also have a diuretic effect.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "antispasmodics",
+    "pronunciation": "",
+    "definition": "Drugs used to block the signals that cause urinary incontinence.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "shunt",
+    "pronunciation": "",
+    "definition": "An artificial passage that allows the blood to flow between the body and the hemodialysis unit.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "dialysate",
+    "pronunciation": "",
+    "definition": "A sterilized solution made up of water and electrolytes contained in the filters of the hemodialysis unit; cleanses the blood by removing waste products and excess fluids.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "electrolytes",
+    "pronunciation": "",
+    "definition": "The minerals that conduct electricity and are found in the body fluid, tissue, and blood.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "continuous ambulatory peritoneal dialysis",
+    "pronunciation": "",
+    "definition": "Abbreviated CAPD; provides ongoing dialysis as the patient goes about daily activities. The dialysate solution is instilled from a plastic container worn under the clothing and about every 4 hours the used solution is drained back into the bag, which is discarded and replaced with a new bag.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "continuous cycling peritoneal dialysis",
+    "pronunciation": "",
+    "definition": "Abbreviated CCPD; also known as automated peritoneal dialysis (APD); uses a machine to cycle the dialysate solution during the night while the patient sleeps.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "adhesion",
+    "pronunciation": "",
+    "definition": "A band of fibers that holds structures together abnormally.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "renal transplantation",
+    "pronunciation": "",
+    "definition": "Commonly known as kidney transplant; the grafting of a donor kidney, from either a living or nonliving donor, into the body to replace the recipient's failed kidneys. A single transplanted kidney is capable of adequately performing all kidney functions and frees the patient from the need for dialysis.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "lithotripsy",
+    "pronunciation": "",
+    "definition": "The use of shock waves to break up calculi; also used to break up calculi in the ureter, bladder, or urethra.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "ureterectomy",
+    "pronunciation": "you-reh-ter-ECK-toh-mee",
+    "definition": "The surgical removal of a ureter.",
+    "breakdown_text": "ureter: ureter ; -ectomy: surgical removal"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "ureteroscopy",
+    "pronunciation": "you-ree-teh-ROS-koh-pee",
+    "definition": "A treatment for a nephrolith lodged in the ureter. A specialized instrument called a ureteroscope is inserted through the urethra and bladder into the ureter; if possible, the nephrolith is removed intact, otherwise a laser is used to break it up and the pieces are removed.",
+    "breakdown_text": "ureter/o: ureter ; -scopy: visual examination"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "cystectomy",
+    "pronunciation": "sis-TECK-toh-mee",
+    "definition": "The surgical removal of all or part of the urinary bladder. Usually performed to treat bladder cancer.",
+    "breakdown_text": "cyst: bladder ; -ectomy: surgical removal"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "ileal conduit",
+    "pronunciation": "ill-ee-al KON-doo-it",
+    "definition": "Also known as urinary ileostomy; the use of a small piece of intestine to convey urine to the ureters and to a stoma in the abdomen.",
+    "breakdown_text": "ile: ileum or small intestine ; -al: pertaining to"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "cystorrhaphy",
+    "pronunciation": "sis-TOR-ah-fee",
+    "definition": "The surgical suturing of a wound or defect in the bladder.",
+    "breakdown_text": "cyst/o: bladder ; -rrhaphy: surgical suturing"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "lithotomy",
+    "pronunciation": "lih-THOT-oh-mee",
+    "definition": "A surgical incision for the removal of a nephrolith from the bladder. No longer common as surgery, but the name is still used to describe a physical examination position for procedures involving the pelvis and lower abdomen.",
+    "breakdown_text": "lith: stone ; -otomy: surgical incision"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "catheter",
+    "pronunciation": "",
+    "definition": "A flexible plastic tube inserted into the bladder.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "indwelling catheter",
+    "pronunciation": "",
+    "definition": "A catheter that remains inside the body for a prolonged time based on need; can be either a urethral or a suprapubic catheter. Indwelling means residing within.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "urethral catheterization",
+    "pronunciation": "",
+    "definition": "Performed by inserting a catheter through the urethra and into the bladder.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "Foley catheter",
+    "pronunciation": "",
+    "definition": "The most common type of indwelling catheter; made of a flexible tube with a balloon filled with sterile water at the end to hold it in place in the bladder. Commonly used on postsurgical patients and named for its inventor, surgeon Frederic Foley.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "intermittent catheter",
+    "pronunciation": "",
+    "definition": "Also known as a short-term catheter; inserted as needed several times a day to drain urine from the bladder.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "meatotomy",
+    "pronunciation": "mee-ah-TOT-oh-mee",
+    "definition": "A surgical incision made in the urethral meatus to enlarge the opening.",
+    "breakdown_text": "meat: meatus ; -otomy: surgical incision"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "electrocautery",
+    "pronunciation": "",
+    "definition": "The use of high-frequency electrical current to destroy tissue.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "prostatectomy",
+    "pronunciation": "pros-tah-TECK-toh-mee",
+    "definition": "The surgical removal of part or all of the prostate gland. Performed to treat prostate cancer or to reduce an enlarged prostate gland; can lead to erectile difficulties.",
+    "breakdown_text": "prostat: prostate ; -ectomy: surgical removal"
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "radical prostatectomy",
+    "pronunciation": "",
+    "definition": "The surgical removal of the entire prostate gland in cases where it is extremely enlarged or when cancer is suspected.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "resectoscope",
+    "pronunciation": "",
+    "definition": "A specialized endoscopic instrument that resembles a cystoscope, used in a transurethral prostatectomy.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "retrograde ejaculation",
+    "pronunciation": "",
+    "definition": "When an orgasm results in semen flowing backward into the bladder instead of out through the penis. The most common long-term complication of a TURP.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "radiation therapy",
+    "pronunciation": "",
+    "definition": "An additional treatment used to control prostate cancer.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "hormone therapy",
+    "pronunciation": "",
+    "definition": "An additional treatment used to control prostate cancer.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "watchful waiting",
+    "pronunciation": "",
+    "definition": "Often the prescribed course of action for prostate cancer in older patients because the disease normally progresses slowly.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "Kegel exercises",
+    "pronunciation": "",
+    "definition": "A series of pelvic muscle exercises, named for Dr. Arnold Kegel, used to strengthen the muscles of the pelvic floor. Used to control urinary stress incontinence in both sexes, in men to treat prostate pain and swelling, and in women to condition the muscles so that they will recover quickly after childbirth.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 9,
+    "system_group": "Urinary System",
+    "term": "bladder retraining",
+    "pronunciation": "",
+    "definition": "Behavioral therapy in which the patient learns to urinate on a schedule, with increasingly longer time intervals as the bladder increases its capacity. The goal is to reestablish voluntary bladder control and to break the cycle of frequency and urgency that results from urge incontinence.",
+    "breakdown_text": ""
+  }
+]

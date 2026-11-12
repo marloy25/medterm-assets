@@ -1,0 +1,2522 @@
+[
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "albumin/o",
+    "pronunciation": "",
+    "definition": "albumin, protein",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "calc/i",
+    "pronunciation": "",
+    "definition": "calcium, lime, the heel",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "-centesis",
+    "pronunciation": "",
+    "definition": "surgical puncture to remove fluid",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "creatin/o",
+    "pronunciation": "",
+    "definition": "creatinine",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "fluor/o",
+    "pronunciation": "",
+    "definition": "glowing",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "glycos/o",
+    "pronunciation": "",
+    "definition": "glucose, sugar",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "lapar/o",
+    "pronunciation": "",
+    "definition": "abdomen, abdominal wall",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "lingu/o",
+    "pronunciation": "",
+    "definition": "tongue",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "-otomy",
+    "pronunciation": "",
+    "definition": "cutting, surgical incision",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "pyret/o",
+    "pronunciation": "",
+    "definition": "fever",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "radi/o",
+    "pronunciation": "",
+    "definition": "radiation, x-rays",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "-scope",
+    "pronunciation": "",
+    "definition": "instrument for visual examination",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "-scopy",
+    "pronunciation": "",
+    "definition": "visual examination",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "son/o",
+    "pronunciation": "",
+    "definition": "sound",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "ultra-",
+    "pronunciation": "",
+    "definition": "beyond",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "abdomin/o",
+    "pronunciation": "",
+    "definition": "abdomen",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "albumin",
+    "pronunciation": "",
+    "definition": "albumin or protein",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "angi/o",
+    "pronunciation": "",
+    "definition": "blood vessel",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "arthr/o",
+    "pronunciation": "",
+    "definition": "joint",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "auscult/a",
+    "pronunciation": "",
+    "definition": "to listen",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "bacteri",
+    "pronunciation": "",
+    "definition": "bacteria",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "calci",
+    "pronunciation": "",
+    "definition": "calcium",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "cardi/o",
+    "pronunciation": "",
+    "definition": "heart",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "creatin",
+    "pronunciation": "",
+    "definition": "creatinine",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "crani/o",
+    "pronunciation": "",
+    "definition": "skull",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "cutane",
+    "pronunciation": "",
+    "definition": "skin",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "derm",
+    "pronunciation": "",
+    "definition": "skin",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "ech/o",
+    "pronunciation": "",
+    "definition": "sound",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "glycos",
+    "pronunciation": "",
+    "definition": "glucose",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "hem/o",
+    "pronunciation": "",
+    "definition": "blood",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "hemat",
+    "pronunciation": "",
+    "definition": "blood",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "hemat/o",
+    "pronunciation": "",
+    "definition": "blood",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "keton",
+    "pronunciation": "",
+    "definition": "ketones",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "lingu",
+    "pronunciation": "",
+    "definition": "tongue",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "muscul",
+    "pronunciation": "",
+    "definition": "muscle",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "my/o",
+    "pronunciation": "",
+    "definition": "muscle",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "ophthalm/o",
+    "pronunciation": "",
+    "definition": "eye",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "ot/o",
+    "pronunciation": "",
+    "definition": "ear",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "pharmac",
+    "pronunciation": "",
+    "definition": "drug",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "phleb",
+    "pronunciation": "",
+    "definition": "vein",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "py",
+    "pronunciation": "",
+    "definition": "pus",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "pyret",
+    "pronunciation": "",
+    "definition": "fever",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "radi",
+    "pronunciation": "",
+    "definition": "radiation",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "steth/o",
+    "pronunciation": "",
+    "definition": "chest",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "therm",
+    "pronunciation": "",
+    "definition": "heat",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "tom/o",
+    "pronunciation": "",
+    "definition": "to slice",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "ven",
+    "pronunciation": "",
+    "definition": "vein",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "-al",
+    "pronunciation": "",
+    "definition": "pertaining to",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "-crit",
+    "pronunciation": "",
+    "definition": "to separate",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "-gram",
+    "pronunciation": "",
+    "definition": "a picture or record",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "-globin",
+    "pronunciation": "",
+    "definition": "protein",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "-graphy",
+    "pronunciation": "",
+    "definition": "the process of recording, the process of recording a picture or record",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "-ia",
+    "pronunciation": "",
+    "definition": "pertaining to",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "-ic",
+    "pronunciation": "",
+    "definition": "pertaining to",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "-ologist",
+    "pronunciation": "",
+    "definition": "specialist",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "-ology",
+    "pronunciation": "",
+    "definition": "study of",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "-opsy",
+    "pronunciation": "",
+    "definition": "view of",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "-ous",
+    "pronunciation": "",
+    "definition": "pertaining to",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "-tion",
+    "pronunciation": "",
+    "definition": "the process of",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "-uria",
+    "pronunciation": "",
+    "definition": "urine, urination",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "anti-",
+    "pronunciation": "",
+    "definition": "against",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "bi",
+    "pronunciation": "",
+    "definition": "pertaining to life",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "endo",
+    "pronunciation": "",
+    "definition": "within",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "hyper-",
+    "pronunciation": "",
+    "definition": "excessive",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "hypo-",
+    "pronunciation": "",
+    "definition": "deficient",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "intra-",
+    "pronunciation": "",
+    "definition": "within",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "peri-",
+    "pronunciation": "",
+    "definition": "surrounding",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "sub-",
+    "pronunciation": "",
+    "definition": "under",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "trans-",
+    "pronunciation": "",
+    "definition": "across, through or across",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "acetaminophen",
+    "pronunciation": "ah-seet-ah-MIN-oh-fen",
+    "definition": "An analgesic that reduces pain and fever but does not relieve inflammation; however, it does not have the negative side effects of NSAIDs. The basic ingredient found in Tylenol and its generic equivalents.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "acupuncture",
+    "pronunciation": "AK-you-punk-cher",
+    "definition": "A traditional Chinese medical practice using very thin acupuncture needles inserted into specific points of the body to restore the flow of qi.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "adherence",
+    "pronunciation": "",
+    "definition": "Also called compliance; the patient's consistency and accuracy in following the regimen (directions or rules) prescribed by a physician or other health care professional.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "albuminuria",
+    "pronunciation": "al-byou-mih-NEW-ree-ah",
+    "definition": "The presence of the protein albumin in the urine. High test levels are a sign of impaired kidney function. Albumin is a form of protein found in most body tissues.",
+    "breakdown_text": "albumin: albumin or protein ; -uria: urine"
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "analgesic",
+    "pronunciation": "an-al-JEE-zick",
+    "definition": "Refers to the class of drugs that relieves pain without affecting consciousness. These include such drugs as aspirin, acetaminophen, and ibuprofen.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "antipyretic",
+    "pronunciation": "an-tih-pye-RET-ick",
+    "definition": "A medication administered to prevent or reduce fever. Medications such as aspirin and acetaminophen act by lowering a raised body temperature; however, they do not affect a normal body temperature when a fever is not present.",
+    "breakdown_text": "anti-: against ; pyret: fever ; -ic: pertaining to"
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "arthrocentesis",
+    "pronunciation": "ar-throh-sen-TEE-sis",
+    "definition": "A surgical puncture of the joint space to remove synovial fluid for analysis to determine the cause of pain or swelling in a joint.",
+    "breakdown_text": "arthr/o: joint ; -centesis: a surgical puncture to remove fluid"
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "auscultation",
+    "pronunciation": "aws-kul-TAY-shun",
+    "definition": "Listening for sounds within the body, usually performed through a stethoscope.",
+    "breakdown_text": "auscult/a: to listen ; -tion: the process of"
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "bacteriuria",
+    "pronunciation": "back-tee-ree-YOU-ree-ah",
+    "definition": "The presence of bacteria in the urine.",
+    "breakdown_text": "bacteri: bacteria ; -uria: urine"
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "bruit",
+    "pronunciation": "BREW-ee",
+    "definition": "An abnormal sound or murmur heard during auscultation of an artery. Usually due to a partially blocked, narrowed, or diseased artery. Sometimes pronounced BROOT.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "calciuria",
+    "pronunciation": "kal-sih-YOU-ree-ah",
+    "definition": "The presence of calcium in the urine. Abnormally high levels can be diagnostic for hyperparathyroidism; lower-than-normal levels can indicate osteomalacia.",
+    "breakdown_text": "calci: calcium ; -uria: urine"
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "computed tomography",
+    "pronunciation": "toh-MOG-rah-fee",
+    "definition": "Abbreviated CT; sometimes referred to as computerized axial tomography (CAT). A scan that uses a thin, fan-shaped x-ray beam that rotates around the patient to produce multiple cross-sectional views of the body. Tomography is the imaging of cross-sections of a part of the body.",
+    "breakdown_text": "tom/o: to slice ; -graphy: the process of recording a picture or record"
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "contraindication",
+    "pronunciation": "",
+    "definition": "A factor in the patient's condition that makes the use of a medication or specific treatment dangerous or ill advised.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "creatinuria",
+    "pronunciation": "kree-at-ih-NEW-ree-ah",
+    "definition": "An increased concentration of creatinine in the urine. Creatinine is a waste product of muscle metabolism that is normally removed by the kidneys; excess is an indication of increased muscle breakdown or a disruption of kidney function.",
+    "breakdown_text": "creatin: creatinine ; -uria: urine"
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "echocardiography",
+    "pronunciation": "eck-oh-kar-dee-OG-rah-fee",
+    "definition": "An ultrasonic diagnostic procedure used to evaluate the structures and motion of the heart. The resulting record is an echocardiogram. Not to be confused with an electrocardiogram (EKG).",
+    "breakdown_text": "ech/o: sound ; cardi/o: heart ; -graphy: the process of recording a picture or record"
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "endoscope",
+    "pronunciation": "EN-doh-skope",
+    "definition": "A small, flexible tube with a light and a lens on the end. Fiber optic instruments named for the body parts they are designed to examine.",
+    "breakdown_text": "endo: within ; -scope: an instrument for visual examination"
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "fluoroscopy",
+    "pronunciation": "floo-ROS-koh-pee",
+    "definition": "The visualization of body parts in motion by projecting x-ray images on a luminous fluorescent screen. Used with or without a contrast medium to see movement in a particular area of the body. Luminous means glowing.",
+    "breakdown_text": "fluor/o: glowing ; -scopy: visual examination"
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "glycosuria",
+    "pronunciation": "glye-koh-SOO-ree-ah",
+    "definition": "The presence of glucose in the urine. Most commonly caused by untreated diabetes mellitus.",
+    "breakdown_text": "glycos: glucose ; -uria: urine"
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "hematocrit",
+    "pronunciation": "hee-MAT-oh-krit",
+    "definition": "Abbreviated Hct; a blood test that measures the percentage, by volume, of a blood sample occupied by red cells. Used to diagnose abnormal states of hydration (fluid levels in the body), polycythemia (excess red blood cells), and anemia (deficient red blood cells).",
+    "breakdown_text": "hemat/o: blood ; -crit: to separate"
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "hematuria",
+    "pronunciation": "hee-mah-TOO-ree-ah",
+    "definition": "The presence of blood in the urine. Can be caused by kidney stones, infection, kidney damage, or bladder cancer.",
+    "breakdown_text": "hemat: blood ; -uria: urine"
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "hyperthermia",
+    "pronunciation": "high-per-THER-mee-ah",
+    "definition": "An extremely high body temperature, usually caused by prolonged exposure to environmental heat.",
+    "breakdown_text": "hyper-: excessive ; therm: heat ; -ia: pertaining to"
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "hypothermia",
+    "pronunciation": "high-poh-THER-mee-ah",
+    "definition": "An abnormally low body temperature.",
+    "breakdown_text": "hypo-: deficient ; therm: heat ; -ia: pertaining to"
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "idiosyncratic reaction",
+    "pronunciation": "id-ee-oh-sin-KRAT-ick",
+    "definition": "An unexpected reaction to a drug that is peculiar to the individual.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "interventional radiology",
+    "pronunciation": "",
+    "definition": "The use of radiographic imaging to guide a procedure such as a biopsy. Also used to confirm the placement of an inserted object such as a stent or feeding tube.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "intradermal injection",
+    "pronunciation": "",
+    "definition": "The administration of medication by injection into the middle layers of the skin.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "intramuscular injection",
+    "pronunciation": "",
+    "definition": "Abbreviated IM; the administration of medication by injection directly into muscle tissue.",
+    "breakdown_text": "intra-: within ; muscul: muscle ; -ar: pertaining to"
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "intravenous injection",
+    "pronunciation": "",
+    "definition": "Abbreviated IV; the administration of medication by injection directly into a vein. An IV infusion is administered into a vein over a period of time.",
+    "breakdown_text": "intra-: within ; ven: vein ; -ous: pertaining to"
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "ketonuria",
+    "pronunciation": "kee-toh-NEW-ree-ah",
+    "definition": "The presence of ketones in the urine. Ketones are formed when the body breaks down fat, and their presence in urine can indicate starvation or uncontrolled diabetes.",
+    "breakdown_text": "keton: ketones ; -uria: urine"
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "laparoscopy",
+    "pronunciation": "lap-ah-ROS-koh-pee",
+    "definition": "The visual examination of the interior of the abdomen with the use of a laparoscope that is passed through a small incision in the abdominal wall.",
+    "breakdown_text": "lapar/o: abdomen ; -scopy: visual examination"
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "lithotomy position",
+    "pronunciation": "lih-THOT-oh-mee",
+    "definition": "An examination position in which the patient is lying on the back, face up, with the feet and legs raised and supported in stirrups. Used for vaginal and rectal examinations and during childbirth.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "magnetic resonance imaging",
+    "pronunciation": "",
+    "definition": "Abbreviated MRI; an imaging technique that uses a combination of radio waves and a strong magnetic field to create signals that are sent to a computer and converted into images of any plane through the body. A noninvasive means of examining soft tissues.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "ophthalmoscope",
+    "pronunciation": "ahf-THAL-moh-skope",
+    "definition": "An instrument used to examine the interior of the eye.",
+    "breakdown_text": "ophthalm/o: eye ; -scope: instrument for visual examination"
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "otoscope",
+    "pronunciation": "OH-toh-skope",
+    "definition": "An instrument used to visually examine the external ear canal and tympanic membrane.",
+    "breakdown_text": "ot/o: ear ; -scope: instrument for visual examination"
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "palliative",
+    "pronunciation": "PAL-ee-ay-tiv",
+    "definition": "A substance that eases the pain or severity of the symptoms of a disease but does not cure it. Palliative care is treatment that focuses on alleviating pain and relieving symptoms rather than curing the disease.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "parenteral",
+    "pronunciation": "pah-REN-ter-al",
+    "definition": "Taken into the body or administered in a manner other than through the digestive tract. The most common use of parenteral administration is by injection through a hypodermic syringe.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "percussion",
+    "pronunciation": "per-KUSH-un",
+    "definition": "A diagnostic procedure designed to determine the density of a body part by the sound produced by tapping the surface with the fingers.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "perfusion",
+    "pronunciation": "per-FYOU-zhun",
+    "definition": "The flow of blood through an organ.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "pericardiocentesis",
+    "pronunciation": "pehr-ih-kar-dee-oh-sen-TEE-sis",
+    "definition": "The puncture of the pericardial sac for the purpose of removing fluid. Performed to treat pericarditis.",
+    "breakdown_text": "peri-: surrounding ; cardi/o: heart ; -centesis: a surgical puncture to remove fluid"
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "phlebotomy",
+    "pronunciation": "fleh-BOT-oh-mee",
+    "definition": "Also known as venipuncture; the puncture of a vein for the purpose of drawing blood.",
+    "breakdown_text": "phleb: vein ; -otomy: a surgical incision"
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "placebo",
+    "pronunciation": "plah-SEE-boh",
+    "definition": "An inactive substance, such as a sugar pill or liquid, that is administered only for its suggestive effects. In medical research, sometimes blindly administered to a control group, while the drug being studied is administered to the other group in order to determine whether the drug is effective.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "positron emission tomography",
+    "pronunciation": "",
+    "definition": "Abbreviated PET; also known as PET imaging; an imaging technique that combines computed tomography with radionuclide tracers, usually inserted into a vein, to produce enhanced images of selected body organs or areas. Damaged tissues have reduced metabolic activity, so the gamma radiation from these areas is reduced or absent.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "prone position",
+    "pronunciation": "",
+    "definition": "A position in which the patient lies face down on the abdomen. The arms may be placed under the head for comfort. Used for the examination and treatment of the back and buttocks.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "proteinuria",
+    "pronunciation": "proh-teen-UHR-ree-ah",
+    "definition": "The presence of an abnormal amount of protein in the urine. Usually a sign of kidney disease.",
+    "breakdown_text": "protein: protein ; -uria: urine"
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "pyuria",
+    "pronunciation": "pye-YOU-ree-ah",
+    "definition": "The presence of pus in the urine. When pus is present, the urine is turbid in appearance. Turbid means having a cloudy or smoky appearance.",
+    "breakdown_text": "py: pus ; -uria: urine"
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "radiolucent",
+    "pronunciation": "ray-dee-oh-LOO-sent",
+    "definition": "A substance, such as air or nitrogen gas, that allows x-rays to pass through and appears black or dark gray on the resulting film. The opposite of radiopaque.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "radiopaque",
+    "pronunciation": "ray-dee-oh-PAYK",
+    "definition": "A substance that does not allow x-rays to pass through and appears white or light gray on the resulting film. The opposite of radiolucent.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "rales",
+    "pronunciation": "RAHLZ",
+    "definition": "Also known as crackles; abnormal crackle-like lung sounds heard through a stethoscope during inspiration (breathing in).",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "recumbent",
+    "pronunciation": "ree-KUM-bent",
+    "definition": "Any position in which the patient is lying down, whether on the back, front, or side. In radiography, the term decubitus describes the patient lying in a recumbent position.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "rhonchi",
+    "pronunciation": "RONG-kye",
+    "definition": "Coarse rattling sounds that are somewhat like snoring, usually caused by secretions in the bronchial airways (singular rhonchus).",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "Sims' position",
+    "pronunciation": "",
+    "definition": "An examination position in which the patient is lying on the left side with the right knee and thigh drawn up with the left arm placed along the back. Used in the examination and treatment of the rectal area.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "single photon emission computed tomography",
+    "pronunciation": "",
+    "definition": "Abbreviated SPECT; a type of nuclear imaging test that produces 3D computer-reconstructed images showing perfusion through tissues and organs. A photon is a particle that travels at the speed of light.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "speculum",
+    "pronunciation": "SPECK-you-lum",
+    "definition": "An instrument used to enlarge the opening of any canal or cavity, especially the vagina, to facilitate inspection of its interior.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "sphygmomanometer",
+    "pronunciation": "sfig-moh-mah-NOM-eh-ter",
+    "definition": "An instrument used to measure the force of the blood against the walls of the arteries. A manual style requires a stethoscope; a digital sphygmomanometer is automated and does not.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "stethoscope",
+    "pronunciation": "STETH-oh-skope",
+    "definition": "An instrument used to listen to sounds within the body.",
+    "breakdown_text": "steth/o: chest ; -scope: instrument for examination"
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "stridor",
+    "pronunciation": "STRYE-dor",
+    "definition": "An abnormal, high-pitched, musical breathing sound caused by a blockage in the throat or in the larynx (voice box).",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "subcutaneous injection",
+    "pronunciation": "sub-kyou-TAY-nee-us",
+    "definition": "Abbreviated SC; the administration of medication by injection into the fatty layer just below the skin.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "transdermal",
+    "pronunciation": "",
+    "definition": "The administration of medication through the unbroken skin from a patch so that it is continuously released, absorbed through the skin and transmitted to the bloodstream to produce a systemic effect.",
+    "breakdown_text": "trans-: through or across ; derm: skin ; -al: pertaining to"
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "transesophageal echocardiography",
+    "pronunciation": "trans-eh-sof-ah-JEE-al eck-oh-kar-dee-OG-rah-fee",
+    "definition": "Abbreviated TEE; an ultrasonic imaging technique used to evaluate heart structures. Performed from inside the esophagus, and because the esophagus is so close to the heart, produces clearer images than those obtained with echocardiography.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "ultrasonography",
+    "pronunciation": "ul-trah-son-OG-rah-fee",
+    "definition": "Commonly referred to as ultrasound or diagnostic ultrasound; the imaging of deep body structures by recording the echoes of sound wave pulses that are above the range of human hearing. Unlike CT and x-rays, does not involve radiation.",
+    "breakdown_text": "ultra-: beyond ; son/o: sound ; -graphy: the process of recording a picture or record"
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "urinalysis",
+    "pronunciation": "you-rih-NAL-ih-sis",
+    "definition": "Abbreviated UA; the examination of the physical and chemical properties of urine to determine the presence of abnormal elements.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "assessment",
+    "pronunciation": "",
+    "definition": "As used in medicine, the evaluation or appraisal of the patient's condition. The information is used in reaching a diagnosis and in formulating a plan of care.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "affect",
+    "pronunciation": "",
+    "definition": "The outward expression of emotion.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "ambulation",
+    "pronunciation": "",
+    "definition": "The way the patient walks, including gait, any unsteadiness, or possible difficulty.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "vital signs",
+    "pronunciation": "",
+    "definition": "The four key indications that the body systems are functioning: temperature, pulse, respiration, and blood pressure. Recorded for most patient visits. The abbreviation VSS stands for vital signs stable.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "temperature",
+    "pronunciation": "",
+    "definition": "Average normal body temperature is around 98.6° F (37° C); an oral body temperature higher than approximately 100.4° F is a fever. Readings are named for location: oral, aural (ear), axillary (armpit), and rectal; a temporal artery (forehead) scanner may also be used.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "fever",
+    "pronunciation": "",
+    "definition": "An elevated body temperature most commonly caused by an infection, an injury, or medications.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "pulse",
+    "pronunciation": "",
+    "definition": "The rhythmic pressure against the walls of an artery that is caused by the beating of the heart. The heart rate is recorded as bpm (beats per minute); a normal resting heart rate in adults is 60–100 bpm, for a newborn 100–160 bpm, and for athletes 40–60 bpm.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "respiration",
+    "pronunciation": "",
+    "definition": "Also known as the respiratory rate (RR); the number of complete breaths per minute. The normal respiratory rate for adults ranges from 12 to 20 respirations per minute.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "blood pressure",
+    "pronunciation": "",
+    "definition": "Abbreviated BP; the force of the blood against the walls of the arteries, measured using a sphygmomanometer. Recorded as a ratio with the systolic over the diastolic reading.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "systolic",
+    "pronunciation": "sis-TOL-ick",
+    "definition": "The first beat heard when measuring blood pressure. Memory aid: systolic as in going up to the sky.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "diastolic",
+    "pronunciation": "dye-ah-STOL-ick",
+    "definition": "The last beat heard when measuring blood pressure. Memory aid: diastolic as in going down.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "pain",
+    "pronunciation": "",
+    "definition": "In certain settings, such as a hospital, considered to be the fifth vital sign. A subjective symptom that must be reported by the patient, using a pain rating scale from 0 (no pain) to 10 (severe pain).",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "acute pain",
+    "pronunciation": "",
+    "definition": "Pain that comes on quickly, can be severe, and lasts only a relatively short time. Can be caused by disease, inflammation, or injury; goes away when the cause is diagnosed and treated.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "chronic pain",
+    "pronunciation": "",
+    "definition": "Pain that can be mild to severe, persists over a longer period of time than acute pain and is resistant to most medical treatments.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "respiratory sounds",
+    "pronunciation": "",
+    "definition": "Sounds heard through a stethoscope that provide information about the condition of the lungs and pleura as the patient breathes. Include rales, rhonchi, and stridor.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "heart sounds",
+    "pronunciation": "",
+    "definition": "The two distinct sounds heard through a stethoscope. The lubb sound is heard first, caused by the tricuspid and mitral valves closing between the atria and ventricles; the dupp sound, shorter and higher pitched, is heard next, caused by the closing of the valves in the aorta and pulmonary arteries.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "thrill",
+    "pronunciation": "",
+    "definition": "An abnormal rhythmic vibration felt when palpating an artery.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "heart murmur",
+    "pronunciation": "",
+    "definition": "An abnormal heart sound that is most commonly a sign of defective heart valves. Described by volume and the stage of the heartbeat when the murmur is heard.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "abdominal sounds",
+    "pronunciation": "",
+    "definition": "Also known as bowel sounds; normal noises made by the intestines. Increased bowel sounds can indicate a bowel obstruction; the absence of these sounds can indicate ileus.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "palpation",
+    "pronunciation": "pal-PAY-shun",
+    "definition": "An examination technique in which the examiner's hands are used to feel the texture, size, consistency, and location of certain body parts.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "horizontal recumbent position",
+    "pronunciation": "",
+    "definition": "Also known as the supine position; the patient is lying on the back, face up. Used for examination and treatment of the anterior surface of the body and for x-rays.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "dorsal recumbent position",
+    "pronunciation": "",
+    "definition": "The patient is lying on the back, face up, with the knees bent. Used for the examination and treatment of the abdominal area and for vaginal or rectal examinations.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "knee–chest position",
+    "pronunciation": "",
+    "definition": "The patient is lying face down with the hips bent so that the knees and chest rest on the table. Also used for rectal examinations.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "stat",
+    "pronunciation": "",
+    "definition": "When a laboratory test is ordered stat, the results are needed immediately and the tests have top priority. Comes from the Latin word meaning immediately.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "profile or panel",
+    "pronunciation": "",
+    "definition": "Tests that are frequently performed as a group on automated multi-channel laboratory testing equipment.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "arterial stick",
+    "pronunciation": "",
+    "definition": "The puncture of an artery, usually on the inside of the wrist, to obtain arterial blood. Arterial blood differs from venous blood mostly in the concentration of dissolved gases it contains.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "capillary puncture",
+    "pronunciation": "",
+    "definition": "The technique used when only a small amount of blood is needed as a specimen. Usually known as a finger, heel, or earlobe stick.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "complete blood cell count",
+    "pronunciation": "",
+    "definition": "Abbreviated CBC; a series of tests performed as a group to evaluate several blood conditions.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "erythrocyte sedimentation rate",
+    "pronunciation": "eh-RITH-roh-site",
+    "definition": "Abbreviated ESR; also known as a sed rate; a test based on the speed with which the red blood cells separate from the plasma and fall to the bottom of a specialized test tube. An elevated rate indicates the presence of inflammation in the body.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "platelet count",
+    "pronunciation": "",
+    "definition": "Measures the number of platelets in a specified amount of blood; a screening test to evaluate platelet function. Also used to monitor changes in the blood associated with chemotherapy and radiation therapy, including thrombocytosis and thrombocytopenia.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "red blood cell count",
+    "pronunciation": "",
+    "definition": "Abbreviated RBC; a determination of the number of erythrocytes in the blood. A depressed count can indicate anemia or an acute hemorrhage.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "total hemoglobin test",
+    "pronunciation": "",
+    "definition": "Abbreviated Hb; usually part of a complete blood count. Elevated levels indicate a higher than normal hemoglobin concentration due to polycythemia or dehydration; low levels indicate anemia, recent hemorrhage, or fluid retention.",
+    "breakdown_text": "hem/o: blood ; -globin: protein"
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "white blood cell count",
+    "pronunciation": "",
+    "definition": "Abbreviated WBC; a determination of the number of leukocytes in the blood. An elevated count can be an indication of infection or inflammation.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "white blood cell differential count",
+    "pronunciation": "",
+    "definition": "Tests to see what percentage of the total white blood cell count is composed of each of the five types of leukocytes. Provides information about the patient's immune system, detects certain types of leukemia, and determines the severity of infection.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "basic metabolic panel",
+    "pronunciation": "",
+    "definition": "Abbreviated BMP, or Profile 8; a group of eight specific blood tests that provide important information about the current status of the patient's kidneys, electrolyte balance, blood sugar, and calcium levels. Significant changes can indicate acute problems such as kidney failure, diabetes-related complications, or respiratory problems.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "blood urea nitrogen test",
+    "pronunciation": "",
+    "definition": "Abbreviated BUN; measures the amount of nitrogen in the blood due to the waste product urea. Performed to obtain an indication of kidney function.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "urea",
+    "pronunciation": "you-REE-ah",
+    "definition": "The major end product of protein metabolism found in urine and blood.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "crossmatch tests",
+    "pronunciation": "",
+    "definition": "Tests performed to determine the compatibility of donor blood and the recipient before a blood transfusion. Agglutination, the clumping together of red blood cells, is a positive reaction that indicates the donor unit is not a suitable match.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "C-reactive protein test",
+    "pronunciation": "",
+    "definition": "Abbreviated CRP; performed to identify high levels of inflammation within the body. The protein is produced by the liver only during episodes of acute inflammation. An elevated level can indicate a heart attack, coronary artery disease, or an autoimmune disorder.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "lipid panel",
+    "pronunciation": "",
+    "definition": "Also called a lipid profile; measures the amounts of total cholesterol, high-density lipoprotein (HDL), low-density lipoprotein (LDL), and triglycerides in a blood sample.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "prothrombin time",
+    "pronunciation": "proh-THROM-bin",
+    "definition": "Abbreviated PT; also known as pro time; a coagulation test used to diagnose conditions associated with abnormalities of clotting time and to monitor anticoagulant therapy. A longer prothrombin time can be caused by serious liver disease, bleeding disorders, blood-thinning medicines, or a lack of vitamin K.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "serum bilirubin test",
+    "pronunciation": "",
+    "definition": "Measures the ability of the liver to take up, process, and secrete bilirubin into the bile. Useful in determining whether a patient has a condition such as liver disease or a blocked bile duct.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "arterial blood gas analysis",
+    "pronunciation": "",
+    "definition": "Abbreviated ABG; measures the pH, oxygen, and carbon dioxide levels of arterial blood. Used to evaluate lung and kidney function and overall metabolism.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "genetic tests",
+    "pronunciation": "",
+    "definition": "Tests done using blood, saliva, hair, amniotic fluid, or other tissue to look at a single gene in a person's DNA. Examples include newborn screening for congenital disorders, testing for the BRCA gene, and a test to confirm a diagnosis of cystic fibrosis or Huntington's disease.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "genome testing",
+    "pronunciation": "",
+    "definition": "Also genomic testing; whole genome screening that uses DNA to identify genetic variants that may increase the risk of certain diseases or disorders. Can also be used to pinpoint unexplained conditions suspected to be genetic in origin.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "routine urinalysis",
+    "pronunciation": "",
+    "definition": "Performed to screen for urinary and systemic disorders using a dipstick, a plastic strip impregnated with chemicals that react with substances in the urine and change color when abnormalities are present.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "casts",
+    "pronunciation": "",
+    "definition": "Fibrous or protein materials, such as pus and fats, that are thrown off into the urine in kidney disease; identified by microscopic examination. The term cast is also used to describe a rigid dressing used to immobilize a fractured bone.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "pH",
+    "pronunciation": "",
+    "definition": "The degree of acidity or alkalinity of a substance. The average normal pH range of urine is from 4.5 to 8.0; below 7 indicates acid urine, and above 7 indicates alkaline urine.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "acidosis",
+    "pronunciation": "ass-eh-DOH-sis",
+    "definition": "Excessive acid in the body fluids. The opposite of alkalosis.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "specific gravity",
+    "pronunciation": "",
+    "definition": "Reflects the amount of wastes, minerals, and solids that are present in urine. Low specific gravity (dilute urine) is characteristic of diabetes insipidus; high specific gravity (concentrated urine) occurs in conditions such as dehydration, liver failure, or shock.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "drug-screening urine test",
+    "pronunciation": "",
+    "definition": "A rapid method of identifying the presence in the body of one or more drugs such as cocaine, heroin, or marijuana. Also used to detect performance-enhancing drugs in athletes.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "urine culture and sensitivity",
+    "pronunciation": "",
+    "definition": "Also known as a urine C and S; a laboratory test used to identify the cause of a urinary tract infection and to determine which antibiotic would be the most effective treatment.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "stool analysis",
+    "pronunciation": "",
+    "definition": "The examination of the physical and chemical properties of stool to determine the presence of abnormal elements such as bacteria, blood, enzymes, bile, fat, and undigested nutrients. Can help diagnose malabsorption, cancer, and infection.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "stool gram stain",
+    "pronunciation": "",
+    "definition": "Tests for which bacteria are present in a sample.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "stool guaiac test",
+    "pronunciation": "",
+    "definition": "Looks for blood in the stool.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "fecal fat test",
+    "pronunciation": "",
+    "definition": "Analyzes how much fat is contained in the sample to determine how well the body is digesting fat and whether the necessary functions in fat absorption by the pancreas and gallbladder are working.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "endoscopy",
+    "pronunciation": "en-DOS-koh-pee",
+    "definition": "The visual examination of the interior of a body cavity. Usually named for the organs or body systems involved.",
+    "breakdown_text": "endo: within ; -scopy: visual examination"
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "endoscopic surgery",
+    "pronunciation": "",
+    "definition": "A surgical procedure performed through very small incisions with the use of an endoscope and specialized instruments.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "laparoscopic surgery",
+    "pronunciation": "",
+    "definition": "Surgery involving the use of a laparoscope plus specialized instruments inserted into the abdomen through small incisions. Used to explore the interior of the abdomen, take specimens to be biopsied, and perform procedures such as the removal of a diseased gallbladder.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "centesis",
+    "pronunciation": "sen-TEE-sis",
+    "definition": "A surgical puncture to remove excess fluid or to remove fluid for diagnostic purposes. Used alone as a noun or as a suffix with the combining form describing the body part.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "abdominocentesis",
+    "pronunciation": "ab-dom-ih-noh-sen-TEE-sis",
+    "definition": "The surgical puncture of the abdominal cavity to remove fluid.",
+    "breakdown_text": "abdomin/o: abdomen ; -centesis: a surgical puncture to remove fluid"
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "cardiocentesis",
+    "pronunciation": "kar-dee-oh-sen-TEE-sis",
+    "definition": "Also known as cardiopuncture; the puncture of a chamber of the heart for diagnosis or therapy.",
+    "breakdown_text": "cardi/o: heart ; -centesis: a surgical puncture to remove fluid"
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "biopsy",
+    "pronunciation": "BYE-op-see",
+    "definition": "The removal of a small piece of living tissue for examination to confirm or establish a diagnosis. After a biopsy the sample is sent to a laboratory for testing.",
+    "breakdown_text": "bi: pertaining to life ; -opsy: view of"
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "fine-needle aspiration",
+    "pronunciation": "",
+    "definition": "Abbreviated FNA; a biopsy technique that uses a very thin needle inserted through the skin and into the intended fluid or tissue.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "core needle biopsy",
+    "pronunciation": "",
+    "definition": "A biopsy technique that uses a larger needle to collect more of the fluid or tissue.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "imaging techniques",
+    "pronunciation": "",
+    "definition": "Techniques used to visualize and examine internal body structures. The three most commonly used are x-ray, computed tomography, and magnetic resonance imaging.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "x-ray",
+    "pronunciation": "",
+    "definition": "Also called radiography; uses x-rays passing through the patient to expose a film or create a digital image that shows the body in profile. Hard tissues are light, soft tissues are shades of gray, and air is black.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "contrast medium",
+    "pronunciation": "",
+    "definition": "A substance administered by swallowing, via an enema, or intravenously to make specific body structures visible. Either radiopaque or radiolucent.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "intravenous contrast medium",
+    "pronunciation": "",
+    "definition": "A contrast medium injected into a vein to make the flow of blood through blood vessels and organs visible.",
+    "breakdown_text": "intra-: within ; ven: vein ; -ous: pertaining to"
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "barium",
+    "pronunciation": "",
+    "definition": "Chemical symbol Ba; a radiopaque barium-sulfate compound contrast medium used primarily to visualize the gastrointestinal tract. Administered orally as a barium swallow for an upper GI study and rectally as a barium enema for a lower GI study.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "radiology",
+    "pronunciation": "",
+    "definition": "Conventional radiology creates an image of hard-tissue internal structures by the exposure of sensitized film to x-radiation. The resulting film is known as an x-ray or radiograph.",
+    "breakdown_text": "radi: radiation ; -ology: study of"
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "x-radiation",
+    "pronunciation": "",
+    "definition": "Also referred to as ionizing radiation; beneficial in producing diagnostic images and in treating cancer; however, excess exposure is dangerous and the effects are cumulative.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "dosimetry",
+    "pronunciation": "",
+    "definition": "The science of measuring radiation exposure.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "radiographic positioning",
+    "pronunciation": "",
+    "definition": "The placement of the patient's body and the part of the body that is closest to the x-ray film. For example, in a left lateral position, the left side of the patient's body is placed nearest the film.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "radiographic projection",
+    "pronunciation": "",
+    "definition": "The path that the x-ray beam follows through the patient's body from the entrance to the exit.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "extraoral radiography",
+    "pronunciation": "",
+    "definition": "Dental radiography in which the film is placed and exposed outside of the mouth. A panoramic radiograph shows all of the structures in both dental arches in a single film.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "intraoral radiography",
+    "pronunciation": "",
+    "definition": "Dental radiography in which the film is placed within the mouth and exposed by a camera positioned next to the exterior of the cheek.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "tomography",
+    "pronunciation": "toh-MOG-rah-fee",
+    "definition": "The imaging of cross-sections of a part of the body.",
+    "breakdown_text": "tom/o: to slice ; -graphy: the process of recording a picture or record"
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "closed MRI",
+    "pronunciation": "",
+    "definition": "The most commonly used type of MRI equipment, which produces the most accurate images; however, patients may be uncomfortable because of the loud noise and the feeling of being closed in.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "open MRI",
+    "pronunciation": "",
+    "definition": "An MRI designed to be less confining and more comfortable for some people, especially large patients and those suffering from claustrophobia. Has a lower field strength, which limits its uses in certain situations.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "gadolinium",
+    "pronunciation": "",
+    "definition": "A natural chemical element used as contrast in some MRI exams. Unlike CT scan contrast dye, it does not use iodine.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "magnetic resonance angiography",
+    "pronunciation": "",
+    "definition": "Abbreviated MRA; also known as magnetic resonance angio; helps locate problems within blood vessels throughout the body. Frequently used as an alternative to conventional angiography.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "sonogram",
+    "pronunciation": "SOH-noh-gram",
+    "definition": "The image created by ultrasonography.",
+    "breakdown_text": "son/o: sound ; -gram: a picture or record"
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "Doppler echocardiogram",
+    "pronunciation": "",
+    "definition": "Performed in the same way as an echocardiogram; however, measures the speed and direction of the blood flow within the heart.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "fetal ultrasound",
+    "pronunciation": "",
+    "definition": "A noninvasive procedure used to image and evaluate fetal development during pregnancy. 3D/4D ultrasound uses specialized equipment to create photograph-like images of the developing child.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "nuclear medicine",
+    "pronunciation": "",
+    "definition": "The use of drugs known as radiopharmaceuticals for either diagnostic or treatment purposes.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "radiopharmaceuticals",
+    "pronunciation": "",
+    "definition": "Drugs that contain radioactive materials called radioisotopes that produce a powerful form of energy called radiation. Can be inserted into a vein, taken by mouth, or placed inside the body.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "nuclear imaging",
+    "pronunciation": "",
+    "definition": "The use of radiopharmaceuticals for diagnostic purposes, documenting the structure and function of the organ or organs being examined. Unlike x-ray technology, in which the radiation is external, nuclear imaging involves a low dose of radiopharmaceuticals taken internally.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "radionuclide tracer",
+    "pronunciation": "",
+    "definition": "Also known as a radioactive tracer; contained in each radiopharmaceutical and specific to the body system being examined. The short-lived tracer can be given by mouth or inserted into a vein.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "nuclear scan",
+    "pronunciation": "",
+    "definition": "Also known as a scintigram; a diagnostic procedure that uses nuclear medicine technology to gather information about the structure and function of organs or body systems that cannot be seen on conventional x-rays.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "bone scan",
+    "pronunciation": "",
+    "definition": "A nuclear scanning test that identifies new areas of bone growth or breakdown after a radionuclide tracer is injected into the bloodstream. Can detect a problem days to months earlier than a regular x-ray; areas where cells and tissues are actively repairing themselves take up the largest amounts of tracer.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "thyroid scan",
+    "pronunciation": "",
+    "definition": "A nuclear scan for which a radiopharmaceutical containing radioactive iodine is administered. Provides information about the size, shape, location, and relative activity of different parts of the thyroid gland.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "photon",
+    "pronunciation": "",
+    "definition": "A particle that travels at the speed of light.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "pharmacology",
+    "pronunciation": "",
+    "definition": "The study of the nature, uses, and effects of drugs for medical purposes.",
+    "breakdown_text": "pharmac: drug ; -ology: study of"
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "prescription drug",
+    "pronunciation": "",
+    "definition": "A medication that can legally be dispensed only by a pharmacist with an order from a licensed professional such as a physician or dentist.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "over-the-counter drug",
+    "pronunciation": "",
+    "definition": "Abbreviated OTC; a medication that can be purchased without a prescription.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "generic drug",
+    "pronunciation": "",
+    "definition": "A drug usually named for its chemical structure and not protected by a brand name or trademark. For example, diazepam is the generic name of a drug frequently used as skeletal muscle relaxant, sedative, and anti-anxiety agent.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "brand-name drug",
+    "pronunciation": "",
+    "definition": "A drug sold under the name given the drug by the manufacturer. A brand name is always spelled with a capital letter. For example, Valium is a brand name for diazepam.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "formulary",
+    "pronunciation": "FOR-myoo-lah-ree",
+    "definition": "A list of prescription drugs covered by a specific health care plan. The term originally referred to a book listing ingredients and formulas for making medicines.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "Physicians' Desk Reference",
+    "pronunciation": "",
+    "definition": "Abbreviated PDR; the most commonly used drug information guide. Updated annually.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "ac",
+    "pronunciation": "",
+    "definition": "Before meals (ante cibum).",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "ad lib",
+    "pronunciation": "",
+    "definition": "As desired (ad libitum).",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "amt",
+    "pronunciation": "",
+    "definition": "Amount.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "bid",
+    "pronunciation": "",
+    "definition": "Twice a day (bis in die).",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "NPO",
+    "pronunciation": "",
+    "definition": "Nothing by mouth (nil per os).",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "pc",
+    "pronunciation": "",
+    "definition": "After meals (post cibum).",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "po",
+    "pronunciation": "",
+    "definition": "By mouth (per os).",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "prn",
+    "pronunciation": "",
+    "definition": "As needed (pro re nata).",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "qh",
+    "pronunciation": "",
+    "definition": "Every hour (quaque hora).",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "qid",
+    "pronunciation": "",
+    "definition": "Four times a day (quater in die).",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "Rx",
+    "pronunciation": "",
+    "definition": "Prescription (recipe, to take).",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "sig",
+    "pronunciation": "",
+    "definition": "To be labeled accordingly (signa, to write).",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "tid",
+    "pronunciation": "",
+    "definition": "Three times a day (ter in die).",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "@",
+    "pronunciation": "",
+    "definition": "At.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "c",
+    "pronunciation": "",
+    "definition": "With.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "↑",
+    "pronunciation": "",
+    "definition": "Increase.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "↓",
+    "pronunciation": "",
+    "definition": "Decrease.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": ">",
+    "pronunciation": "",
+    "definition": "Greater than.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "≥",
+    "pronunciation": "",
+    "definition": "Greater than or equal to.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "<",
+    "pronunciation": "",
+    "definition": "Less than.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "≤",
+    "pronunciation": "",
+    "definition": "Less than or equal to.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "♀",
+    "pronunciation": "",
+    "definition": "Female.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "♂",
+    "pronunciation": "",
+    "definition": "Male.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "addiction",
+    "pronunciation": "",
+    "definition": "Compulsive, uncontrollable dependence on a drug, alcohol, or other substance. Can also be a habit or practice that cannot be stopped without causing severe emotional, mental, or physiologic reactions.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "controlled substances",
+    "pronunciation": "",
+    "definition": "Addictive prescription medicines and illicit drugs whose manufacture, possession, and use are regulated by the government.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "drug tolerance",
+    "pronunciation": "",
+    "definition": "When the body has become accustomed to a medication after being on it for a length of time, and higher doses are required to achieve the desired effect.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "adverse drug reaction",
+    "pronunciation": "",
+    "definition": "Abbreviated ADR; also known as a side effect; an undesirable reaction that accompanies the principal response for which the drug was taken.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "regimen",
+    "pronunciation": "",
+    "definition": "Directions or rules.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "drug interaction",
+    "pronunciation": "",
+    "definition": "The result of drugs reacting with each other, often in ways that are unexpected or potentially harmful. Can occur when medications are taken along with herbal remedies or when more than one prescription drug is taken at the same time.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "synergism",
+    "pronunciation": "SIN-er-jizm",
+    "definition": "The interaction of two drugs taken together that enhances the effectiveness of both. The term comes from the Greek term for working together.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "paradoxical reaction",
+    "pronunciation": "",
+    "definition": "The result of medical treatment that yields the opposite of normally expected results. Paradoxical means not being normal or the usual kind.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "anti-inflammatory medication",
+    "pronunciation": "",
+    "definition": "A medication that relieves inflammation and pain without affecting consciousness.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "non-narcotic analgesics",
+    "pronunciation": "",
+    "definition": "Analgesics, such as aspirin, sold over the counter for mild to moderate pain. Prescription pain relievers are used for moderate to severe pain.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "opioids",
+    "pronunciation": "",
+    "definition": "Also called narcotics; such as morphine, hydrocodone, oxycodone, and codeine, available by prescription only to relieve severe pain. Also have a sedative (calming) effect; prolonged use can cause physical dependence and addiction. There is currently an epidemic of opioid-related overdoses, many involving the synthetic opioid fentanyl.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "nonsteroidal anti-inflammatory drugs",
+    "pronunciation": "EN-saids",
+    "definition": "Abbreviated NSAIDs; non-narcotic analgesics administered to control pain by reducing inflammation and swelling. Some, such as aspirin and ibuprofen, are available over the counter; stronger NSAIDs are available by prescription. Can attack the stomach lining and thin the blood.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "ibuprofen",
+    "pronunciation": "eye-byoo-PRO-fen",
+    "definition": "An NSAID sold over the counter under the brand names of Advil and Motrin. Acts as an analgesic and an antipyretic.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "topical analgesics",
+    "pronunciation": "",
+    "definition": "Pain-relieving creams applied to the skin to relieve pain due to conditions such as osteoarthritis, rheumatoid arthritis, back pain, or burns. Primary active ingredients include capsaicin, a chemical found in chili peppers, and lidocaine, a numbing agent.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "oral analgesics",
+    "pronunciation": "",
+    "definition": "Medications that help relieve pain in and near the mouth such as toothache or cold sore. An analgesic lozenge or throat spray is used to ease the pain of a sore throat.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "transcutaneous electrical nerve stimulation",
+    "pronunciation": "",
+    "definition": "Abbreviated TENS; a method of pain control by wearing a device that delivers small electrical impulses, as needed, to the nerve endings through the skin. The impulses cause changes in muscles, such as numbness or contractions, which produce temporary pain relief. Transcutaneous means performed through the unbroken skin.",
+    "breakdown_text": "trans-: across ; cutane: skin ; -ous: pertaining to"
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "inhalation administration",
+    "pronunciation": "",
+    "definition": "Vapors and gases taken in through the nose or mouth and absorbed into the bloodstream through the lungs. One example is the use of a metered-dose inhaler to treat asthma.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "oral administration",
+    "pronunciation": "",
+    "definition": "Medications taken by mouth to be absorbed through the walls of the stomach or small intestine, in the form of liquids, tablets (pills), or capsules. Medications to be released in the small intestine are covered with an enteric coating to prevent them from being absorbed in the stomach.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "rectal administration",
+    "pronunciation": "",
+    "definition": "The insertion of medication in the rectum either in the form of a suppository or a liquid. A suppository is medication in a semisolid form that melts at body temperature, and the medication is absorbed through the surrounding tissues.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "sublingual administration",
+    "pronunciation": "",
+    "definition": "The placement of medication under the tongue where it is allowed to dissolve slowly. Because the sublingual tissues are highly vascular, the medication is quickly absorbed directly into the bloodstream. Buccal administration allows the drug to dissolve between the gums and cheek.",
+    "breakdown_text": "sub-: under ; lingu: tongue ; -al: pertaining to"
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "topical application",
+    "pronunciation": "",
+    "definition": "A liquid or ointment that is rubbed into the skin on the area to be treated; for example, cortisone ointment applied topically to relieve itching and to speed healing.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "transdermal medication",
+    "pronunciation": "",
+    "definition": "Medication administered from a patch that is applied to unbroken skin, continuously released and absorbed through the skin to the bloodstream so that it can produce a systemic effect. Used to convey medications such as nitroglycerin for angina or hormones for hormone replacement therapy.",
+    "breakdown_text": "trans-: through or across ; derm: skin ; -al: pertaining to"
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "hypodermic syringe",
+    "pronunciation": "",
+    "definition": "The device used for the most common parenteral administration, by injection.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "PICC line",
+    "pronunciation": "",
+    "definition": "The abbreviation for peripherally inserted central catheter; frequently used for a patient who will need IV therapy for more than 7 days.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "bolus",
+    "pronunciation": "BOH-lus",
+    "definition": "Also known as a bolus infusion; a single, concentrated dose of a drug usually injected into a blood vessel over a short period of time.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "durable medical equipment",
+    "pronunciation": "",
+    "definition": "Abbreviated DME; products prescribed by a doctor that are not medications, such as wheelchairs, walkers, crutches, CPAP devices, blood sugar monitors, home oxygen equipment, and nebulizers. May or may not be covered by insurance.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "wearable medical devices",
+    "pronunciation": "",
+    "definition": "An emerging field of devices that a patient can use to track various signs and symptoms. FDA approved; can be purchased by a consumer directly or used exclusively in a healthcare setting. A basic example is a watch with a heart rate monitor that sends data to an application on a smart phone.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "complementary and alternative medicine",
+    "pronunciation": "",
+    "definition": "Abbreviated CAM; a wide range of therapies available to patients, some researched and proven effective, others with little research to support their claims. Can be used to supplement or replace allopathic medicine.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "allopathic medicine",
+    "pronunciation": "ah-low-PAH-thick",
+    "definition": "Another term for conventional, or Western, medical practices and systems of health care.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "alternative medicine",
+    "pronunciation": "",
+    "definition": "A general term for practices and systems of health care other than allopathic approaches used in place of these treatments.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "complementary medicine",
+    "pronunciation": "",
+    "definition": "A general term for practices and systems of health care other than allopathic approaches used to supplement these treatments.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "integrative medicine",
+    "pronunciation": "",
+    "definition": "A model of health care based on both allopathic and alternative medicine.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "holistic",
+    "pronunciation": "hoe-LISS-tick",
+    "definition": "Refers to a treatment approach that takes into consideration the whole body and its environment, including the mind, body, and spirit.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "wellness",
+    "pronunciation": "",
+    "definition": "Actively working toward a state of being in good physical and mental health. Contributing factors include a healthy diet, exercise, stress reduction, and the avoidance of risky behavior.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "Ayurvedic medicine",
+    "pronunciation": "ay-uhr-VEH-dick",
+    "definition": "The traditional Hindu system of medicine, emphasizing a holistic approach to preventive treatment through hygiene, exercise, herbal preparations, and yoga and the treatment of illnesses with herbal medicines, physiotherapy, and diet.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "traditional Chinese medicine",
+    "pronunciation": "",
+    "definition": "A system of ancient Chinese medicinal treatments including acupuncture, diet, herbal therapy, meditation, physical exercise, and massage to prevent, diagnose, and treat disease. Parts, such as acupuncture, are also used as complementary medicine.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "kinesiology",
+    "pronunciation": "kih-NEES-ee-ol-oh-jee",
+    "definition": "The study of body movements and physical activity. Not to be confused with applied kinesiology, an alternative therapy that combines muscle monitoring with the principles of Chinese medicine.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "naturopathy",
+    "pronunciation": "nay-cher-AH-pah-thee",
+    "definition": "Also known as naturopathic medicine; a combination of nutrition, medicinal supplements and herbs, water therapy, homeopathy, and lifestyle modifications used to identify and treat the root causes of symptoms and disease instead of surgery and drugs. Emphasizes supporting the body's own innate healing ability and the healing power of nature.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "herbal medicine",
+    "pronunciation": "",
+    "definition": "Also known as phytotherapy; the use of plants as a dietary supplement. Supplements are considered food, not medicine, and are not regulated in the same way by the FDA.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "homeopathy",
+    "pronunciation": "hoh-mee-OP-ah-thee",
+    "definition": "The use of substances created from plant or mineral products diluted a thousand-fold in water or alcohol. Homeopaths believe that the body can stimulate its own healing responses when the right trigger is given in minute doses, producing symptoms similar to the disease being treated.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "mind–body therapies",
+    "pronunciation": "",
+    "definition": "Therapies that try to reduce stress and prevent its negative effects on the body. Can be used for stress reduction, pain management, lifestyle changes, and depression.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "biofeedback",
+    "pronunciation": "",
+    "definition": "A patient-guided treatment that teaches individuals to control muscle tension, pain, body temperature, brain waves, and other bodily functions through relaxation, visualization, and other cognitive control techniques.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "guided imagery",
+    "pronunciation": "",
+    "definition": "Also called visualization; a type of treatment in which a patient follows verbal prompts to envision a specific, peaceful location in detail, distancing him- or herself from any pain or stress.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "hypnosis",
+    "pronunciation": "",
+    "definition": "A type of therapy in which a patient is placed in a state of focused concentration and narrowed attention that makes him or her more susceptible to suggestions, and then given suggestions directed toward the patient's treatment goal.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "mindfulness meditation",
+    "pronunciation": "",
+    "definition": "Focuses on becoming aware of thoughts and emotions and their physiological responses, as well as accepting them and maintaining a calm, constant awareness.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "energy therapies",
+    "pronunciation": "",
+    "definition": "Therapies that try to improve or maintain health by manipulating the body's energy flow, or qi. Based on the belief that illness is linked to blocked or insufficient energy levels.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "qi",
+    "pronunciation": "",
+    "definition": "Believed to be the fundamental life energy responsible for health and vitality.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "acupressure",
+    "pronunciation": "AK-que-presh-ur",
+    "definition": "A traditional Chinese touch therapy involving finger pressure applied to specific areas of the body to restore the flow of qi.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "Qi Gong",
+    "pronunciation": "CHEE-gong",
+    "definition": "A Chinese system of movement, breathing techniques, and meditation designed to improve and enhance the flow of qi.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "Reiki",
+    "pronunciation": "RAY-kee",
+    "definition": "A Japanese technique in which the practitioner transfers healing energy to the patient by means of visualization or gentle touch.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "hands-on therapies",
+    "pronunciation": "",
+    "definition": "Therapies that try to improve body function by physically manipulating or massaging the body. Can be used for neck or back pain, relaxation, and increased range of motion.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "chiropractic manipulative therapy",
+    "pronunciation": "",
+    "definition": "A system of mechanical spinal adjustments made by a chiropractor to correct biomechanical problems in the skeletal framework of the body.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "osteopathic manipulative therapy",
+    "pronunciation": "",
+    "definition": "Mechanical spinal adjustment used in conjunction with conventional medical therapies by an osteopath.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "therapeutic massage",
+    "pronunciation": "",
+    "definition": "The use of touch and pressure to relieve pain.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "craniosacral therapy",
+    "pronunciation": "kray-nee-oh-SAK-ral",
+    "definition": "The use of gentle touch to help the body release tension, stress, and trauma to correct restrictions resulting from stress on the central nervous system.",
+    "breakdown_text": "crani/o: skull ; sacral: referring to the sacrum"
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "myofascial release",
+    "pronunciation": "my-oh-FASH-ee-ahl",
+    "definition": "A specialized soft-tissue manipulation technique used to ease the pain of conditions such as fibromyalgia, myofascial pain syndrome, movement restrictions, temporomandibular joint disorders (TMJ), and carpal tunnel syndrome.",
+    "breakdown_text": "my/o: muscle ; fascial: refers to the fascia"
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "neuromuscular therapy",
+    "pronunciation": "",
+    "definition": "Abbreviated NMT; a form of massage that uses soft-tissue manipulation focusing on applying pressure to trigger points to treat injuries and alleviate pain. A trigger point is a particularly taut band of muscle that is tender to the touch.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "pharmacist",
+    "pronunciation": "",
+    "definition": "A licensed specialist who formulates and dispenses prescribed medications.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "sonographer",
+    "pronunciation": "",
+    "definition": "A technician specifically trained in the technique of ultrasound.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "nuclear medicine technologist",
+    "pronunciation": "",
+    "definition": "A professional who specializes in the preparation and administration of radiopharmaceuticals.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "acupuncturist",
+    "pronunciation": "",
+    "definition": "A professional who has had extensive education in acupuncture and traditional Chinese medicine and is licensed by each state.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "phlebotomist",
+    "pronunciation": "fleh-BOT-oh-mist",
+    "definition": "A medical professional who is trained to draw blood from patients for various laboratory tests and other procedures.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 15,
+    "system_group": "Procedures, Nuclear Medicine, and Pharmacology",
+    "term": "radiologist",
+    "pronunciation": "ray-dee-OL-oh-jist",
+    "definition": "A physician who specializes in diagnosing and treating diseases and disorders with x-rays and other forms of radiant energy.",
+    "breakdown_text": "radi: radiation ; -ologist: specialist"
+  }
+]

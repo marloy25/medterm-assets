@@ -1,0 +1,2570 @@
+[
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "card/o, cardi/o",
+    "pronunciation": "",
+    "definition": "Heart.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "angi/o",
+    "pronunciation": "",
+    "definition": "Blood or lymph vessel.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "vas/o",
+    "pronunciation": "",
+    "definition": "Blood vessel.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "aort/o",
+    "pronunciation": "",
+    "definition": "Aorta.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "arteri/o",
+    "pronunciation": "",
+    "definition": "Artery.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "ather/o",
+    "pronunciation": "",
+    "definition": "Plaque, fatty substance.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "brady-",
+    "pronunciation": "",
+    "definition": "Slow.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "capill/o",
+    "pronunciation": "",
+    "definition": "Capillary.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "-crasia",
+    "pronunciation": "",
+    "definition": "A mixture or blending.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "-emia",
+    "pronunciation": "",
+    "definition": "Blood, blood condition.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "erythr/o",
+    "pronunciation": "",
+    "definition": "Red.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "hem/o, hemat/o",
+    "pronunciation": "",
+    "definition": "Blood, relating to the blood.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "leuk/o",
+    "pronunciation": "",
+    "definition": "White.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "phleb/o",
+    "pronunciation": "",
+    "definition": "Vein.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "tachy-",
+    "pronunciation": "",
+    "definition": "Fast, rapid.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "thromb/o",
+    "pronunciation": "",
+    "definition": "Clot.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "ven/o",
+    "pronunciation": "",
+    "definition": "Vein.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "vascul",
+    "pronunciation": "",
+    "definition": "Blood vessels.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "-ar",
+    "pronunciation": "",
+    "definition": "Pertaining to.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "peri-",
+    "pronunciation": "",
+    "definition": "Surrounding.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "-um",
+    "pronunciation": "",
+    "definition": "A singular noun ending.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "epi-",
+    "pronunciation": "",
+    "definition": "Upon.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "my/o",
+    "pronunciation": "",
+    "definition": "Muscle.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "endo-",
+    "pronunciation": "",
+    "definition": "Within.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "-ic",
+    "pronunciation": "",
+    "definition": "Pertaining to.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "-ules",
+    "pronunciation": "",
+    "definition": "Small ones.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "isch",
+    "pronunciation": "",
+    "definition": "To hold back.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "-megaly",
+    "pronunciation": "",
+    "definition": "Enlargement.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "-itis",
+    "pronunciation": "",
+    "definition": "Inflammation.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "-pathy",
+    "pronunciation": "",
+    "definition": "Disease.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "-oma",
+    "pronunciation": "",
+    "definition": "Tumor.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "-osis",
+    "pronunciation": "",
+    "definition": "Abnormal condition or disease.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "-us",
+    "pronunciation": "",
+    "definition": "A singular noun ending.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "coron",
+    "pronunciation": "",
+    "definition": "Crown.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "-ary",
+    "pronunciation": "",
+    "definition": "Pertaining to.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "embol",
+    "pronunciation": "",
+    "definition": "Something inserted.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "-ism",
+    "pronunciation": "",
+    "definition": "Condition.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "dys-",
+    "pronunciation": "",
+    "definition": "Bad.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "chromat",
+    "pronunciation": "",
+    "definition": "Color.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "-penia",
+    "pronunciation": "",
+    "definition": "Deficiency.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "cyt/o",
+    "pronunciation": "",
+    "definition": "Cell.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "-cytes",
+    "pronunciation": "",
+    "definition": "Cells.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "hyper-",
+    "pronunciation": "",
+    "definition": "Excessive.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "lipid",
+    "pronunciation": "",
+    "definition": "Fat.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "an-",
+    "pronunciation": "",
+    "definition": "Without or less than.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "a-",
+    "pronunciation": "",
+    "definition": "Without.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "plast",
+    "pronunciation": "",
+    "definition": "Growth.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "megalo-",
+    "pronunciation": "",
+    "definition": "Large.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "blast",
+    "pronunciation": "",
+    "definition": "Immature.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "-lytic",
+    "pronunciation": "",
+    "definition": "To destroy.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "re-",
+    "pronunciation": "",
+    "definition": "Again.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "-stenosis",
+    "pronunciation": "",
+    "definition": "Narrowing.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "-plasty",
+    "pronunciation": "",
+    "definition": "Surgical repair.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "-ectomy",
+    "pronunciation": "",
+    "definition": "Surgical removal.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "valvul/o",
+    "pronunciation": "",
+    "definition": "Valve.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "-stasis",
+    "pronunciation": "",
+    "definition": "Stopping or controlling.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "-globin",
+    "pronunciation": "",
+    "definition": "Protein.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "-ologist",
+    "pronunciation": "",
+    "definition": "Specialist.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "electr/o",
+    "pronunciation": "",
+    "definition": "Electric.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "-graphy",
+    "pronunciation": "",
+    "definition": "The process of recording.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "-gram",
+    "pronunciation": "",
+    "definition": "Picture or record.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "-ia",
+    "pronunciation": "",
+    "definition": "Abnormal condition.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "-sclerosis",
+    "pronunciation": "",
+    "definition": "Abnormal hardening.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "-rrhage",
+    "pronunciation": "",
+    "definition": "Bleeding.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "-plegia",
+    "pronunciation": "",
+    "definition": "Paralysis.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Heart",
+    "pronunciation": "",
+    "definition": "A hollow, muscular organ located in the thoracic cavity, between the lungs; receives blood from the veins and pumps blood into the arteries.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Blood vessels",
+    "pronunciation": "",
+    "definition": "Transport blood to and from all areas of the body.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Arteries",
+    "pronunciation": "",
+    "definition": "Large blood vessels that carry blood away from the heart to all regions of the body.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Capillaries",
+    "pronunciation": "/KAP-uh-ler-eez/",
+    "definition": "The smallest blood vessels in the body, one epithelial cell in thickness; permit the exchange of nutrients and waste products between the blood and the cells.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Veins",
+    "pronunciation": "",
+    "definition": "Form a low-pressure collecting system to return oxygen-poor blood to the heart.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Blood",
+    "pronunciation": "",
+    "definition": "The fluid tissue in the body that brings oxygen and nutrients to the cells and carries away waste; composed of 55% liquid plasma and 45% formed elements.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "ACE inhibitor",
+    "pronunciation": "",
+    "definition": "Medication administered to treat hypertension and congestive heart failure.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Anemia",
+    "pronunciation": "/ah-NEE-mee-ah/",
+    "definition": "A disorder characterized by a lower-than-normal number of erythrocytes (red blood cells) in the blood.",
+    "breakdown_text": "an-: without or less than ; -emia: blood condition"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Aneurysm",
+    "pronunciation": "/AN-you-rizm/",
+    "definition": "A localized weak spot or balloon-like enlargement of the wall of an artery.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Angina",
+    "pronunciation": "/an-JIGH-nuh/",
+    "definition": "A condition in which severe episodes of chest pain occur due to an inadequate blood flow to the myocardium.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Angioplasty",
+    "pronunciation": "/AN-jee-oh-plas-tee/",
+    "definition": "The technique of mechanically widening a narrowed or obstructed blood vessel.",
+    "breakdown_text": "angi/o: blood vessel ; -plasty: surgical repair"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Anticoagulant",
+    "pronunciation": "/an-tih-koh-AG-you-lant/",
+    "definition": "Medication that slows coagulation and prevents new clots from forming.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Aplastic anemia",
+    "pronunciation": "/ay-PLAS-tick ah-NEE-mee-ah/",
+    "definition": "A condition characterized by an absence of all formed blood elements caused by the failure of blood cell production in the bone marrow.",
+    "breakdown_text": "a-: without ; plast: growth ; -ic: pertaining to"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Arrhythmia",
+    "pronunciation": "/ah-RITH-mee-ah/",
+    "definition": "A loss of the normal rhythm of the heartbeat.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Atherectomy",
+    "pronunciation": "/ath-er-ECK-toh-mee/",
+    "definition": "Surgical removal of plaque buildup from the interior of an artery.",
+    "breakdown_text": "ather: plaque ; -ectomy: surgical removal"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Atherosclerosis",
+    "pronunciation": "/ath-er-oh-skleh-ROH-sis/",
+    "definition": "Hardening and narrowing of the arteries due to a buildup of cholesterol plaque on the interior walls of the arteries.",
+    "breakdown_text": "ather/o: plaque or fatty substance ; -sclerosis: abnormal hardening"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Atrial fibrillation",
+    "pronunciation": "/AY-tree-al fih-brih-LAY-shun/",
+    "definition": "Rapid uncontrolled twitching of the muscular wall of the atria.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Automated external defibrillator",
+    "pronunciation": "/dee-FIB-rih-lay-ter/",
+    "definition": "Electronic equipment that externally shocks the heart to restore a normal cardiac rhythm.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Beta-blocker",
+    "pronunciation": "",
+    "definition": "Medication administered to reduce the workload of the heart by slowing the rate of the heartbeat.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Bradycardia",
+    "pronunciation": "/brad-ee-KAR-dee-ah/",
+    "definition": "An abnormally slow resting heart rate, usually at a rate of less than 60 beats per minute.",
+    "breakdown_text": "brady-: slow ; card: heart ; -ia: abnormal condition"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Cardiac arrest",
+    "pronunciation": "",
+    "definition": "An event in which the heart abruptly stops beating or develops an arrhythmia that prevents it from pumping blood effectively.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Cardiac catheterization",
+    "pronunciation": "/KAR-dee-ack kath-eh-ter-eye-ZAY-shun/",
+    "definition": "A diagnostic and treatment procedure in which a catheter is passed into a vein or artery and guided into the heart.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Cardiomyopathy",
+    "pronunciation": "/kar-dee-oh-my-OP-ah-thee/",
+    "definition": "All diseases of the heart muscle.",
+    "breakdown_text": "cardi/o: heart ; my/o: muscle ; -pathy: disease"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Carotid endarterectomy",
+    "pronunciation": "/kah-ROT-id end-ar-ter-ECK-toh-mee/",
+    "definition": "“Surgical removal of the lining of a portion of a clogged carotid artery leading to the brain.”",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Cholesterol",
+    "pronunciation": "/koh-LES-ter-ol/",
+    "definition": "A fatty substance that travels through the blood and is found in all parts of the body.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Chronic venous insufficiency",
+    "pronunciation": "",
+    "definition": "A condition in which venous circulation is inadequate due to partial vein blockage or leakage of venous valves.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Coronary artery disease",
+    "pronunciation": "",
+    "definition": "Atherosclerosis of the coronary arteries that reduces the blood supply to the heart muscle.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Coronary thrombosis",
+    "pronunciation": "/KOR-uh-nerr-ee throm-BOH-sis/",
+    "definition": "Damage to the heart muscle caused by a thrombus blocking a coronary artery.",
+    "breakdown_text": "coron: crown ; -ary: pertaining to ; thromb: clot ; -osis: abnormal condition"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Defibrillation",
+    "pronunciation": "/dee-fih-brih-LAY-shun/",
+    "definition": "The emergency use of electrical shock to restore the heart’s normal rhythm.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Diuretic",
+    "pronunciation": "/dye-you-RET-ick/",
+    "definition": "“Medication administered to stimulate the kidneys to increase the secretion of urine to rid the body of excess sodium and water.”",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Electrocardiogram",
+    "pronunciation": "/ee-leck-troh-KAR-dee-oh-gram/",
+    "definition": "A record of the electrical activity of the myocardium.",
+    "breakdown_text": "electr/o: electric ; cardi/o: heart ; -gram: picture or record"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Embolism",
+    "pronunciation": "/EM-boh-lizm/",
+    "definition": "The sudden blockage of a blood vessel by an embolus.",
+    "breakdown_text": "embol: something inserted ; -ism: condition"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Embolus",
+    "pronunciation": "/EM-boh-lus/",
+    "definition": "A foreign object, such as a blood clot, a quantity of air or gas, or a bit of tissue or tumor, that is circulating in the blood.",
+    "breakdown_text": "embol: something inserted ; -us: a singular noun ending"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Endocarditis",
+    "pronunciation": "/en-doh-kar-DYE-tis/",
+    "definition": "Inflammation of the inner lining of the heart.",
+    "breakdown_text": "endo-: within ; card: heart ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Erythrocytes",
+    "pronunciation": "/eh-RITH-roh-sights/",
+    "definition": "Red blood cells, produced by the red bone marrow; primary role of these cells is to transport oxygen to the tissues.",
+    "breakdown_text": "erythr/o: red ; -cytes: cells"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Hemoglobin",
+    "pronunciation": "/HEE-moh-gloh-bin/",
+    "definition": "Oxygen-carrying blood protein pigment of the erythrocytes.",
+    "breakdown_text": "hem/o: blood ; -globin: protein"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Hemolytic anemia",
+    "pronunciation": "/hee-moh-LIT-ick ah-NEE-mee-ah/",
+    "definition": "Condition characterized by an inadequate number of circulating red blood cells due to their premature destruction by the spleen.",
+    "breakdown_text": "hem/o: relating to blood ; -lytic: to destroy"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Hemorrhage",
+    "pronunciation": "/HEM-or-idj/",
+    "definition": "The loss of a large amount of blood in a short time.",
+    "breakdown_text": "hem/o: blood ; -rrhage: bleeding"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Hemostasis",
+    "pronunciation": "/hee-moh-STAY-sis/",
+    "definition": "To stop or control bleeding.",
+    "breakdown_text": "hem/o: blood ; -stasis: stopping or controlling"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Leukemia",
+    "pronunciation": "/loo-KEE-mee-ah/",
+    "definition": "A type of cancer characterized by a progressive increase in the number of abnormal white blood cells found in blood-forming tissues, other organs, and in the circulating blood.",
+    "breakdown_text": "leuk: white ; -emia: blood condition"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Leukocytes",
+    "pronunciation": "/LOO-koh-sights/",
+    "definition": "White blood cells; involved in defending the body against infective organisms and foreign substances.",
+    "breakdown_text": "leuk/o: white ; -cytes: cells"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Leukopenia",
+    "pronunciation": "/loo-koh-PEE-nee-ah/",
+    "definition": "A decrease in the number of disease-fighting white blood cells circulating in the blood.",
+    "breakdown_text": "leuk/o: white ; -penia: deficiency"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Megaloblastic anemia",
+    "pronunciation": "/MEG-ah-loh-blas-tick ah-NEE-mee-ah/",
+    "definition": "A blood disorder characterized by anemia in which red blood cells are larger than normal.",
+    "breakdown_text": "megalo-: large ; blast: immature ; -ic: pertaining to"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Mitral valve prolapse",
+    "pronunciation": "/MY-tral VALV proh-LAPS/",
+    "definition": "The abnormal protrusion of a heart valve that results in the inability of the valve to close completely.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Myelodysplastic syndrome",
+    "pronunciation": "/my-eh-loh-dis-PLAS-tick SIN-drohm/",
+    "definition": "A type of cancer in which there is insufficient production of one or more types of blood cells due to dysfunction of the bone marrow.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Myocardial infarction",
+    "pronunciation": "/my-oh-KAR-dee-al in-FARK-shun/",
+    "definition": "The occlusion of one or more coronary arteries caused by plaque buildup.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Orthostatic hypotension",
+    "pronunciation": "/or-thoh-STAT-ick high-poh-TEN-shun/",
+    "definition": "Low blood pressure that occurs upon standing up.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Pericardium",
+    "pronunciation": "/pehr-ih-KAR-dee-um/",
+    "definition": "The double-walled membranous sac that encloses the heart.",
+    "breakdown_text": "peri-: surrounding ; cardi: heart ; -um: a singular noun ending"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Pernicious anemia",
+    "pronunciation": "/per-NISH-us ah-NEE-mee-ah/",
+    "definition": "“Anemia caused by a lack of the protein intrinsic factor (IF) that helps the body absorb vitamin B12 from the gastrointestinal tract.”",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Phlebitis",
+    "pronunciation": "/fleh-BYE-tis/",
+    "definition": "Inflammation of a vein.",
+    "breakdown_text": "phleb: vein ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Raynaud’s disease",
+    "pronunciation": "/ray-NOHZ/",
+    "definition": "A peripheral arterial occlusive disease in which intermittent attacks are triggered by cold or stress.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Sepsis",
+    "pronunciation": "/SEP-sis/",
+    "definition": "A potentially life-threatening infection that results from bacteria or other infectious organisms entering the bloodstream.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Sickle cell anemia",
+    "pronunciation": "",
+    "definition": "“A serious genetic disorder that causes abnormal hemoglobin, resulting in some red blood cells assuming an abnormal sickle shape. This sickle shape interferes with normal blood flow, resulting in damage to most of the body systems.”",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Tachycardia",
+    "pronunciation": "/tack-ee-KAR-dee-ah/",
+    "definition": "An abnormally rapid resting heartbeat usually at a rate of more than 100 beats per minute.",
+    "breakdown_text": "tachy-: rapid ; card: heart ; -ia: abnormal condition"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Temporal arteritis",
+    "pronunciation": "/TEM-poh-ral ar-teh-RYE-tis/",
+    "definition": "Inflammation of the temporal arteries that can cause headache, visual impairment, or other symptoms.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Thallium stress test",
+    "pronunciation": "/THAL-ee-um/",
+    "definition": "“A nuclear imaging test performed to evaluate how well blood flows through the coronary arteries of the heart muscle during exercise by injecting a small amount of thallium into the bloodstream.”",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Thrombocytopenia",
+    "pronunciation": "/throm-boh-sigh-toh-PEE-nee-ah/",
+    "definition": "A condition in which there is an abnormally small number of platelets circulating in the blood.",
+    "breakdown_text": "thromb/o: clot ; cyt/o: cell ; -penia: deficiency"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Thrombolytic",
+    "pronunciation": "/throm-boh-LIT-ick/",
+    "definition": "Medication that dissolves or causes a thrombus to break up.",
+    "breakdown_text": "thromb/o: clot ; -lytic: to destroy"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Thrombosis",
+    "pronunciation": "/throm-BOH-sis/",
+    "definition": "The abnormal condition of having a thrombus.",
+    "breakdown_text": "thromb: clot ; -osis: abnormal condition or disease"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Thrombotic occlusion",
+    "pronunciation": "/throm-BOT-ick ah-KLOO-zhun/",
+    "definition": "The blocking of an artery by a thrombus.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Thrombus",
+    "pronunciation": "/THROM-bus/",
+    "definition": "A blood clot attached to the interior wall of an artery or vein.",
+    "breakdown_text": "thromb: clot ; -us: a singular noun ending"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Transfusion reaction",
+    "pronunciation": "",
+    "definition": "A serious and potentially fatal complication of a blood transfusion in which a severe immune response occurs because the patient’s blood and the donated blood do not match.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Varicose veins",
+    "pronunciation": "/VAHR-ih-kohs VAYNS/",
+    "definition": "Abnormally swollen veins usually occurring in the superficial veins of the legs.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Venous thromboembolism",
+    "pronunciation": "",
+    "definition": "A blood clot that originates in a vein.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Ventricular fibrillation",
+    "pronunciation": "/ven-TRICK-you-lar fih-brih-LAY-shun/",
+    "definition": "Rapid, irregular, and useless contractions of the ventricles.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Ventricular tachycardia",
+    "pronunciation": "/ven-TRICK-you-lar tack-ee-KAR-dee-ah/",
+    "definition": "A very rapid heartbeat that begins within the ventricles.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Cardiovascular",
+    "pronunciation": "/kar-dee-oh-VAS-kyou-lar/",
+    "definition": "Pertaining to the heart and blood vessels.",
+    "breakdown_text": "cardi/o: heart ; vascul: blood vessels ; -ar: pertaining to"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Apex",
+    "pronunciation": "",
+    "definition": "The lower tip of the heart.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Pericardial sac",
+    "pronunciation": "",
+    "definition": "Another name for the pericardium; the double-walled membranous sac that encloses the heart.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Membranous",
+    "pronunciation": "",
+    "definition": "Pertaining to membrane.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Membrane",
+    "pronunciation": "",
+    "definition": "A thin layer of pliable tissue that covers or encloses a body part.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Parietal pericardium",
+    "pronunciation": "",
+    "definition": "A fibrous sac that surrounds and protects the heart.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Pericardial fluid",
+    "pronunciation": "",
+    "definition": "Fluid found between the layers of the pericardium, where it acts as a lubricant to prevent friction as the heart beats.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Visceral pericardium",
+    "pronunciation": "",
+    "definition": "The inner layer of the pericardium that also forms the outer layer of the heart; when referred to as the outer layer of the heart, it is known as the epicardium.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Epicardium",
+    "pronunciation": "/ep-ih-KAR-dee-um/",
+    "definition": "The external layer of the heart and the inner layer of the pericardium.",
+    "breakdown_text": "epi-: upon ; cardi: heart ; -um: a singular noun ending"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Myocardium",
+    "pronunciation": "/my-oh-KAR-dee-um/",
+    "definition": "The middle and thickest of the heart’s three layers; also known as myocardial muscle; consists of specialized cardiac muscle tissue that is capable of the constant contraction and relaxation that creates the pumping movement necessary to maintain the flow of blood throughout the body.",
+    "breakdown_text": "my/o: muscle ; cardi: heart ; -um: a singular noun ending"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Endocardium",
+    "pronunciation": "/en-doh-KAR-dee-um/",
+    "definition": "The inner lining of the heart, which consists of epithelial tissue; the surface that comes into direct contact with the blood as it is being pumped through the heart.",
+    "breakdown_text": "endo-: within ; cardi: heart ; -um: a singular noun ending"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Coronary arteries",
+    "pronunciation": "/KOR-uh-nerr-ee/",
+    "definition": "Arteries that supply oxygen-rich blood to the myocardium.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Atria",
+    "pronunciation": "/AY-tree-ah/",
+    "definition": "The two upper chambers of the heart, which are the receiving chambers; all blood enters the heart through these chambers (singular, atrium).",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Septum",
+    "pronunciation": "",
+    "definition": "A wall that separates two chambers.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Interatrial septum",
+    "pronunciation": "",
+    "definition": "The septum that divides the atria.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Ventricles",
+    "pronunciation": "/VEN-trih-kuhls/",
+    "definition": "The two lower chambers of the heart; their walls are thicker than those of the atria because the ventricles must pump blood throughout the entire body.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Interventricular septum",
+    "pronunciation": "",
+    "definition": "The septum that divides the ventricles.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Tricuspid valve",
+    "pronunciation": "/try-KUS-pid/",
+    "definition": "Controls the opening between the right atrium and the right ventricle; tricuspid means having three cusps (points).",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Pulmonary valve",
+    "pronunciation": "/PULL-mah-nair-ee/",
+    "definition": "Located between the right ventricle and the pulmonary artery.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Mitral valve",
+    "pronunciation": "/MY-tral/",
+    "definition": "Located between the left atrium and left ventricle; also known as the bicuspid valve because bicuspid means having two cusps (points).",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Aortic valve",
+    "pronunciation": "/ay-OR-tick/",
+    "definition": "Located between the left ventricle and the aorta.",
+    "breakdown_text": "aort: aorta ; -ic: pertaining to"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Oxygenated",
+    "pronunciation": "",
+    "definition": "Oxygen rich, or containing an adequate supply of oxygen.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Deoxygenated",
+    "pronunciation": "",
+    "definition": "Oxygen poor, or not yet containing an adequate supply of oxygen.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Pulmonary circulation",
+    "pronunciation": "",
+    "definition": "The flow of blood only between the heart and lungs.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Systemic circulation",
+    "pronunciation": "",
+    "definition": "The flow of blood to all parts of the body except the lungs.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Heartbeat",
+    "pronunciation": "",
+    "definition": "The ability to pump blood effectively throughout the body; the contraction and relaxation (beating) of the heart must occur in exactly the correct sequence.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Conduction system",
+    "pronunciation": "",
+    "definition": "The electrical impulses that determine the rate and regularity of the heartbeat, controlled by the sinoatrial (SA) node, atrioventricular (AV) node, and the bundle of His.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Sinoatrial node",
+    "pronunciation": "/sigh-noh-AY-tree-ahl/",
+    "definition": "Located in the posterior wall of the right atrium near the entrance of the superior vena cava; establishes the basic rhythm and rate of the heartbeat and is known as the natural pacemaker of the heart.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Atrioventricular node",
+    "pronunciation": "/ay-tree-oh-ven-TRICK-you-lar/",
+    "definition": "Located on the floor of the right atrium near the interatrial septum; transmits the electrical impulses onward to the bundle of His.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Bundle of His",
+    "pronunciation": "/HISS/",
+    "definition": "A group of fibers located within the interventricular septum that carry an electrical impulse to ensure the sequence of the heart contractions.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Purkinje fibers",
+    "pronunciation": "/per-KIN-jee/",
+    "definition": "Specialized conductive fibers located within the walls of the ventricles that relay the electrical impulses to the cells of the ventricles, causing the ventricles to contract.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Sinus rhythm",
+    "pronunciation": "",
+    "definition": "The normal beating of the heart.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "P wave",
+    "pronunciation": "",
+    "definition": "The wave due to the stimulation (contraction) of the atria.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "QRS complex",
+    "pronunciation": "",
+    "definition": "Shows the stimulation (contraction) of the ventricles.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "T wave",
+    "pronunciation": "",
+    "definition": "The recovery (relaxation) of the ventricles.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Arterioles",
+    "pronunciation": "/ar-TEE-ree-ohlz/",
+    "definition": "The smaller, thinner branches of arteries that deliver blood to the capillaries.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Aorta",
+    "pronunciation": "/ay-OR-tah/",
+    "definition": "The largest blood vessel in the body; begins from the left ventricle of the heart and forms the main trunk of the arterial system.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Carotid arteries",
+    "pronunciation": "/kah-ROT-id/",
+    "definition": "The major arteries that carry blood upward to the head.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Common carotid artery",
+    "pronunciation": "",
+    "definition": "The artery located on each side of the neck.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Internal carotid artery",
+    "pronunciation": "",
+    "definition": "The branch of the common carotid artery that brings oxygen-rich blood to the brain.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "External carotid artery",
+    "pronunciation": "",
+    "definition": "The branch of the common carotid artery that brings blood to the face.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Venules",
+    "pronunciation": "/VEN-youls/",
+    "definition": "The smallest veins that join to form the larger veins.",
+    "breakdown_text": "ven: vein ; -ules: small ones"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Venous",
+    "pronunciation": "",
+    "definition": "Relating to, or contained in, the veins.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Superficial veins",
+    "pronunciation": "",
+    "definition": "Veins located near the body surface.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Deep veins",
+    "pronunciation": "",
+    "definition": "Veins located within the tissues and away from the body surface.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Venae cavae",
+    "pronunciation": "/VEE-nee KAY-vee/",
+    "definition": "The two largest veins in the body, which return blood into the heart (singular, vena cava).",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Superior vena cava",
+    "pronunciation": "",
+    "definition": "Transports blood from the upper portion of the body to the heart.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Inferior vena cava",
+    "pronunciation": "",
+    "definition": "Transports blood from the lower portion of the body to the heart.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Pulse",
+    "pronunciation": "",
+    "definition": "The rhythmic pressure against the walls of an artery caused by the contraction of the heart.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Blood pressure",
+    "pronunciation": "",
+    "definition": "The measurement of the amount of systolic and diastolic pressure exerted against the walls of the arteries.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Systolic pressure",
+    "pronunciation": "/sis-TOL-ick/",
+    "definition": "Occurs when the ventricles contract; the highest pressure against the walls of an artery.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Systole",
+    "pronunciation": "",
+    "definition": "Contraction of the heart.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Diastolic pressure",
+    "pronunciation": "/dye-ah-STOL-ick/",
+    "definition": "Occurs when the ventricles are relaxed; the lowest pressure against the walls of an artery.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Diastole",
+    "pronunciation": "",
+    "definition": "Relaxation of the heart.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Plasma",
+    "pronunciation": "/PLAZ-mah/",
+    "definition": "A straw-colored fluid that contains nutrients, hormones, and waste products; 92% water, with the remaining 8% consisting mainly of proteins, including the clotting proteins.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Serum",
+    "pronunciation": "/SEER-um/",
+    "definition": "Plasma fluid after the blood cells and the clotting proteins have been removed.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Fibrinogen",
+    "pronunciation": "/figh-BRIN-oh-jen/",
+    "definition": "A clotting protein found in plasma that has an important role in clot formation to control bleeding.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Prothrombin",
+    "pronunciation": "/proh-THROM-bin/",
+    "definition": "A clotting protein found in plasma that has an important role in clot formation to control bleeding.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Formed elements",
+    "pronunciation": "",
+    "definition": "Blood cells and platelets; include erythrocytes, leukocytes, and thrombocytes.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Neutrophils",
+    "pronunciation": "/NEW-troh-fills/",
+    "definition": "The most common type of WBC, formed in red bone marrow; through phagocytosis, they play a major role in the immune system’s defense against pathogens, including bacteria, viruses, and fungi.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Phagocytosis",
+    "pronunciation": "",
+    "definition": "The process of destroying pathogens by surrounding and swallowing them.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Basophils",
+    "pronunciation": "/BAY-soh-fills/",
+    "definition": "The least common type of WBC, formed in red bone marrow; responsible for causing the symptoms of allergies.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Eosinophils",
+    "pronunciation": "/ee-oh-SIN-oh-fills/",
+    "definition": "WBCs formed in red bone marrow that then migrate to tissues throughout the body; they destroy parasitic organisms and play a major role in allergic reactions.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Lymphocytes",
+    "pronunciation": "/LIM-foh-sights/",
+    "definition": "WBCs formed in red bone marrow, in lymph nodes, and in the spleen; they identify foreign substances and germs in the body and produce antibodies that specifically target them.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Monocytes",
+    "pronunciation": "/MON-oh-sights/",
+    "definition": "WBCs formed in red bone marrow, lymph nodes, and the spleen; through phagocytosis, they provide immunological defenses against many infectious organisms.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Thrombocytes",
+    "pronunciation": "/THROM-boh-sights/",
+    "definition": "Also known as platelets; the smallest formed elements of the blood; they play an important role in the clotting of blood.",
+    "breakdown_text": "thromb/o: clot ; -cytes: cells"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Blood types",
+    "pronunciation": "",
+    "definition": "Classified according to the presence or absence of certain antigens; the four major blood types are A, AB, B, and O.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Antigen",
+    "pronunciation": "",
+    "definition": "Any substance that the body regards as being foreign.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Rh factor",
+    "pronunciation": "",
+    "definition": "Defines the presence or absence of the Rh antigen on red blood cells; an important consideration in cross-matching blood for transfusions.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Blood gases",
+    "pronunciation": "",
+    "definition": "Gases that are normally dissolved in the liquid portion of blood; the major blood gases are oxygen, carbon dioxide, and nitrogen.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Cardiologist",
+    "pronunciation": "/kar-dee-OL-oh-jist/",
+    "definition": "A physician who specializes in diagnosing and treating abnormalities, diseases, and disorders of the heart.",
+    "breakdown_text": "cardi: heart ; -ologist: specialist"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Hematologist",
+    "pronunciation": "/hee-mah-TOL-oh-jist/",
+    "definition": "A physician who specializes in diagnosing and treating abnormalities, diseases, and disorders of the blood and blood-forming tissues.",
+    "breakdown_text": "hemat: blood ; -ologist: specialist"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Vascular surgeon",
+    "pronunciation": "",
+    "definition": "A physician who specializes in the diagnosis, medical management, and surgical treatment of disorders of the blood vessels.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Telemetry nurse",
+    "pronunciation": "",
+    "definition": "Specializes in the use of technology within a hospital unit to track vital signs such as blood pressure, heart rhythms, and oxygen levels.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Congenital heart defects",
+    "pronunciation": "",
+    "definition": "Structural abnormalities caused by the failure of the heart to develop normally before birth; the most common type of birth defect.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Congenital",
+    "pronunciation": "",
+    "definition": "Present at birth.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Ventricular septal defect",
+    "pronunciation": "",
+    "definition": "The most common type of congenital heart defect, characterized by a hole between the two ventricles.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Plaque",
+    "pronunciation": "/PLACK/",
+    "definition": "A fatty deposit found within the lumen of an artery, similar to the buildup of rust inside a pipe.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Lumen",
+    "pronunciation": "",
+    "definition": "The opening within a blood vessel through which the blood flows.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Ischemia",
+    "pronunciation": "/iss-KEE-mee-ah/",
+    "definition": "A condition in which there is an insufficient supply of oxygen in the tissues due to restricted blood flow to a part of the body.",
+    "breakdown_text": "isch: to hold back ; -emia: blood"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Angina pectoris",
+    "pronunciation": "",
+    "definition": "Another name for angina.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Stable angina",
+    "pronunciation": "",
+    "definition": "Occurs during exertion (exercise) and resolves with rest.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Unstable angina",
+    "pronunciation": "",
+    "definition": "May occur either during exertion or rest and is a precursor to a myocardial infarction.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Occlusion",
+    "pronunciation": "",
+    "definition": "Total blockage.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Infarction",
+    "pronunciation": "",
+    "definition": "A sudden insufficiency of blood.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Infarct",
+    "pronunciation": "",
+    "definition": "A localized area of dead tissue caused by a lack of blood.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Necrosis",
+    "pronunciation": "",
+    "definition": "Tissue death.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Heart failure",
+    "pronunciation": "",
+    "definition": "A chronic condition in which the heart is unable to pump out all of the blood that it receives, causing congestion.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Congestion",
+    "pronunciation": "",
+    "definition": "A fluid buildup.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Congestive heart failure",
+    "pronunciation": "",
+    "definition": "Heart failure that causes fluid to back up, resulting in edema (swelling); abbreviated CHF.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Pulmonary edema",
+    "pronunciation": "",
+    "definition": "An accumulation of fluid in the lungs.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Left-sided heart failure",
+    "pronunciation": "",
+    "definition": "Defined as systolic failure or diastolic failure depending on whether the pumping or relaxing action of the heart is affected.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Right-sided heart failure",
+    "pronunciation": "",
+    "definition": "Often the result of left-sided heart failure; causes fluid buildup throughout the rest of the body.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Cardiomegaly",
+    "pronunciation": "/kar-dee-oh-MEG-ah-lee/",
+    "definition": "The abnormal enlargement of the heart that is frequently associated with heart failure.",
+    "breakdown_text": "cardi/o: heart ; -megaly: enlargement"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Carditis",
+    "pronunciation": "/kar-DYE-tis/",
+    "definition": "An inflammation of the heart.",
+    "breakdown_text": "card: heart ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Infective endocarditis",
+    "pronunciation": "",
+    "definition": "Also called bacterial endocarditis; an inflammation of the lining or valves of the heart caused by the presence of bacteria in the bloodstream.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Pericarditis",
+    "pronunciation": "/pehr-ih-kar-DYE-tis/",
+    "definition": "An inflammation of the pericardium.",
+    "breakdown_text": "peri-: surrounding ; card: heart ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Myocarditis",
+    "pronunciation": "/my-oh-kar-DYE-tis/",
+    "definition": "An inflammation of the myocardium (heart muscle) that develops as a rarely seen complication of a viral infection.",
+    "breakdown_text": "my/o: muscle ; card: heart ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Dilated cardiomyopathy",
+    "pronunciation": "",
+    "definition": "A disease of the heart muscle that causes the heart to become enlarged and to pump less strongly.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Dilation",
+    "pronunciation": "",
+    "definition": "The expansion of a hollow structure.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Heart murmur",
+    "pronunciation": "",
+    "definition": "An abnormal blowing or clicking sound heard when listening to the heart or a neighboring large blood vessels.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Prolapse",
+    "pronunciation": "",
+    "definition": "The falling or dropping down of an organ or internal part.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Valvular stenosis",
+    "pronunciation": "/steh-NOH-sis/",
+    "definition": "A condition in which there is narrowing, stiffening, thickening, or blockage of one or more valves of the heart.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Stenosis",
+    "pronunciation": "",
+    "definition": "The abnormal narrowing of an opening.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Heart valve disease",
+    "pronunciation": "",
+    "definition": "Also known as valvular heart disease; a degenerative disorder that prevents heart valves from opening and closing properly.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Aortic stenosis",
+    "pronunciation": "",
+    "definition": "A buildup of calcium and fat deposits in the aortic valve, causing a narrowing that prevents the valve from opening fully.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Mitral valve regurgitation",
+    "pronunciation": "",
+    "definition": "Also called insufficiency or incompetency; occurs when the mitral valve does not close tightly, thus allowing blood to leak back through the opening.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Asystole",
+    "pronunciation": "/ay-SIS-toh-lee/",
+    "definition": "Known as a flat line; the complete lack of electrical activity in the heart.",
+    "breakdown_text": "a-: without ; systole: contraction"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Sudden cardiac death",
+    "pronunciation": "",
+    "definition": "Results when treatment of cardiac arrest is not provided within a few minutes.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Heart block",
+    "pronunciation": "",
+    "definition": "A congenital or acquired arrhythmia caused by the electrical signal moving through the heart being partially or completely blocked from reaching the ventricles.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Supraventricular tachycardia",
+    "pronunciation": "/soo-prah-ven-TRICK-you-lar tack-ee-KAR-dee-ah/",
+    "definition": "Also known as paroxysmal supraventricular tachycardia; an episode that begins and ends abruptly during which there are very rapid and regular heartbeats that originate at or above the atrioventricular (AV) node; abbreviated SVT.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Long QT syndrome",
+    "pronunciation": "",
+    "definition": "An inherited or medically acquired heart rhythm disorder that can cause fast, chaotic, and potentially dangerous arrhythmias; abbreviated LQTS.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Fibrillation",
+    "pronunciation": "/fih-brih-LAY-shun/",
+    "definition": "A potentially life-threatening fast and irregular heartbeat, compared to the fast but regular rhythm of tachycardia.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Palpitation",
+    "pronunciation": "/pal-pih-TAY-shun/",
+    "definition": "A pounding or racing heartbeat with or without irregularity in rhythm.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Vasculitis",
+    "pronunciation": "/vas-kyou-LYE-tis/",
+    "definition": "The inflammation of a blood vessel.",
+    "breakdown_text": "vascul: blood vessels ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Hemangioma",
+    "pronunciation": "/hee-man-jee-OH-mah/",
+    "definition": "A benign tumor made up of newly formed blood vessels.",
+    "breakdown_text": "hem: blood ; angi: blood or lymph vessel ; -oma: tumor"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Hypoperfusion",
+    "pronunciation": "/high-poh-per-FYOU-zhun/",
+    "definition": "A deficiency of blood passing through an organ or body part.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Perfusion",
+    "pronunciation": "",
+    "definition": "The flow of blood through the vessels of an organ.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Arteriosclerosis",
+    "pronunciation": "/ar-tee-ree-oh-skleh-ROH-sis/",
+    "definition": "Also known as hardening of the arteries; any of a group of diseases characterized by thickening and the loss of elasticity of arterial walls.",
+    "breakdown_text": "arteri/o: artery ; -sclerosis: abnormal hardening"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Carotid artery stenosis",
+    "pronunciation": "",
+    "definition": "Also known as arteriostenosis; the abnormal narrowing of the carotid artery supplying blood to the brain, increasing the chance of blood clots that could cause an ischemic stroke.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Thrombophlebitis",
+    "pronunciation": "",
+    "definition": "Another name for phlebitis, because the walls of the vein are often infiltrated and a clot (thrombus) formed.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Deep vein thrombosis",
+    "pronunciation": "",
+    "definition": "A thrombus attached to the interior wall of a deep vein; abbreviated DVT.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Pulmonary embolism",
+    "pronunciation": "",
+    "definition": "A blockage in the lung caused by a thrombus that breaks loose and travels to the lung.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Peripheral vascular diseases",
+    "pronunciation": "",
+    "definition": "Disorders of blood vessels that are located outside of the heart and brain.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Peripheral artery disease",
+    "pronunciation": "",
+    "definition": "Also known as peripheral arterial occlusive disease; an example of a peripheral vascular disease that is caused by atherosclerosis; abbreviated PAD.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Ankle-brachial index",
+    "pronunciation": "",
+    "definition": "A method of determining the severity of PAD by comparing the blood pressure at the ankle with the blood pressure in the arm.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Gangrene",
+    "pronunciation": "",
+    "definition": "Tissue death caused by a severe shortage of blood supply due to illness, injury and/or infection.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Blood dyscrasia",
+    "pronunciation": "/dis-KRAY-zhee-ah/",
+    "definition": "Any pathologic condition of the cellular elements of the blood.",
+    "breakdown_text": "dys-: bad ; -crasia: a mixture or blending"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Hemochromatosis",
+    "pronunciation": "/hee-moh-kroh-mah-TOH-sis/",
+    "definition": "Also known as iron overload disease; a genetic disorder in which the intestines absorb too much iron.",
+    "breakdown_text": "hem/o: blood ; chromat: color ; -osis: abnormal condition or disease"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Polycythemia",
+    "pronunciation": "/pol-ee-sy-THEE-mee-ah/",
+    "definition": "A cancer characterized by an abnormal increase in the number of red cells in the bone marrow.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Thrombocytosis",
+    "pronunciation": "/throm-boh-sigh-TOH-sis/",
+    "definition": "An abnormal increase in the number of platelets in the circulating blood.",
+    "breakdown_text": "thromb/o: clot ; cyt: cell ; -osis: abnormal condition"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Hyperlipidemia",
+    "pronunciation": "/high-per-lip-ih-DEE-mee-ah/",
+    "definition": "The general term used to describe elevated levels of cholesterol and other fatty substances in the blood.",
+    "breakdown_text": "hyper-: excessive ; lipid: fat ; -emia: blood condition"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Triglycerides",
+    "pronunciation": "/try-GLIS-er-eyeds/",
+    "definition": "Combinations of fatty acids attached to glycerol that are also found normally in the blood in limited quantities.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Low-density lipoprotein cholesterol",
+    "pronunciation": "",
+    "definition": "Referred to as bad cholesterol because excess quantities of LDL contribute to plaque buildup in the arteries; abbreviated LDL.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "High-density lipoprotein cholesterol",
+    "pronunciation": "",
+    "definition": "Referred to as good cholesterol because it carries unneeded cholesterol back to the liver for processing and does not contribute to plaque buildup; abbreviated HDL.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Iron-deficiency anemia",
+    "pronunciation": "",
+    "definition": "The most common form of anemia; without sufficient iron to help create hemoglobin, blood cannot carry oxygen effectively.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Thalassemia",
+    "pronunciation": "/thal-ah-SEE-mee-ah/",
+    "definition": "An inherited blood disorder that causes mild or severe anemia due to reduced hemoglobin and fewer red blood cells than normal.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Hypertension",
+    "pronunciation": "/high-per-TEN-shun/",
+    "definition": "Commonly known as high blood pressure; the elevation of arterial blood pressure to a level that is likely to cause damage to the cardiovascular system; abbreviated HTN.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Essential hypertension",
+    "pronunciation": "",
+    "definition": "Also known as primary hypertension or idiopathic hypertension; consistently elevated blood pressure of unknown cause.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Idiopathic",
+    "pronunciation": "",
+    "definition": "A disease of unknown cause.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Secondary hypertension",
+    "pronunciation": "",
+    "definition": "Hypertension caused by a different medical problem, such as a kidney disorder or a tumor on the adrenal glands.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Malignant hypertension",
+    "pronunciation": "",
+    "definition": "Characterized by very high blood pressure and usually accompanied by damage to the organs, the brain, and optic nerves, or failure of the heart and kidneys.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Pulmonary hypertension",
+    "pronunciation": "",
+    "definition": "High blood pressure in the lungs that is usually the result of chronic heart or lung disease.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Hypotension",
+    "pronunciation": "/high-poh-TEN-shun/",
+    "definition": "Lower-than-normal arterial blood pressure.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Angiography",
+    "pronunciation": "/an-jee-OG-rah-fee/",
+    "definition": "An x-ray of the blood vessels after the injection of a contrast medium.",
+    "breakdown_text": "angi/o: blood vessel ; -graphy: the process of recording"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Angiogram",
+    "pronunciation": "",
+    "definition": "The resulting film of angiography that is used to study blood flow in the arteries, veins, and blood vessels of the heart.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Digital subtraction angiography",
+    "pronunciation": "",
+    "definition": "Uses computer assistance to clarify the view of the area of interest in the cardiovascular system by “subtracting” the soft tissue and bones from the images; abbreviated DSA.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Duplex ultrasound",
+    "pronunciation": "",
+    "definition": "A diagnostic procedure to image the structures of the blood vessels and the flow of blood through these vessels; a combination of diagnostic ultrasound and Doppler ultrasound.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Venography",
+    "pronunciation": "/vee-NOG-rah-fee/",
+    "definition": "A radiographic test that provides an image of specific veins after a contrast dye is injected.",
+    "breakdown_text": "ven/o: vein ; -graphy: the process of recording"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Venogram",
+    "pronunciation": "",
+    "definition": "The resulting film of venography.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Electrocardiography",
+    "pronunciation": "/ee-leck-troh-kar-dee-OG-rah-fee/",
+    "definition": "The noninvasive process of recording the electrical activity of the myocardium.",
+    "breakdown_text": "electr/o: electric ; cardi/o: heart ; -graphy: the process of recording a picture or record"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Noninvasive",
+    "pronunciation": "",
+    "definition": "A procedure that does not require the insertion of an instrument or device through the skin or a body opening for diagnosis or treatment.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Holter monitor",
+    "pronunciation": "",
+    "definition": "A portable electrocardiograph that is worn by an ambulatory patient to continuously monitor the heart rates and rhythms over a 24- or 48-hour period.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Loop recorder",
+    "pronunciation": "",
+    "definition": "A device that can be implanted beneath the skin of the chest to continuously monitor heart rhythm for up to three years.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Stress test",
+    "pronunciation": "",
+    "definition": "Performed to assess cardiovascular health and function during and after stress by recording an electrocardiogram while the patient exercises on a treadmill or is injected with a chemical to increase the heart rate.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Adherence",
+    "pronunciation": "",
+    "definition": "The accuracy and consistency with which a patient executes the physician’s plan for treatment.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Antihypertensive",
+    "pronunciation": "/an-tih-high-per-TEN-siv/",
+    "definition": "A medication administered to lower blood pressure.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Calcium channel blockers",
+    "pronunciation": "",
+    "definition": "Cause the heart and blood vessels to relax by decreasing the movement of calcium into the cells of these structures.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Antiarrhythmic",
+    "pronunciation": "/an-tih-ah-RITH-mick/",
+    "definition": "A medication administered to control irregularities of the heartbeat.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Coagulation",
+    "pronunciation": "",
+    "definition": "The process of clotting blood.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Coumadin",
+    "pronunciation": "/KOO-mah-din/",
+    "definition": "A brand name for warfarin; an anticoagulant administered to prevent blood clots from forming or growing larger.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Heparin",
+    "pronunciation": "/HEP-ah-rin/",
+    "definition": "A common anticoagulant that works faster than Coumadin but must be administered by injection or in an IV solution.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Aspirin",
+    "pronunciation": "",
+    "definition": "Taken in a very small daily dose, such as 81 mg, it may be recommended to reduce the risk of a heart attack or stroke by reducing the ability of the blood to clot.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Cholesterol-lowering drugs",
+    "pronunciation": "",
+    "definition": "Used to combat hyperlipidemia by reducing the undesirable cholesterol levels in the blood.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Digitalis",
+    "pronunciation": "/dij-ih-TAL-is/",
+    "definition": "Available as the drug preparation digoxin; strengthens the contraction of the heart muscle, slows the heart rate, and helps eliminate fluid from body tissues.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Tissue plasminogen activator",
+    "pronunciation": "/plaz-MIN-oh-jen/",
+    "definition": "A thrombolytic administered to some patients having a heart attack or stroke that can dissolve the damaging blood clots; abbreviated tPA.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Vasoconstrictor",
+    "pronunciation": "/vas-oh-kon-STRICK-tor/",
+    "definition": "Causes blood vessels to narrow; the opposite of a vasodilator.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Vasodilator",
+    "pronunciation": "/vas-oh-dye-LAYT-or/",
+    "definition": "Causes blood vessels to expand; the opposite of a vasoconstrictor.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Nitroglycerin",
+    "pronunciation": "/nye-troh-GLIH-sih-rin/",
+    "definition": "A vasodilator that is prescribed to prevent or relieve the pain of angina by dilating the blood vessels to the heart.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Dietary Approaches to Stop Hypertension diet",
+    "pronunciation": "",
+    "definition": "A diet with restricted sodium intake often prescribed for patients with hypertension as well as other cardiac issues such as heart failure; abbreviated DASH.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Balloon angioplasty",
+    "pronunciation": "",
+    "definition": "Also known as percutaneous transluminal coronary angioplasty (PTCA); a procedure in which a small balloon on the end of a catheter is used to open a partially blocked coronary artery by flattening the plaque deposit and stretching the lumen.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Laser angioplasty",
+    "pronunciation": "/AN-jee-oh-plas-tee/",
+    "definition": "Involves a laser on the end of a catheter, which uses beams of light to remove the plaque deposit.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Stent",
+    "pronunciation": "",
+    "definition": "A wire-mesh tube that is commonly placed after the artery has been opened to provide support to the arterial wall, keep the plaque from expanding again, and prevent restenosis.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Restenosis",
+    "pronunciation": "",
+    "definition": "The condition when an artery that has been opened by angioplasty gradually closes again.",
+    "breakdown_text": "re-: again ; -stenosis: narrowing"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Coronary artery bypass graft",
+    "pronunciation": "",
+    "definition": "The most common type of open-heart surgery in which a piece of vein from the leg or chest is implanted on the heart to replace a blocked coronary artery and to improve the flow of blood to the heart; abbreviated CABG.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Cardiopulmonary bypass",
+    "pronunciation": "",
+    "definition": "A heart-lung machine used to temporarily take over the function of the heart and lungs to maintain the circulation of blood and oxygen throughout the body; abbreviated CPB.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Minimally invasive coronary artery bypass",
+    "pronunciation": "",
+    "definition": "An alternative technique for some bypass patients, performed with the aid of a fiber-optic camera through small openings between the ribs.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Synchronized cardioversion",
+    "pronunciation": "",
+    "definition": "A procedure for restoring normal heart rhythm using a lower voltage electrical shock in a non-emergency situation.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Implantable cardioverter-defibrillator",
+    "pronunciation": "/KAR-dee-oh-ver-ter dee-FIB-rih-lay-ter/",
+    "definition": "An internal double-action pacemaker that constantly regulates the heartbeat to ensure that the heart does not beat too slowly and, if a dangerous disruption of the heart’s rhythm occurs, acts as an automatic defibrillator; abbreviated ICD.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Pacemaker",
+    "pronunciation": "",
+    "definition": "A battery-powered device used to treat arrhythmia that can be attached externally or implanted temporarily or permanently under the skin with connections leading into the heart to regulate the heartbeat.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Cardiac resynchronization therapy",
+    "pronunciation": "",
+    "definition": "The use of a pacemaker to help the left and right heart chambers beat together and work efficiently.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Cardiac ablation",
+    "pronunciation": "/ab-LAY-shun/",
+    "definition": "Also called catheter ablation; a procedure that uses radio-frequency energy (heat) or cryoablation (extreme cold) to scar or destroy the heart tissue triggering an abnormal heart rhythm.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Ablation",
+    "pronunciation": "",
+    "definition": "The removal or destruction of tissue.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Valvuloplasty",
+    "pronunciation": "/VAL-view-loh-plas-tee/",
+    "definition": "Also called balloon valvuloplasty; the surgical repair of a heart valve that has a narrowed opening.",
+    "breakdown_text": "valvul/o: valve ; -plasty: surgical repair"
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Heart valve replacement",
+    "pronunciation": "",
+    "definition": "Surgery to replace one of the heart’s four valves, usually the aortic or mitral valve, with either a mechanical valve or one made up of animal or human tissue.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Transcatheter aortic valve replacement",
+    "pronunciation": "",
+    "definition": "A minimally invasive procedure in which the existing valve is left in place and a fully collapsible replacement valve is delivered to the valve site through a catheter; abbreviated TAVR.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Cardiopulmonary resuscitation",
+    "pronunciation": "",
+    "definition": "Commonly known as CPR; an emergency procedure for life support consisting of artificial respiration (mouth-to-mouth breathing) and manual external chest compression.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Compression-only CPR",
+    "pronunciation": "",
+    "definition": "CPR that can be effective in keeping a patient suffering from cardiac arrest alive until professional responders arrive.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Aneurysm clipping",
+    "pronunciation": "",
+    "definition": "A surgical method used to isolate an aneurysm in the brain from the rest of the circulatory system by placing a small clip across its neck.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 5,
+    "system_group": "Cardiovascular System",
+    "term": "Plasmapheresis",
+    "pronunciation": "/plaz-mah-feh-REE-sis/",
+    "definition": "The removal of whole blood from the body and separation of the blood’s cellular elements.",
+    "breakdown_text": ""
+  }
+]

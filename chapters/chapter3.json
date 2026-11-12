@@ -1,0 +1,2514 @@
+[
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "ankyl/o",
+    "pronunciation": "",
+    "definition": "Crooked, bent, stiff.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "arthr/o",
+    "pronunciation": "",
+    "definition": "Joint.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "burs/o",
+    "pronunciation": "",
+    "definition": "Bursa.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "chondr/i, chondr/o",
+    "pronunciation": "",
+    "definition": "Cartilage.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "cost/o",
+    "pronunciation": "",
+    "definition": "Rib.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "crani/o",
+    "pronunciation": "",
+    "definition": "Skull.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "-desis",
+    "pronunciation": "",
+    "definition": "To bind, tie together.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "kyph/o",
+    "pronunciation": "",
+    "definition": "Bent, hump.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "lord/o",
+    "pronunciation": "",
+    "definition": "Curve, swayback, bent.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "lumb/o",
+    "pronunciation": "",
+    "definition": "Lumbar, lower back.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "myel/o",
+    "pronunciation": "",
+    "definition": "Spinal cord, bone marrow.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "oss/e, oss/i, ost/o, oste/o",
+    "pronunciation": "",
+    "definition": "Bone.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "scoli/o",
+    "pronunciation": "",
+    "definition": "Curved, bent.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "spondyl/o",
+    "pronunciation": "",
+    "definition": "Vertebrae, vertebral column, backbone.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "synovi/o, synov/o",
+    "pronunciation": "",
+    "definition": "synovial membrane, synovial fluid.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "-plasty",
+    "pronunciation": "",
+    "definition": "Surgical repair.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "-desis",
+    "pronunciation": "",
+    "definition": "Surgical binding or fusion.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "-scope",
+    "pronunciation": "",
+    "definition": "Lighted instrument used to view or examine.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "-scopy",
+    "pronunciation": "",
+    "definition": "Process of viewing with a lighted instrument.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "-oma",
+    "pronunciation": "",
+    "definition": "Tumor.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "-malacia",
+    "pronunciation": "",
+    "definition": "Softening.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "-algia",
+    "pronunciation": "",
+    "definition": "Pain, ache.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "o/rrhaphy",
+    "pronunciation": "",
+    "definition": "Suturing.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "poly-",
+    "pronunciation": "",
+    "definition": "Many.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "syn-",
+    "pronunciation": "",
+    "definition": "Joined together.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "articul/o",
+    "pronunciation": "",
+    "definition": "Joint.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "ligament/o",
+    "pronunciation": "",
+    "definition": "Ligament.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "tend/o",
+    "pronunciation": "",
+    "definition": "Tendon.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "tendin/o",
+    "pronunciation": "",
+    "definition": "Tendon.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "ten/o",
+    "pronunciation": "",
+    "definition": "Tendon.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "duct/o",
+    "pronunciation": "",
+    "definition": "To lead or carry.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "ab-",
+    "pronunciation": "",
+    "definition": "Away from.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "ad-",
+    "pronunciation": "",
+    "definition": "Toward.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "circum-",
+    "pronunciation": "",
+    "definition": "Around.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "-ion",
+    "pronunciation": "",
+    "definition": "Process of.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "peri-",
+    "pronunciation": "",
+    "definition": "Surrounding.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "oste",
+    "pronunciation": "",
+    "definition": "Bone.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "-um",
+    "pronunciation": "",
+    "definition": "A noun ending.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "end-",
+    "pronunciation": "",
+    "definition": "Within.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "hemat/o",
+    "pronunciation": "",
+    "definition": "Blood.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "-poietic",
+    "pronunciation": "",
+    "definition": "Pertaining to formation.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "-penia",
+    "pronunciation": "",
+    "definition": "Deficiency.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "por",
+    "pronunciation": "",
+    "definition": "Small opening.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "-listhesis",
+    "pronunciation": "",
+    "definition": "Slipping.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "-ago",
+    "pronunciation": "",
+    "definition": "Diseased condition.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "a-",
+    "pronunciation": "",
+    "definition": "Without.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "vascul",
+    "pronunciation": "",
+    "definition": "Blood vessels.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "-ar",
+    "pronunciation": "",
+    "definition": "Pertaining to.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "radicul/o",
+    "pronunciation": "",
+    "definition": "Root or nerve.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "-pathy",
+    "pronunciation": "",
+    "definition": "Disease.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "lamin",
+    "pronunciation": "",
+    "definition": "Lamina.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "vertebr/o",
+    "pronunciation": "",
+    "definition": "Vertebra.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "capsul",
+    "pronunciation": "",
+    "definition": "Little box.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "pod",
+    "pronunciation": "",
+    "definition": "Foot.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "-iatrist",
+    "pronunciation": "",
+    "definition": "Specialist.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "sacr/o",
+    "pronunciation": "",
+    "definition": "Sacrum.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "ili",
+    "pronunciation": "",
+    "definition": "Ilium.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "-ac",
+    "pronunciation": "",
+    "definition": "Pertaining to.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Acetabulum",
+    "pronunciation": "/ass-eh-TAB-you-lum/",
+    "definition": "Also known as the hip socket; the large circular cavity in each side of the pelvis that articulates with the head of the femur to form the hip joint.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Allogenic",
+    "pronunciation": "/al-oh-JEN-ick/",
+    "definition": "Originating within another.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Ankylosing spondylitis",
+    "pronunciation": "/ang-kih-LOH-sing spon-dih-LYE-tis/",
+    "definition": "“A type of arthritis that primarily causes inflammation of the joints between the vertebrae.”",
+    "breakdown_text": "ankylosing: the progressive stiffening of a joint or joints ; spondyl: vertebrae ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Arthrodesis",
+    "pronunciation": "/ar-throh-DEE-sis/",
+    "definition": "“The surgical fusion (joining together) of two bones to stiffen a joint, such as an ankle, elbow, or shoulder.”",
+    "breakdown_text": "arthr/o: joint ; -desis: to bind, tie together"
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Arthroscopy",
+    "pronunciation": "/ar-THROS-koh-pee/",
+    "definition": "Visual examination of the internal structure of a joint using an arthroscope.",
+    "breakdown_text": "arthr/o: joint ; -scopy: visual examination"
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Autologous",
+    "pronunciation": "/aw-TOL-uh-guss/",
+    "definition": "Originating within an individual.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Avascular necrosis",
+    "pronunciation": "/ay-VAS-cue-ler neh-KROH-sis/",
+    "definition": "An area of bone tissue death caused by insufficient blood flow.",
+    "breakdown_text": "a-: without ; vascul: blood vessels ; -ar: pertaining to ; necrosis: tissue death"
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Bone marrow transplant",
+    "pronunciation": "",
+    "definition": "A stem cell transplant used to treat certain types of cancers, such as leukemia and lymphomas.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Callus",
+    "pronunciation": "/KAL-us/",
+    "definition": "A bulging deposit that forms around the area of the break in a bone; also a thickening of the skin that is caused by repeated rubbing.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Chondromalacia",
+    "pronunciation": "/kon-droh-mah-LAY-shee-ah/",
+    "definition": "Abnormal softening of cartilage.",
+    "breakdown_text": "chondr/o: cartilage ; -malacia: abnormal softening"
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Comminuted fracture",
+    "pronunciation": "/KOM-ih-newt-ed/",
+    "definition": "A fracture in which the bone is splintered or crushed.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Compression fracture",
+    "pronunciation": "",
+    "definition": "A fracture in which the bone is pressed together on itself.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Costochondritis",
+    "pronunciation": "/kos-toh-kon-DRIGH-tis/",
+    "definition": "Inflammation of the cartilage that connects a rib to the sternum.",
+    "breakdown_text": "cost/o: rib ; chondr: cartilage ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Crepitation",
+    "pronunciation": "/krep-ih-TAY-shun/",
+    "definition": "The grating sound heard when the ends of a broken bone move together.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Dual x-ray absorptiometry",
+    "pronunciation": "/ab-sorp-shee-OM-eh-tree/",
+    "definition": "A low-exposure radiographic measurement of the spine and hips to measure bone density.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Fat embolus",
+    "pronunciation": "/EM-boh-lus/",
+    "definition": "The release of fat cells from yellow bone marrow into the bloodstream when a long bone is fractured.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Gout",
+    "pronunciation": "/GOWT/",
+    "definition": "A type of inflammatory arthritis characterized by deposits of urate crystals in the joints.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Hallux valgus",
+    "pronunciation": "/HAL-ucks VAL-guss/",
+    "definition": "An abnormal enlargement of the joint at the base of the great toe.",
+    "breakdown_text": "hallux: Latin for big toe ; valgus: bent"
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Hemarthrosis",
+    "pronunciation": "/hem-ar-THROH-sis/",
+    "definition": "Blood within a joint.",
+    "breakdown_text": "hem: blood ; arthr: joint ; -osis: abnormal condition or disease"
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Hematopoietic",
+    "pronunciation": "/hee-MAH-toh-poy-et-ick/",
+    "definition": "Pertaining to the formation of blood cells.",
+    "breakdown_text": "hemat/o: blood ; -poietic: pertaining to formation"
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Internal fixation",
+    "pronunciation": "",
+    "definition": "Fracture treatment in which pins or a plate are placed directly into the bone to hold the broken pieces in place.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Juvenile idiopathic arthritis",
+    "pronunciation": "/id-ee-oh-PATH-ick ar-THRIGH-tis/",
+    "definition": "An autoimmune disorder affecting children aged 16 years or younger, with symptoms that include stiffness, pain, joint swelling, skin rash, fever, slowed growth, and fatigue.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Kyphosis",
+    "pronunciation": "/kye-FOH-sis/",
+    "definition": "An abnormal increase in the outward curvature of the thoracic spine as viewed from the side.",
+    "breakdown_text": "kyph: hump ; -osis: abnormal condition or disease"
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Laminectomy",
+    "pronunciation": "/lam-ih-NECK-toh-mee/",
+    "definition": "Surgical removal of the lamina, or posterior portion, of a vertebra.",
+    "breakdown_text": "lamin: lamina ; -ectomy: surgical removal"
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Lordosis",
+    "pronunciation": "/lor-DOH-sis/",
+    "definition": "An abnormal increase in the forward curvature of the lumbar spine.",
+    "breakdown_text": "lord: bent backward ; -osis: abnormal condition or disease"
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Lumbago",
+    "pronunciation": "/lum-BAY-goh/",
+    "definition": "“The general term for pain in the lumbar region of the spine.”",
+    "breakdown_text": "lumb: lumbar ; -ago: diseased condition"
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Malleolus",
+    "pronunciation": "/mah-LEE-oh-lus/",
+    "definition": "A rounded bony projection on the tibia and fibula on the sides of each ankle joint.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Manubrium",
+    "pronunciation": "/mah-NEW-bree-um/",
+    "definition": "The bony structure that forms the upper portion of the sternum.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Metacarpals",
+    "pronunciation": "/met-ah-KAR-palz/",
+    "definition": "The five bones that form the palms of the hand.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Metatarsals",
+    "pronunciation": "/met-ah-TAHR-salz/",
+    "definition": "Form that part of the foot to which the toes are attached.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Multiple myeloma",
+    "pronunciation": "/my-eh-LOH-mah/",
+    "definition": "A type of cancer that occurs in blood-making cells of the red bone marrow.",
+    "breakdown_text": "myel: bone marrow ; -oma: tumor"
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Open fracture",
+    "pronunciation": "",
+    "definition": "A fracture in which the bone is broken and there is an open wound in the skin.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Orthopedic surgeon",
+    "pronunciation": "/or-thoh-PEE-dick/",
+    "definition": "Also known as an orthopedist; a physician who specializes in diagnosing and treating diseases and disorders involving the bones, joints, and muscles.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Orthotic",
+    "pronunciation": "/or-THOT-ick/",
+    "definition": "A mechanical appliance, such as a shoe insert, leg brace, or a splint, which is specially designed to support, control, correct, or compensate for impaired limb function.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Osteitis",
+    "pronunciation": "/oss-tee-EYE-tis/",
+    "definition": "Inflammation of a bone.",
+    "breakdown_text": "oste: bone ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Osteoarthritis",
+    "pronunciation": "/oss-tee-oh-ar-THRIGH-tis/",
+    "definition": "The type of arthritis most commonly associated with aging.",
+    "breakdown_text": "oste/o: bone ; arthr: joint ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Osteochondroma",
+    "pronunciation": "/oss-tee-oh-kon-DROH-mah/",
+    "definition": "A benign bony projection covered with cartilage.",
+    "breakdown_text": "oste/o: bone ; chondr: cartilage ; -oma: tumor"
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Osteomalacia",
+    "pronunciation": "/oss-tee-oh-mah-LAY-shee-ah/",
+    "definition": "Abnormal softening of bone in adults.",
+    "breakdown_text": "oste/o: bone ; -malacia: abnormal softening"
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Osteomyelitis",
+    "pronunciation": "/oss-tee-oh-my-eh-LYE-tis/",
+    "definition": "Inflammation of the bone marrow and adjacent bone.",
+    "breakdown_text": "oste/o: bone ; myel: bone marrow ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Osteopenia",
+    "pronunciation": "/oss-tee-oh-PEE-nee-ah/",
+    "definition": "Thinner-than-average bone density.",
+    "breakdown_text": "oste/o: bone ; -penia: deficiency"
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Osteoporosis",
+    "pronunciation": "/oss-tee-oh-poh-ROH-sis/",
+    "definition": "A marked loss of bone density and an increase in bone porosity that is frequently associated with aging.",
+    "breakdown_text": "oste/o: bone ; por: small opening ; -osis: abnormal condition or disease"
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Osteoporotic hip fracture",
+    "pronunciation": "/oss-tee-oh-pah-ROT-ick/",
+    "definition": "A fracture of a hip weakened by osteoporosis that can occur spontaneously or as the result of a fall.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Paget’s disease",
+    "pronunciation": "/PAJ-its/",
+    "definition": "A chronic bone disease of unknown cause, characterized by abnormal breakdown of bone tissue followed by formation.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Pathologic fracture",
+    "pronunciation": "",
+    "definition": "A fracture that occurs when a weakened bone breaks under normal strain.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Percutaneous vertebroplasty",
+    "pronunciation": "/per-kyou-TAY-nee-us VER-tee-broh-plas-tee/",
+    "definition": "Treatment of osteoporosis-related compression fractures by injecting bone cement to stabilize compression fractures within the spinal column.",
+    "breakdown_text": "vertebr/o: vertebra ; -plasty: surgical repair"
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Podiatrist",
+    "pronunciation": "/poh-DYE-ah-trist/",
+    "definition": "Specializes in diagnosing and treating disorders of the foot.",
+    "breakdown_text": "pod: foot ; -iatrist: specialist"
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Polymyalgia rheumatica",
+    "pronunciation": "/pol-ee-my-AL-jee-ah roo-MA-tih-kah/",
+    "definition": "An inflammatory disorder of the muscles and joints characterized by pain and stiffness in the neck, shoulders, upper arms, and hips and thighs.",
+    "breakdown_text": "poly-: many ; my: muscle ; -algia: pain"
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Prosthesis",
+    "pronunciation": "/pros-THEE-sis/",
+    "definition": "A substitute for a diseased or missing body part.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Radiculopathy",
+    "pronunciation": "/rah-dick-you-LOH-path-ee/",
+    "definition": "A condition caused by the compression of a nerve in the spine; also called a pinched nerve.",
+    "breakdown_text": "radicul/o: root or nerve ; -pathy: disease"
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Rheumatoid arthritis",
+    "pronunciation": "/ROO-mah-toyd ar-THRIGH-tis/",
+    "definition": "A chronic autoimmune disorder in which the joints and some organs of other body systems are attacked.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Rickets",
+    "pronunciation": "/RICK-ets/",
+    "definition": "A deficiency disease occurring in children involving defective bone growth due to vitamin D deficiency.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Scoliosis",
+    "pronunciation": "/skoh-lee-OH-sis/",
+    "definition": "An abnormal lateral curvature of the spine.",
+    "breakdown_text": "scoli: curved ; -osis: abnormal condition or disease"
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Spina bifida",
+    "pronunciation": "/SPY-nah BIF-ih-dah/",
+    "definition": "A congenital defect that occurs during early pregnancy in which the spinal canal fails to close completely around the spinal cord to protect it.",
+    "breakdown_text": "spina: pertaining to the spine ; bifida: split"
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Spinal stenosis",
+    "pronunciation": "/steh-NOH-sis/",
+    "definition": "Is a narrowing of the spaces within the spine, potentially putting pressure on the nerves and spinal cord that may cause pain.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Spiral fracture",
+    "pronunciation": "",
+    "definition": "A fracture in which the bone has been twisted apart.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Spondylolisthesis",
+    "pronunciation": "/spon-dih-loh-liss-THEE-sis/",
+    "definition": "The forward slipping movement of the body of one of the lower lumbar vertebrae on the vertebra below it.",
+    "breakdown_text": "spondyl/o: vertebrae ; -listhesis: slipping"
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Spondylosis",
+    "pronunciation": "/spon-dih-LOH-sis/",
+    "definition": "A degenerative disorder that can cause the loss of normal spinal structure and function.",
+    "breakdown_text": "spondyl: vertebrae ; -osis: abnormal condition or disease"
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Subluxation",
+    "pronunciation": "/sub-luck-SAY-shun/",
+    "definition": "The partial displacement of a bone from its joint.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Synovectomy",
+    "pronunciation": "/sin-oh-VECK-toh-mee/",
+    "definition": "Surgical removal of a synovial membrane from a joint, usually the knee.",
+    "breakdown_text": "synov: synovial membrane ; -ectomy: surgical removal"
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Vertebrae",
+    "pronunciation": "/VER-teh-bray/",
+    "definition": "Bony structural units of the spinal column.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Ossification",
+    "pronunciation": "/oss-uh-fih-KAY-shun/",
+    "definition": "The process in which a newborn’s skeleton, which begins as fragile membranes and cartilage, turns into bone; it continues through adolescence and also repairs minor damage and bones after injuries such as fractures.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Osteoclast",
+    "pronunciation": "",
+    "definition": "Cells that break down old or damaged bone.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Osteoblast",
+    "pronunciation": "",
+    "definition": "Cells that help rebuild the bone.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Periosteum",
+    "pronunciation": "/pehr-ee-OSS-tee-um/",
+    "definition": "The tough, fibrous tissue that forms the outermost covering of bone.",
+    "breakdown_text": "peri-: surrounding ; oste: bone ; -um: a noun ending"
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Compact bone",
+    "pronunciation": "",
+    "definition": "Also known as cortical bone; the dense, hard, and very strong bone that forms the protective outer layer of bones.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Spongy bone",
+    "pronunciation": "",
+    "definition": "Also known as cancellous bone; porous (“sponge-like”), which makes it lighter and weaker than compact bone.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Red bone marrow",
+    "pronunciation": "",
+    "definition": "A hematopoietic tissue, located within the spongy bone, that manufactures red blood cells, hemoglobin, white blood cells, and thrombocytes.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Long bones",
+    "pronunciation": "",
+    "definition": "The major bones of the arms and legs, including the femur and humerus.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Short bones",
+    "pronunciation": "",
+    "definition": "The bones of the wrist and ankle; roughly cube-shaped, and made up of spongy bone covered with a layer of compact bone.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Medullary cavity",
+    "pronunciation": "/MED-you-lehr-ee/",
+    "definition": "The central cavity located in the shaft of long bones, where it is surrounded by compact bone; red and yellow bone marrow are stored here.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Endosteum",
+    "pronunciation": "/en-DOS-tee-um/",
+    "definition": "The tissue that lines the medullary cavity.",
+    "breakdown_text": "end-: within ; oste: bone ; -um: a noun ending"
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Yellow bone marrow",
+    "pronunciation": "",
+    "definition": "Functions as a fat storage area; composed chiefly of fat cells and located in the medullary cavity of long bones.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Cartilage",
+    "pronunciation": "/KAR-tih-lidj/",
+    "definition": "The smooth, rubbery, blue-white connective tissue that acts as a shock absorber between bones.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Articular cartilage",
+    "pronunciation": "/ar-TICK-you-lar KAR-tih-lidj/",
+    "definition": "Covers the surfaces of bones where they articulate, or come together, to form joints; makes smooth joint movement possible and protects the bones from rubbing against each other.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Articulate",
+    "pronunciation": "",
+    "definition": "To come together.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Meniscus",
+    "pronunciation": "/meh-NIS-kus/",
+    "definition": "The curved, fibrous cartilage found in some joints, such as the knee and the temporomandibular joint of the jaw.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Diaphysis",
+    "pronunciation": "/dye-AF-ih-sis/",
+    "definition": "The shaft of a long bone.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Epiphyses",
+    "pronunciation": "/ep-PIF-ih-seez/",
+    "definition": "The wider ends of long bones such as the femurs of the legs (singular epiphysis).",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Proximal epiphysis",
+    "pronunciation": "",
+    "definition": "The end of the bone located nearest to the midline of the body.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Distal epiphysis",
+    "pronunciation": "",
+    "definition": "The end of the bone located farthest away from the midline of the body.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Foramen",
+    "pronunciation": "/foh-RAY-men/",
+    "definition": "An opening in a bone through which blood vessels, nerves, and ligaments pass (plural, foramina).",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Process",
+    "pronunciation": "",
+    "definition": "A normal projection on the surface of a bone that most commonly serves as an attachment for a muscle or tendon.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Mastoid process",
+    "pronunciation": "",
+    "definition": "The bony projection located on the temporal bones just behind the ears.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Joints",
+    "pronunciation": "",
+    "definition": "Also known as articulations; the place of union between two or more bones.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Synovial fluid",
+    "pronunciation": "",
+    "definition": "A lubricating fluid that fills the joint cavity and acts as a lubricant to make the smooth movement of the joint possible.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Ligament",
+    "pronunciation": "",
+    "definition": "A fibrous connective tissue that connects one bone to another bone.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Bursa",
+    "pronunciation": "/BER-sah/",
+    "definition": "A fibrous sac that acts as a cushion to ease movement in areas that are subject to friction, such as in the shoulder, elbow, and knee joints where a tendon passes over a bone (plural, bursae).",
+    "breakdown_text": "burs/o: bursa"
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Tendons",
+    "pronunciation": "",
+    "definition": "Connect muscles to the bones.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Abduction",
+    "pronunciation": "",
+    "definition": "Movement away from the midline of the body.",
+    "breakdown_text": "ab-: away from ; duct/o: to lead or carry ; -ion: process of"
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Adduction",
+    "pronunciation": "",
+    "definition": "Movement toward the midline of the body.",
+    "breakdown_text": "ad-: toward ; duct/o: to lead or carry ; -ion: process of"
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Circumduction",
+    "pronunciation": "",
+    "definition": "Movement in a circular direction.",
+    "breakdown_text": "circum-: around ; duct/o: to lead or carry ; -ion: process of"
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Fibrous joints",
+    "pronunciation": "",
+    "definition": "Consisting of inflexible layers of dense connective tissue, hold the bones tightly together; also known as sutures.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Sutures",
+    "pronunciation": "",
+    "definition": "Fibrous joints; in adults these joints allow little or no movement.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Fontanelles",
+    "pronunciation": "/fon-tah-NELLS/",
+    "definition": "Also known as the soft spots; normally present on the skull of a newborn.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Cartilaginous joints",
+    "pronunciation": "/kar-tih-LADJ-ih-nus/",
+    "definition": "Joints that allow only slight movement and consist of bones connected entirely by cartilage.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Pubic symphysis",
+    "pronunciation": "/PEW-bick SIM-fih-sis/",
+    "definition": "The cartilaginous joint that unites the left and right pubic bones; allows some movement to facilitate childbirth.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Symphysis",
+    "pronunciation": "",
+    "definition": "A place where two bones are closely joined.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Synovial joint",
+    "pronunciation": "/sih-NOH-vee-al/",
+    "definition": "A joint created where two bones articulate to permit a variety of motions.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Ball-and-socket joints",
+    "pronunciation": "",
+    "definition": "Joints, such as the hips and shoulders, that allow a wide range of movement in many directions.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Hinge joints",
+    "pronunciation": "",
+    "definition": "Synovial joints, such as the knees and elbows, that allow movement primarily in one direction or plane.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Synovial capsule",
+    "pronunciation": "",
+    "definition": "The outermost layer of strong fibrous tissue that resembles a sleeve as it surrounds the joint.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Synovial membrane",
+    "pronunciation": "",
+    "definition": "Lines the capsule and secretes synovial fluid.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Ligaments",
+    "pronunciation": "/LIG-ah-mentz/",
+    "definition": "Bands of fibrous tissue that form joints by connecting one bone to another bone or by joining a bone to cartilage.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Axial skeleton",
+    "pronunciation": "",
+    "definition": "Protects the major organs of the nervous, respiratory, and circulatory systems; consists of the 80 bones of the head and body.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Appendicular skeleton",
+    "pronunciation": "",
+    "definition": "Makes body movement possible and also protects the organs of digestion, excretion, and reproduction; consists of 126 bones.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Appendage",
+    "pronunciation": "",
+    "definition": "Anything that is attached to a major part of the body.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Extremity",
+    "pronunciation": "",
+    "definition": "The terminal end of a body part such as an arm or leg.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Cranium",
+    "pronunciation": "/KRAY-nee-um/",
+    "definition": "The portion of the skull that encloses and protects the brain.",
+    "breakdown_text": "crani: skull ; -um: a noun ending"
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Frontal bone",
+    "pronunciation": "",
+    "definition": "The anterior portion of the cranium that forms the forehead.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Parietal bones",
+    "pronunciation": "/pah-RYE-eh-tal/",
+    "definition": "Two of the largest bones of the skull; together they form most of the roof and upper sides of the cranium.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Occipital bone",
+    "pronunciation": "/ock-SIP-ih-tal/",
+    "definition": "Forms the back part of the skull and the base of the cranium.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Temporal bones",
+    "pronunciation": "",
+    "definition": "The two bones that form the sides and base of the cranium.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "External auditory meatus",
+    "pronunciation": "/mee-AY-tus/",
+    "definition": "The opening of the external auditory canal of the outer ear.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Meatus",
+    "pronunciation": "",
+    "definition": "The external opening of a canal.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Sphenoid bone",
+    "pronunciation": "/SFEE-noid/",
+    "definition": "An irregular, wedge-shaped bone at the base of the skull.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Ethmoid bone",
+    "pronunciation": "/ETH-moid/",
+    "definition": "Light, spongy bone located at the roof and sides of the nose.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Orbit",
+    "pronunciation": "",
+    "definition": "The bony socket that surrounds and protects each eyeball.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Auditory ossicles",
+    "pronunciation": "/OSS-ih-kulz/",
+    "definition": "The three tiny bones located in each middle ear; known as the malleus, incus, and stapes.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Sinuses",
+    "pronunciation": "",
+    "definition": "Air-filled cavities in some facial bones; among their purposes is to lighten the weight of the skull.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Nasal bones",
+    "pronunciation": "",
+    "definition": "The two bones that form the upper part of the bridge of the nose.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Zygomatic bones",
+    "pronunciation": "/zye-goh-MAT-ick/",
+    "definition": "Also known as the cheekbones; the two bones that articulate with the frontal bone that makes up the forehead.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Maxillary bones",
+    "pronunciation": "/MACK-sih-ler-ee/",
+    "definition": "The two bones that form most of the upper jaw (singular, maxilla); also known as the maxillae.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Palatine bones",
+    "pronunciation": "/PAL-ah-tine/",
+    "definition": "The two bones that form the anterior (front) part of the hard palate of the mouth and the floor of the nose.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Lacrimal bones",
+    "pronunciation": "/LACK-rih-mal/",
+    "definition": "The two bones that make up part of the orbit (socket of the eye) at the inner angle.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Inferior conchae",
+    "pronunciation": "/KONG-kee or KONG-kay/",
+    "definition": "The two thin, scroll-like bones that form part of the interior of the nose (singular, concha).",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Vomer bone",
+    "pronunciation": "/VOH-mer/",
+    "definition": "Forms the base for the nasal septum.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Nasal septum",
+    "pronunciation": "",
+    "definition": "The cartilage wall that divides the two nasal cavities.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Mandible",
+    "pronunciation": "/MAN-dih-bul/",
+    "definition": "Also known as the jawbone; the only movable bone of the skull.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Temporomandibular joint",
+    "pronunciation": "/tem-poh-roh-man-DIB-you-lar/",
+    "definition": "The joint that attaches the mandible to the skull; commonly known by its abbreviation, TMJ.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Thoracic cavity",
+    "pronunciation": "/thoh-RAS-ick/",
+    "definition": "Also known as the rib cage; the bony structure that protects the heart and lungs.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Ribs",
+    "pronunciation": "",
+    "definition": "The 12 pairs of ribs, also known as costals, that attach posteriorly to the thoracic vertebrae.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "True ribs",
+    "pronunciation": "",
+    "definition": "The first seven pairs of ribs; they attach anteriorly to the sternum.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "False ribs",
+    "pronunciation": "",
+    "definition": "The next three pairs of ribs; they attach anteriorly to cartilage that connects them to the sternum.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Floating ribs",
+    "pronunciation": "",
+    "definition": "The last two pairs of ribs; they are only attached posteriorly to the vertebrae but are not attached anteriorly.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Sternum",
+    "pronunciation": "/STER-num/",
+    "definition": "Also known as the breast bone; a flat, dagger-shaped bone located in the middle of the chest that forms the front of the rib cage.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Body of the sternum",
+    "pronunciation": "",
+    "definition": "Also known as the gladiolus; the bony structure that forms the middle portion of the sternum.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Xiphoid process",
+    "pronunciation": "/ZIF-oid/",
+    "definition": "The structure made of cartilage that forms the lower portion of the sternum.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Pectoral girdle",
+    "pronunciation": "/PECK-toh-rahl/",
+    "definition": "Also known as the shoulder girdle; formed by the shoulders and supports the arms and hands.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Girdle",
+    "pronunciation": "",
+    "definition": "A structure that encircles the body.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Clavicle",
+    "pronunciation": "/KLAV-ih-kul/",
+    "definition": "Also known as the collarbone; a slender bone that connects the manubrium of the sternum to the scapula.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Scapula",
+    "pronunciation": "/SKAP-you-lah/",
+    "definition": "Also known as the shoulder blade (plural, scapulae).",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Acromion",
+    "pronunciation": "/ah-KROH-mee-on/",
+    "definition": "An extension of the scapula that forms the high point of the shoulder.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Humerus",
+    "pronunciation": "/HEW-mer-us/",
+    "definition": "The bone of the upper arm (plural, humeri).",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Radius",
+    "pronunciation": "/RAY-dee-us/",
+    "definition": "The smaller and shorter bone in the forearm; runs up the thumb side of the forearm (plural, radii).",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Ulna",
+    "pronunciation": "/ULL-nah/",
+    "definition": "The larger and longer bone of the forearm (plural, ulnae).",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Olecranon",
+    "pronunciation": "/oh-LEK-rah-non/",
+    "definition": "Commonly known as the funny bone; the large, proximal tip of the ulna that forms the point of the elbow.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Carpals",
+    "pronunciation": "/KAR-palz/",
+    "definition": "The eight bones that form the wrist (singular, carpal).",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Carpal tunnel",
+    "pronunciation": "",
+    "definition": "A narrow bony passage formed by the carpals through which the median nerve and the tendons of the fingers pass to reach the hand.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Phalanges",
+    "pronunciation": "/fah-LAN-jeez/",
+    "definition": "The 14 bones of the fingers (singular, phalanx); the bones of the toes are also known as phalanges.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Spinal column",
+    "pronunciation": "",
+    "definition": "Also known as the vertebral column; protects the spinal cord and supports the head and body; consists of 26 vertebrae.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Vertebra",
+    "pronunciation": "/VER-teh-bruh/",
+    "definition": "Each of the bony units of the spinal column; vertebral means pertaining to the vertebrae.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Body of the vertebra",
+    "pronunciation": "",
+    "definition": "The anterior portion of the vertebra, which is solid to provide strength.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Lamina",
+    "pronunciation": "/LAM-ih-nah/",
+    "definition": "The posterior portion of a vertebra (plural, laminae).",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Vertebral foramen",
+    "pronunciation": "",
+    "definition": "The opening in the middle of the vertebra that allows the spinal cord to pass through and be protected.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Intervertebral disks",
+    "pronunciation": "/in-ter-VER-teh-bral/",
+    "definition": "Made of cartilage and pads of tissue; separate and cushion the vertebrae from each other and allow for movement of the spinal column.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Nucleus pulposus",
+    "pronunciation": "",
+    "definition": "The inner core of the intervertebral disk, made up of a soft, gelatinous material that allows the disks to act as shock absorbers.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Cervical vertebrae",
+    "pronunciation": "/SER-vih-kal/",
+    "definition": "The first set of seven vertebrae, which form the neck; also known as C1 through C7.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Thoracic vertebrae",
+    "pronunciation": "/thoh-RASS-ick/",
+    "definition": "The second set of 12 vertebrae, known as T1 through T12; each has a pair of ribs attached to it.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Lumbar vertebrae",
+    "pronunciation": "/LUM-bar/",
+    "definition": "The third set of five vertebrae, known as L1 through L5; the largest and strongest of the vertebrae, they bear most of the body’s weight.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Sacrum",
+    "pronunciation": "/SAY-krum/",
+    "definition": "The slightly curved, triangular-shaped bone near the base of the spine that forms the lower portion of the back.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Coccyx",
+    "pronunciation": "/KOCK-sicks/",
+    "definition": "Also known as the tailbone; forms the end of the spine and is made up of four small vertebrae that are entirely or partially fused together.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Pelvis",
+    "pronunciation": "",
+    "definition": "Also known as the bony pelvis; protects internal organs and supports the lower extremities.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Pelvic girdle",
+    "pronunciation": "",
+    "definition": "A cup-shaped ring of bone at the lower end of the trunk consisting of the ilium, ischium, and pubis.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Ilium",
+    "pronunciation": "/ILL-ee-um/",
+    "definition": "The broad, blade-shaped bone that forms the back and sides of the pubic bone.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Sacroiliac",
+    "pronunciation": "/say-kroh-ILL-ee-ack/",
+    "definition": "The slightly movable articulation between the sacrum and posterior portion of the ilium.",
+    "breakdown_text": "sacr/o: sacrum ; ili: ilium ; -ac: pertaining to"
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Ischium",
+    "pronunciation": "/ISS-kee-um/",
+    "definition": "Forms the lower posterior portion of the pubic bone and bears the weight of the body when sitting.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Pubis",
+    "pronunciation": "/PEW-bis/",
+    "definition": "Forms the anterior portion of the pubic bone and is located just below the urinary bladder.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Femurs",
+    "pronunciation": "/FEE-murz/",
+    "definition": "The largest bones in the body; also known as thigh bones. Femoral means pertaining to the femur.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Patella",
+    "pronunciation": "/pah-TEL-ah/",
+    "definition": "Also known as the kneecap; the bony anterior portion of the knee.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Popliteal",
+    "pronunciation": "/pop-LIT-ee-al/",
+    "definition": "Describes the posterior space behind the knee where the ligaments, vessels, and muscles related to this joint are located.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Cruciate ligaments",
+    "pronunciation": "/KROO-shee-ayt/",
+    "definition": "The anterior and posterior ligaments that make possible the movements of the knee; shaped like a cross.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "ACL injury",
+    "pronunciation": "",
+    "definition": "A tear in the anterior cruciate ligament.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Tibia",
+    "pronunciation": "/TIB-ee-ah/",
+    "definition": "Also known as the shinbone; the larger anterior weight-bearing bone of the lower leg.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Fibula",
+    "pronunciation": "/FIB-you-lah/",
+    "definition": "The smaller of the two bones of the lower leg.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Tarsal",
+    "pronunciation": "/TAHR-sal/",
+    "definition": "The seven short bones that make up each ankle.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Talus",
+    "pronunciation": "/TAY-luss/",
+    "definition": "The ankle bone that articulates with the tibia and fibula.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Calcaneus",
+    "pronunciation": "/kal-KAY-nee-uss/",
+    "definition": "Also known as the heel bone; the largest of the tarsal bones.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Chiropractor",
+    "pronunciation": "/KYE-roh-prack-tor/",
+    "definition": "Holds a Doctor of Chiropractic (DC) degree and specializes in the manipulative treatment of disorders originating from misalignment of the spine.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Osteopath",
+    "pronunciation": "/oss-tee-oh-PATH/",
+    "definition": "Holds a Doctor of Osteopathy (DO) degree and uses traditional forms of medical treatment in addition to specializing in treating health problems by spinal manipulation.",
+    "breakdown_text": "oste/o: bone ; -path: disease"
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Osteopathy",
+    "pronunciation": "",
+    "definition": "This type of medical practice; the term is also used to mean any bone disease.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Rheumatologist",
+    "pronunciation": "/roo-mah-TOL-oh-jist/",
+    "definition": "A physician who specializes in the diagnosis and treatment of arthritis and disorders such as osteoporosis, fibromyalgia, and tendinitis that are characterized by inflammation in the joints and connective tissues.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Ankylosis",
+    "pronunciation": "/ang-kih-LOH-sis/",
+    "definition": "The loss or absence of mobility in a joint due to disease, injury, or a surgical procedure.",
+    "breakdown_text": "ankyl: crooked, bent, or stiff ; -osis: abnormal condition or disease"
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Mobility",
+    "pronunciation": "",
+    "definition": "Being capable of movement.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Adhesive capsulitis",
+    "pronunciation": "/ad-HEE-siv kap-suh-LIE-tis/",
+    "definition": "Also known as frozen shoulder; painful ankylosis of the shoulder.",
+    "breakdown_text": "capsul: little box ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Arthrosclerosis",
+    "pronunciation": "/ar-throh-skleh-ROH-sis/",
+    "definition": "Stiffness of the joints, especially in the elderly.",
+    "breakdown_text": "arthr/o: joint ; -sclerosis: abnormal hardening"
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Baker’s cyst",
+    "pronunciation": "",
+    "definition": "Also known as a popliteal cyst; a fluid-filled sac behind the knee.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Bursitis",
+    "pronunciation": "/ber-SIGH-tis/",
+    "definition": "An inflammation of a bursa.",
+    "breakdown_text": "burs: bursa ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Polymyalgia rheumatica (PMR)",
+    "pronunciation": "",
+    "definition": "An inflammatory disorder of the muscles and joints characterized by pain and stiffness in the neck, shoulders, upper arms, and hips and thighs.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Sprain",
+    "pronunciation": "",
+    "definition": "Occurs when a ligament that connects bones to a joint is wrenched or torn.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Synovitis",
+    "pronunciation": "/sin-oh-VYE-tiss/",
+    "definition": "Inflammation of the synovial membrane that results in swelling and pain of the affected joint.",
+    "breakdown_text": "synov: synovial membrane ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Dislocation",
+    "pronunciation": "/luck-SAY-shun/",
+    "definition": "Also known as luxation; the total displacement of a bone from its joint.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Arthritis",
+    "pronunciation": "/ar-THRIGH-tis/",
+    "definition": "An inflammatory condition of one or more joints.",
+    "breakdown_text": "arthr: joint ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Osteophytes",
+    "pronunciation": "/OSS-tee-oh-fites/",
+    "definition": "Also known as bone spurs; bony projections that can cause pain or restrict movement in a joint.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Degenerative",
+    "pronunciation": "",
+    "definition": "The breaking down or impairment of a body part.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Pseudogout",
+    "pronunciation": "",
+    "definition": "A form of arthritis that most commonly affects the knees or wrists; caused by a buildup of calcium pyrophosphate crystals in the joint.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Herniated disk",
+    "pronunciation": "/HER-nee-ayt-ed/",
+    "definition": "Also known as a slipped or ruptured disk; the breaking apart of an intervertebral disk resulting in a bulge that can put pressure on spinal nerve roots.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Periostitis",
+    "pronunciation": "/pehr-ee-oss-TYE-tis/",
+    "definition": "An inflammation of the periosteum.",
+    "breakdown_text": "peri-: surrounding ; ost: bone ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Short stature",
+    "pronunciation": "",
+    "definition": "Formerly known as dwarfism; a condition resulting from the failure of the bones of the limbs to grow to an appropriate length compared to the size of the head and trunk.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Clubfoot",
+    "pronunciation": "",
+    "definition": "Also known as talipes; describes any congenital deformity of the foot involving the talus (ankle bones).",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Primary bone cancer",
+    "pronunciation": "",
+    "definition": "A relatively rare malignant tumor that originates in a bone.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Secondary bone cancer",
+    "pronunciation": "",
+    "definition": "Also known as bone metastasis; occurs when cancer cells metastasize (spread) to the bones from other organs such as the breasts, prostate, or lungs.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Malignant",
+    "pronunciation": "",
+    "definition": "Becoming progressively worse and life-threatening.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Benign",
+    "pronunciation": "",
+    "definition": "Something that is not life-threatening and does not recur.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Exostosis",
+    "pronunciation": "",
+    "definition": "Another name for an osteochondroma; this type of outgrowth of tissue (plural, exostoses).",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Psoriatic arthritis",
+    "pronunciation": "",
+    "definition": "An inflammatory form of arthritis developed by about 20% of all people with the autoimmune skin disease psoriasis.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Colles fracture",
+    "pronunciation": "/KAHL-es/",
+    "definition": "Also known as a broken wrist; a fracture that occurs at the lower end of the radius, often when a person tries to stop a fall by landing on his or her hands.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Fracture",
+    "pronunciation": "",
+    "definition": "A broken bone.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Closed fracture",
+    "pronunciation": "",
+    "definition": "Also known as a simple fracture or a complete fracture; one in which the bone is broken, but there is no open wound in the skin.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Incomplete fracture",
+    "pronunciation": "",
+    "definition": "A fracture in which the bone does not break into two separate pieces, occurring primarily in children.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Greenstick fracture",
+    "pronunciation": "",
+    "definition": "A fracture in which one side of the bone is broken and the other side is only bent.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Buckle fracture",
+    "pronunciation": "",
+    "definition": "Also called a torus fracture; the affected side of the bone is compressed and buckles but does not break.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Oblique fracture",
+    "pronunciation": "",
+    "definition": "A fracture that occurs at an angle across the bone.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Stress fracture",
+    "pronunciation": "",
+    "definition": "An overuse injury; a small crack in the bone that often develops from chronic, excessive impact.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Transverse fracture",
+    "pronunciation": "",
+    "definition": "A fracture that occurs straight across, perpendicular to the shaft of the bone.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Embolus",
+    "pronunciation": "",
+    "definition": "Any foreign matter circulating in the blood that can become lodged and block the blood vessel.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Embolism",
+    "pronunciation": "",
+    "definition": "The blockage of a blood vessel by an embolus.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "X-ray imaging",
+    "pronunciation": "",
+    "definition": "Also known as radiography; uses a form of electromagnetic radiation to create x-rays that help visualize bone fractures and other abnormalities of hard-tissue internal structures.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Arthroscope",
+    "pronunciation": "",
+    "definition": "An instrument used to visually examine the internal structure of a joint.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Bone marrow biopsy",
+    "pronunciation": "",
+    "definition": "A diagnostic test that may be necessary after abnormal types or numbers of red or white blood cells are found in a complete blood count test.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Bone marrow aspiration",
+    "pronunciation": "",
+    "definition": "The use of a syringe to withdraw tissue from the red bone marrow.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Magnetic resonance imaging",
+    "pronunciation": "",
+    "definition": "Used to image soft tissue structures such as the interior of complex joints; abbreviated MRI.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Bone density testing",
+    "pronunciation": "",
+    "definition": "Used to determine losses or changes in bone density; abbreviated BDT.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Ultrasonic bone density testing",
+    "pronunciation": "",
+    "definition": "A screening test for osteoporosis or other conditions that cause a loss of bone mass in which sound waves are used to take measurements of the calcaneus (heel) bone.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Bisphosphonates",
+    "pronunciation": "",
+    "definition": "A class of drugs used to slow the loss of bone density due to osteoporosis, reducing the risk of broken bones.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Hormone replacement therapy",
+    "pronunciation": "",
+    "definition": "Low dose therapy sometimes used in the short term to maintain bone density in women at high risk for bone loss after menopause.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Allogenic bone marrow transplant",
+    "pronunciation": "",
+    "definition": "Also known as an allogenic stem cell transplant; uses healthy bone marrow cells from a compatible donor, often a sibling.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Autologous bone marrow transplant",
+    "pronunciation": "",
+    "definition": "Also known as an autologous stem cell transplant; the patient receives his or her own bone marrow cells, which have been harvested, cleansed, treated, and stored.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Peripheral blood stem cell transplant",
+    "pronunciation": "",
+    "definition": "Utilizes blood-forming stem cells from the bloodstream of the patient or donor.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "ACL reconstruction",
+    "pronunciation": "",
+    "definition": "A surgery to replace a torn anterior cruciate ligament (ACL) in the knee.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Arthroscopic surgery",
+    "pronunciation": "/ar-throh-SKOP-ick/",
+    "definition": "A minimally invasive procedure for the treatment of the interior of a joint.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Bone grafting",
+    "pronunciation": "",
+    "definition": "A surgical procedure using transplanted bone, often from a hip, leg, or rib, to repair and rebuild bones damaged by injury or disease.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Allograft",
+    "pronunciation": "",
+    "definition": "The bone or tissue comes from a donor or cadaver.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Autograft",
+    "pronunciation": "",
+    "definition": "The patient’s own bone or tissue is used.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Arthroplasty",
+    "pronunciation": "/AR-throh-plas-tee/",
+    "definition": "The surgical repair of a damaged joint; the term now usually refers to the resurfacing of the bones, or the surgical placement of an artificial joint.",
+    "breakdown_text": "arthr/o: joint ; -plasty: surgical repair"
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Implant",
+    "pronunciation": "",
+    "definition": "The joint replacement part, which is a prosthesis.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Total knee replacement",
+    "pronunciation": "",
+    "definition": "All of the parts of the knee are replaced; also known as a total knee arthroplasty; abbreviated TKR.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Partial knee replacement",
+    "pronunciation": "",
+    "definition": "A procedure in which only part of the knee is replaced; abbreviated PKR.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Total hip replacement",
+    "pronunciation": "",
+    "definition": "Also known as a total hip arthroplasty; performed to restore a damaged hip to full function; abbreviated THR.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Hip resurfacing arthroplasty",
+    "pronunciation": "",
+    "definition": "An alternative to removing the head of the femur; function is restored to the hip by placing a metal cap over the head of the femur.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Shoulder replacement surgery",
+    "pronunciation": "",
+    "definition": "Repairs injuries to the shoulder joint by replacing the top of the humerus with a metal ball, and the damaged portion of the socket with a plastic prosthesis.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Revision surgery",
+    "pronunciation": "",
+    "definition": "The replacement of a worn or failed implant.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Amputation",
+    "pronunciation": "",
+    "definition": "The surgical or accidental removal of a limb.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Phantom limb pain",
+    "pronunciation": "",
+    "definition": "A post amputation phenomenon in which there is a sensation of pain from a body part that is no longer there.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Percutaneous diskectomy",
+    "pronunciation": "/per-kyou-TAY-nee-us dis-KECK-toh-mee/",
+    "definition": "Performed to treat a herniated intervertebral disk that does not respond to physical therapy or other treatments; a thin tube is inserted through the skin of the back to remove the fragment of the disk compressing the nerve.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Percutaneous",
+    "pronunciation": "",
+    "definition": "Performed through the skin.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Spinal fusion",
+    "pronunciation": "",
+    "definition": "A technique to immobilize part of the spine by joining together (fusing) two or more vertebrae.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Decompressive craniectomy",
+    "pronunciation": "/kray-nee-ECK-toh-mee/",
+    "definition": "The surgical removal of a portion of the skull.",
+    "breakdown_text": "crani: skull ; -ectomy: surgical removal"
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Intracranial pressure",
+    "pronunciation": "",
+    "definition": "The amount of pressure inside the skull.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Craniotomy",
+    "pronunciation": "/kray-nee-OT-oh-mee/",
+    "definition": "A surgical incision or opening into the skull.",
+    "breakdown_text": "crani: skull ; -otomy: a surgical incision"
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Osteotomy",
+    "pronunciation": "/oss-tee-OT-oh-mee/",
+    "definition": "The surgical cutting and reshaping of a bone.",
+    "breakdown_text": "oste: bone ; -otomy: a surgical incision"
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Closed reduction",
+    "pronunciation": "",
+    "definition": "Also known as manipulation; the attempted non surgical realignment of the bone involved in a fracture or joint dislocation.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Open reduction",
+    "pronunciation": "",
+    "definition": "A surgical procedure required to realign the bone parts when a closed reduction is not practical.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Immobilization",
+    "pronunciation": "",
+    "definition": "Also known as stabilization; the act of holding, suturing, or fastening the bone in a fixed position with strapping or a cast.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Traction",
+    "pronunciation": "",
+    "definition": "A pulling force exerted on a limb in a distal direction in an effort to return the bone or joint to normal alignment.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "External fixation",
+    "pronunciation": "",
+    "definition": "A fracture treatment procedure in which pins are placed through the soft tissues and bone so that an external appliance can be used to hold the pieces of bone firmly in place during healing.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 3,
+    "system_group": "Skeletal System",
+    "term": "Open reduction internal fixation",
+    "pronunciation": "",
+    "definition": "Abbreviated ORIF; another name for internal fixation, a fracture treatment in which a plate or pins are placed directly into the bone to hold the broken pieces in place.",
+    "breakdown_text": ""
+  }
+]

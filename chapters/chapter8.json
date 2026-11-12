@@ -1,0 +1,3178 @@
+[
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "an/o",
+    "pronunciation": "",
+    "definition": "anus, ring",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "chol/e",
+    "pronunciation": "",
+    "definition": "bile, gall",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "cholecyst/o",
+    "pronunciation": "",
+    "definition": "gallbladder",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "col/o",
+    "pronunciation": "",
+    "definition": "colon, large intestine",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "colon/o",
+    "pronunciation": "",
+    "definition": "colon, large intestine",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "-emesis",
+    "pronunciation": "",
+    "definition": "vomiting",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "enter/o",
+    "pronunciation": "",
+    "definition": "small intestine",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "esophag/o",
+    "pronunciation": "",
+    "definition": "esophagus",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "gastr/o",
+    "pronunciation": "",
+    "definition": "stomach, belly",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "hepat/o",
+    "pronunciation": "",
+    "definition": "liver",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "-lithiasis",
+    "pronunciation": "",
+    "definition": "presence of stones",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "-pepsia",
+    "pronunciation": "",
+    "definition": "digest, digestion",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "-phagia",
+    "pronunciation": "",
+    "definition": "eating, swallowing",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "proct/o",
+    "pronunciation": "",
+    "definition": "anus and rectum",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "rect/o",
+    "pronunciation": "",
+    "definition": "rectum, straight",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "sigmoid/o",
+    "pronunciation": "",
+    "definition": "sigmoid colon",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "or/o",
+    "pronunciation": "",
+    "definition": "mouth",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "stomat/o",
+    "pronunciation": "",
+    "definition": "mouth, oral cavity",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "odont/i",
+    "pronunciation": "",
+    "definition": "teeth",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "pharyng/o",
+    "pronunciation": "",
+    "definition": "pharynx, throat",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "pancreat/o",
+    "pronunciation": "",
+    "definition": "pancreas",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "aer/o",
+    "pronunciation": "",
+    "definition": "air",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "cholangi/o",
+    "pronunciation": "",
+    "definition": "bile duct",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "duoden/o",
+    "pronunciation": "",
+    "definition": "duodenum",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "leuk/o",
+    "pronunciation": "",
+    "definition": "white",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "steat/o",
+    "pronunciation": "",
+    "definition": "fat",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "ven/o",
+    "pronunciation": "",
+    "definition": "vein",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "xer/o",
+    "pronunciation": "",
+    "definition": "dry",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "a-",
+    "pronunciation": "",
+    "definition": "without",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "an-",
+    "pronunciation": "",
+    "definition": "without",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "anti-",
+    "pronunciation": "",
+    "definition": "against",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "de-",
+    "pronunciation": "",
+    "definition": "removal",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "dia-",
+    "pronunciation": "",
+    "definition": "through",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "dys-",
+    "pronunciation": "",
+    "definition": "difficult, painful",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "endo-",
+    "pronunciation": "",
+    "definition": "within",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "hyper-",
+    "pronunciation": "",
+    "definition": "excessive",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "mal-",
+    "pronunciation": "",
+    "definition": "bad or poor",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "peri-",
+    "pronunciation": "",
+    "definition": "surrounding",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "pro-",
+    "pronunciation": "",
+    "definition": "on supporting",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "re-",
+    "pronunciation": "",
+    "definition": "back or again",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "-al",
+    "pronunciation": "",
+    "definition": "pertaining to",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "-cele",
+    "pronunciation": "",
+    "definition": "hernia",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "-eal",
+    "pronunciation": "",
+    "definition": "pertaining to",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "-ectomy",
+    "pronunciation": "",
+    "definition": "surgical removal",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "-ic",
+    "pronunciation": "",
+    "definition": "pertaining to",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "-ism",
+    "pronunciation": "",
+    "definition": "condition",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "-ist",
+    "pronunciation": "",
+    "definition": "specialist",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "-itis",
+    "pronunciation": "",
+    "definition": "inflammation",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "-megaly",
+    "pronunciation": "",
+    "definition": "enlargement",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "-occult",
+    "pronunciation": "",
+    "definition": "hidden",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "-ologist",
+    "pronunciation": "",
+    "definition": "specialist",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "-orexia",
+    "pronunciation": "",
+    "definition": "appetite",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "-osis",
+    "pronunciation": "",
+    "definition": "abnormal condition or disease",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "-ostomy",
+    "pronunciation": "",
+    "definition": "surgically creating an opening",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "-paresis",
+    "pronunciation": "",
+    "definition": "partial paralysis",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "-plakia",
+    "pronunciation": "",
+    "definition": "plaque",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "-plasty",
+    "pronunciation": "",
+    "definition": "surgical repair",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "-rrhea",
+    "pronunciation": "",
+    "definition": "flow or discharge",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "-scope",
+    "pronunciation": "",
+    "definition": "an instrument for visual examination",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "-scopy",
+    "pronunciation": "",
+    "definition": "visual examination",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "-tion",
+    "pronunciation": "",
+    "definition": "the process of",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "-um",
+    "pronunciation": "",
+    "definition": "noun ending",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "-us",
+    "pronunciation": "",
+    "definition": "noun ending",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "-graphy",
+    "pronunciation": "",
+    "definition": "the process of recording",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "-ia",
+    "pronunciation": "",
+    "definition": "pertaining to",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "biot",
+    "pronunciation": "",
+    "definition": "life",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "chole",
+    "pronunciation": "",
+    "definition": "bile or gall",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "cholang",
+    "pronunciation": "",
+    "definition": "bile duct",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "cirrh",
+    "pronunciation": "",
+    "definition": "yellow or orange",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "diverticul",
+    "pronunciation": "",
+    "definition": "diverticulum",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "duoden",
+    "pronunciation": "",
+    "definition": "first part of the small intestine",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "emet",
+    "pronunciation": "",
+    "definition": "vomit",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "gingiv",
+    "pronunciation": "",
+    "definition": "gums, gingival tissue",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "halit",
+    "pronunciation": "",
+    "definition": "breath",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "hemat",
+    "pronunciation": "",
+    "definition": "blood",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "hem",
+    "pronunciation": "",
+    "definition": "blood",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "hemorrhoid",
+    "pronunciation": "",
+    "definition": "hemorrhoid",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "hiat",
+    "pronunciation": "",
+    "definition": "opening",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "hydra",
+    "pronunciation": "",
+    "definition": "water",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "ile",
+    "pronunciation": "",
+    "definition": "the ileum",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "inguin",
+    "pronunciation": "",
+    "definition": "groin",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "intestin",
+    "pronunciation": "",
+    "definition": "intestine",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "metabol",
+    "pronunciation": "",
+    "definition": "change",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "odonti",
+    "pronunciation": "",
+    "definition": "the teeth",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "orth",
+    "pronunciation": "",
+    "definition": "straight or normal",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "palat/o",
+    "pronunciation": "",
+    "definition": "palate",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "pept",
+    "pronunciation": "",
+    "definition": "digestion",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "pyr",
+    "pronunciation": "",
+    "definition": "fever or fire",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "stom",
+    "pronunciation": "",
+    "definition": "mouth or oral cavity",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "aerophagia",
+    "pronunciation": "ayr-oh-FAY-jee-ah",
+    "definition": "The excessive swallowing of air while eating or drinking and is a common cause of gas in the stomach.",
+    "breakdown_text": "aer/o: air ; -phagia: swallowing"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "anastomosis",
+    "pronunciation": "ah-nas-toh-MOH-sis",
+    "definition": "A surgical connection between two hollow, or tubular, structures (plural, anastomoses).",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "antiemetic",
+    "pronunciation": "an-tih-ee-MET-ick",
+    "definition": "A medication that is administered to prevent or relieve nausea and vomiting.",
+    "breakdown_text": "anti-: against ; emet: vomit ; -ic: pertaining to"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "ascites",
+    "pronunciation": "ah-SIGH-teez",
+    "definition": "An abnormal accumulation of serous fluid in the peritoneal cavity. Usually the result of severe liver disease creating pressure on the liver's blood vessels. As used here, serous means a substance having a watery consistency.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "bariatrics",
+    "pronunciation": "bayr-ee-AT-ricks",
+    "definition": "The branch of medicine concerned with the prevention and management of obesity and associated diseases.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "borborygmus",
+    "pronunciation": "bor-boh-RIG-mus",
+    "definition": "The rumbling noise caused by the movement of gas in the intestine.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "cachexia",
+    "pronunciation": "kah-KEKS-eeh-ah",
+    "definition": "A condition of physical wasting away due to the loss of weight and muscle mass that occurs in patients with diseases such as advanced cancer or AIDS. Although these patients might be eating enough food, their bodies are unable to absorb enough nutrients.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "canker sores",
+    "pronunciation": "KANE-ker",
+    "definition": "Also known as aphthous ulcers; gray-white pits with a red border in the soft tissues lining the mouth. The exact cause is unknown; appearance is associated with stress, certain foods, or fever.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "celiac disease",
+    "pronunciation": "SEE-lee-ak",
+    "definition": "An autoimmune disorder characterized by a severe reaction to ingesting gluten. Damages the villi of the small intestine and can cause malabsorption.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "cheilitis",
+    "pronunciation": "kye-LITE-is",
+    "definition": "Inflammation of the lips characterized by crack-like sores at the corners of the mouth; also known as cheilosis.",
+    "breakdown_text": "cheil: lips ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "cholangiography",
+    "pronunciation": "koh-LAN-jee-og-rah-fee",
+    "definition": "A radiographic examination of the bile ducts with the use of a contrast medium. Used to identify obstructions in the liver or bile ducts that slow or block the flow of bile from the liver. The resulting record is a cholangiogram.",
+    "breakdown_text": "cholangi/o: bile duct ; -graphy: the process of recording"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "cholangitis",
+    "pronunciation": "koh-lan-JIGH-tis",
+    "definition": "An acute inflammation of the bile duct characterized by pain in the right upper quadrant of the abdomen, fever, and jaundice. The most common cause is a bacterial infection.",
+    "breakdown_text": "cholang: bile duct ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "cholecystectomy",
+    "pronunciation": "koh-luh-sis-TECK-toh-mee",
+    "definition": "The surgical removal of the gallbladder, which is not necessary for survival.",
+    "breakdown_text": "cholecyst: gallbladder ; -ectomy: surgical removal"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "cholecystitis",
+    "pronunciation": "koh-luh-sis-TYE-tis",
+    "definition": "Inflammation of the gallbladder, usually associated with gallstones blocking the flow of bile.",
+    "breakdown_text": "cholecyst: gallbladder ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "cholelithiasis",
+    "pronunciation": "koh-luh-lih-THIGH-ah-sis",
+    "definition": "The presence of gallstones in the gallbladder or bile ducts.",
+    "breakdown_text": "chole: bile or gall ; -lithiasis: presence of stones"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "cirrhosis",
+    "pronunciation": "sih-ROH-sis",
+    "definition": "A chronic degenerative disease of the liver characterized by scarring. Often caused by excessive alcohol abuse or by viral hepatitis B or C.",
+    "breakdown_text": "cirrh: yellow or orange ; -osis: abnormal condition or disease"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "colonoscopy",
+    "pronunciation": "koh-lun-OSS-koh-pee",
+    "definition": "The direct visual examination of the inner surface of the entire colon from the rectum to the cecum using a colonoscope.",
+    "breakdown_text": "colon/o: colon ; -scopy: visual examination"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "colostomy",
+    "pronunciation": "koh-LAHS-toh-mee",
+    "definition": "The surgical creation of an artificial excretory opening between the colon and the body surface. Can be permanent or temporary to divert feces from an area that needs to heal.",
+    "breakdown_text": "col: colon ; -ostomy: surgically creating an opening"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "Crohn's disease",
+    "pronunciation": "KROHNZ",
+    "definition": "A chronic autoimmune disorder that can occur anywhere in the digestive tract; however, it is most often found in the ileum and in the colon. Generally penetrates every layer of tissue in the affected area. Abbreviated CD.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "dental prophylaxis",
+    "pronunciation": "proh-fih-LACK-sis",
+    "definition": "The professional examining, cleaning, and polishing of the gums and teeth to remove plaque and tartar. Often includes x-rays to look for cavities. Prophylaxis refers to disease prevention.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "diverticulitis",
+    "pronunciation": "dye-ver-tick-you-LYE-tis",
+    "definition": "The inflammation or infection of one or more diverticula in the wall of the colon. Sometimes develops as a result of diverticulosis. Symptoms can include sudden abdominal pain, cramping, and nausea.",
+    "breakdown_text": "diverticul: diverticulum ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "diverticulosis",
+    "pronunciation": "dye-ver-tick-you-LOH-sis",
+    "definition": "The chronic presence of an abnormal number of diverticula, or sacs, formed in weak spots of the colon wall. Often has no symptoms and is more common in people over the age of 50.",
+    "breakdown_text": "diverticul: diverticulum ; -osis: abnormal condition or disease"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "dyspepsia",
+    "pronunciation": "dis-PEP-see-ah",
+    "definition": "Also known as indigestion; pain or discomfort during the digestion process.",
+    "breakdown_text": "dys-: painful ; -pepsia: digestion"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "dysphagia",
+    "pronunciation": "dis-FAY-jee-ah",
+    "definition": "Difficulty in swallowing.",
+    "breakdown_text": "dys-: difficult ; -phagia: swallowing"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "endoscopy",
+    "pronunciation": "en-DOS-koh-pee",
+    "definition": "A visual examination of internal structures.",
+    "breakdown_text": "endo-: within ; -scopy: visual examination"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "enema",
+    "pronunciation": "EH-neh-ma",
+    "definition": "The placement of a solution into the rectum and colon to empty the lower intestine through bowel activity. Sometimes part of the preparation for an endoscopic examination; also used to treat severe constipation and as a means of administering medication.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "enteritis",
+    "pronunciation": "en-ter-EYE-tis",
+    "definition": "An inflammation of the small intestine caused by ingesting substances contaminated with viral or bacterial pathogens which causes diarrhea.",
+    "breakdown_text": "enter: small intestine ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "eructation",
+    "pronunciation": "eh-ruk-TAY-shun",
+    "definition": "The act of belching or raising gas orally from the stomach.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "esophageal varices",
+    "pronunciation": "eh-sof-ah-JEE-al VAYR-ih-seez",
+    "definition": "Enlarged and swollen veins at the lower end of the esophagus (singular, varix). Associated with serious liver diseases and can cause severe bleeding if one of these veins ruptures.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "esophagogastroduodenoscopy",
+    "pronunciation": "eh-sof-ah-goh-gas-troh-dew-oh-deh-NOS-koh-pee",
+    "definition": "An endoscopic procedure that allows direct visualization of the upper GI tract, including the esophagus, stomach, and upper duodenum. Abbreviated EGD.",
+    "breakdown_text": "esophag/o: esophagus ; gastr/o: stomach ; duoden/o: duodenum ; -scopy: visual examination"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "gastroduodenostomy",
+    "pronunciation": "gas-troh-dew-oh-deh-NOS-toh-mee",
+    "definition": "The establishment of an anastomosis between the upper portion of the stomach and the duodenum. Performed to treat stomach cancer or to remove a malfunctioning pyloric valve.",
+    "breakdown_text": "gastr/o: stomach ; duoden: first part of the small intestine ; -ostomy: surgically creating an opening"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "gastroesophageal reflux disease",
+    "pronunciation": "gas-troh-eh-sof-ah-JEE-al REE-flucks",
+    "definition": "The upward flow of acid from the stomach into the esophagus. Also known as GERD. Reflux means a backward or return flow. Stomach acid irritates and damages the delicate lining of the esophagus.",
+    "breakdown_text": "gastr/o: stomach ; esophag: esophagus ; -eal: pertaining to"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "gastroparesis",
+    "pronunciation": "gas-troh-pah-REE-sis",
+    "definition": "A condition in which gastric motility slows down, causing delayed gastric emptying.",
+    "breakdown_text": "gastr/o: stomach ; -paresis: partial paralysis"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "gastrostomy tube",
+    "pronunciation": "gas-TROS-toh-mee",
+    "definition": "A surgically placed feeding tube from the exterior of the body on the abdomen, directly into the stomach. Also known as a G-tube; used long term to provide nutrition for patients who cannot swallow or take sufficient nutrients by mouth.",
+    "breakdown_text": "gastr: stomach ; -ostomy: surgically creating an opening"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "hematemesis",
+    "pronunciation": "hee-mah-TEM-eh-sis",
+    "definition": "The vomiting of coagulated blood. The substance that is vomited often resembles coffee grounds.",
+    "breakdown_text": "hemat: blood ; -emesis: vomiting"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "Hemoccult test",
+    "pronunciation": "HEE-moh-kult",
+    "definition": "Also known as the fecal occult blood test; a laboratory test for hidden blood in stool. The test kit is used to obtain the specimens at home, and the results are then evaluated in a laboratory.",
+    "breakdown_text": "hem: blood ; -occult: hidden"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "hepatitis",
+    "pronunciation": "hep-ah-TYE-tis",
+    "definition": "An inflammation of the liver usually caused by a viral infection. Viral hepatitis is the leading cause of liver cancer and the most common reason for liver transplants.",
+    "breakdown_text": "hepat: liver ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "hiatal hernia",
+    "pronunciation": "high-AY-tal HER-nee-ah",
+    "definition": "An anatomical abnormality in which a portion of the stomach protrudes upward into the chest, through an opening in the diaphragm. Can cause GERD and pyrosis.",
+    "breakdown_text": "hiat: opening ; -al: pertaining to"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "hyperemesis",
+    "pronunciation": "high-per-EM-eh-sis",
+    "definition": "Extreme, persistent vomiting that can cause dehydration. During the early stages of pregnancy, this is known as morning sickness.",
+    "breakdown_text": "hyper-: excessive ; -emesis: vomiting"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "ileus",
+    "pronunciation": "ILL-ee-us",
+    "definition": "The partial or complete blockage of the small or large intestine; also known as paralytic ileus, caused by the stopping of the normal peristalsis of this area of the intestine. Symptoms can include severe pain, cramping, abdominal distention, vomiting, and the inability to pass gas or stools.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "inguinal hernia",
+    "pronunciation": "ING-gwih-nal HER-nee-ah",
+    "definition": "The protrusion of a small loop of bowel through a weak place in the lower abdominal wall or groin. Can be caused by obesity, pregnancy, heavy lifting, or straining to pass a stool.",
+    "breakdown_text": "inguin: groin ; -al: pertaining to"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "jaundice",
+    "pronunciation": "JAWN-dis",
+    "definition": "A yellow discoloration of the skin, mucous membranes, and eyes. Caused by greater-than-normal amounts of bilirubin in the blood.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "leukoplakia",
+    "pronunciation": "loo-koh-PLAY-kee-ah",
+    "definition": "An abnormal white, usually benign lesion (sore) that develops on the tongue or the inside of the cheek. These lesions develop in response to chronic irritation in the mouth such as smoking, chewing tobacco, or constant rubbing against a broken tooth.",
+    "breakdown_text": "leuk/o: white ; -plakia: plaque"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "malocclusion",
+    "pronunciation": "mal-oh-KLOO-zhun",
+    "definition": "Any deviation from the normal positioning of the upper teeth against the lower teeth. In an overbite there is an excessive overlap of the upper and lower teeth, and in an underbite the lower teeth are in front of the upper teeth.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "melena",
+    "pronunciation": "meh-LEE-nah",
+    "definition": "The passage of black, tarry, foul-smelling stools. Caused by the presence of digested blood and often indicates bleeding in the upper part of the gastrointestinal tract.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "nasogastric intubation",
+    "pronunciation": "nay-zoh-GAS-trick in-too-BAY-shun",
+    "definition": "The placement of a nasogastric feeding tube (NG tube) through the nose and into the stomach. This temporary tube provides nutrition for patients who cannot take sufficient nutrients by mouth.",
+    "breakdown_text": "nas/o: nose ; gastr: stomach ; -ic: pertaining to"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "obesity",
+    "pronunciation": "oh-BEE-sih-tee",
+    "definition": "An excessive accumulation of fat in the body. Weight classification based on BMI that is higher than a healthy weight for someone based on their height, gender, and age.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "palatoplasty",
+    "pronunciation": "PAL-ah-toh-plas-tee",
+    "definition": "The surgical repair of a cleft palate, also used to refer to the repair of a cleft lip.",
+    "breakdown_text": "palat/o: palate ; -plasty: surgical repair"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "peptic ulcer disease",
+    "pronunciation": "UL-ser",
+    "definition": "A disease characterized by sores that affect the mucous membranes of the digestive system. Abbreviated PUD. Caused by the bacterium Helicobacter pylori or by medications, such as aspirin, that irritate the mucous membranes.",
+    "breakdown_text": "pept: digestion ; -ic: pertaining to"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "peristalsis",
+    "pronunciation": "pehr-ih-STAL-sis",
+    "definition": "A series of wave-like contractions of the smooth muscles in a single direction that moves the food forward into the digestive system.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "polyp",
+    "pronunciation": "POL-up",
+    "definition": "A mushroom-like growth from the surface of a mucous membrane. Not all polyps are malignant.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "proctologist",
+    "pronunciation": "prock-TOL-oh-jist",
+    "definition": "A physician who specializes in disorders of the colon, rectum, and anus.",
+    "breakdown_text": "proct: anus and rectum ; -ologist: specialist"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "regurgitation",
+    "pronunciation": "ree-gur-jih-TAY-shun",
+    "definition": "The return of swallowed food into the mouth.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "salmonellosis",
+    "pronunciation": "sal-moh-nel-LOH-sis",
+    "definition": "Also referred to as salmonella; an infectious disease transmitted by feces, either through direct contact with animals, or by eating contaminated raw or undercooked meat, poultry, seafood, and eggs or unpasteurized milk products. One of the most common foodborne infections in the United States.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "sigmoidoscopy",
+    "pronunciation": "sig-moi-DOS-koh-pee",
+    "definition": "The endoscopic examination of the interior of the rectum, sigmoid colon, and possibly a portion of the descending colon.",
+    "breakdown_text": "sigmoid/o: sigmoid colon ; -scopy: the visual examination"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "stomatitis",
+    "pronunciation": "stoh-mah-TYE-tis",
+    "definition": "An inflammation of the mucosa of the mouth.",
+    "breakdown_text": "stomat: mouth or oral cavity ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "trismus",
+    "pronunciation": "TRIZ-mus",
+    "definition": "Also known as lockjaw; any restriction to the opening of the mouth caused by trauma, surgery, or radiation associated with the treatment of oral cancer. Causes difficulty in speaking and affects nutrition due to impaired ability to chew and swallow.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "ulcerative colitis",
+    "pronunciation": "UL-ser-ay-tiv koh-LYE-tis",
+    "definition": "A chronic condition of unknown cause in which repeated episodes of inflammation in the rectum and large intestine cause ulcers (lesions in the mucous membrane) and irritation. Abbreviated UC. Affects only the innermost lining and not the deep tissues of the colon.",
+    "breakdown_text": "col: colon ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "volvulus",
+    "pronunciation": "VOL-view-lus",
+    "definition": "The twisting of the intestine on itself, causing an obstruction. A Latin word meaning rolled up or twisted. Can cause necrosis of the affected segment of the bowel.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "xerostomia",
+    "pronunciation": "zeer-oh-STOH-mee-ah",
+    "definition": "Also known as dry mouth; the lack of adequate saliva due to diminished secretions by the salivary glands. Can be due to medications or radiation of the salivary glands, and can cause discomfort, difficulty in swallowing, changes in the taste of food, and dental decay.",
+    "breakdown_text": "xer/o: dry ; stom: mouth or oral cavity ; -ia: pertaining to"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "gastrointestinal tract",
+    "pronunciation": "gas-troh-in-TESS-tih-nal",
+    "definition": "Also known as the GI tract; the primary part of the digestive system, which works in cooperation with accessory organs.",
+    "breakdown_text": "gastr/o: stomach ; intestin: intestine ; -al: pertaining to"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "upper GI tract",
+    "pronunciation": "",
+    "definition": "Consists of the mouth, pharynx (throat), esophagus, and stomach. Transports food from entry into the body until digestion begins in the stomach.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "lower GI tract",
+    "pronunciation": "",
+    "definition": "Sometimes referred to as the bowels; made up of the small and large intestines plus the rectum and anus. Digestion is completed and waste material is prepared for expulsion from the body.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "accessory organs",
+    "pronunciation": "",
+    "definition": "The organs of the digestive system that play a key role in the digestive process but are not part of the gastrointestinal tract: the liver, gallbladder, and pancreas.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "oral cavity",
+    "pronunciation": "",
+    "definition": "Also known as the mouth. Its major structures are the lips, hard and soft palates, salivary glands, tongue, teeth, and periodontium.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "lips",
+    "pronunciation": "",
+    "definition": "Also known as the labia (singular, labium); surround the opening to the oral cavity. Hold food in the mouth with the tongue and cheeks during eating and have important roles in breathing, speaking, and the expression of emotions.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "palate",
+    "pronunciation": "PAL-at",
+    "definition": "The roof of the mouth; consists of the hard palate, the soft palate, and the uvula.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "hard palate",
+    "pronunciation": "",
+    "definition": "The anterior portion of the palate, covered with specialized mucous membrane.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "soft palate",
+    "pronunciation": "",
+    "definition": "The flexible posterior portion of the palate. During swallowing, it closes off the nasal passage to prevent food and liquid from moving upward into the nasal cavity.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "uvula",
+    "pronunciation": "YOU-view-lah",
+    "definition": "The third part of the palate, hanging from the free edge of the soft palate. During swallowing, it moves upward with the soft palate. Also plays an important role in snoring and in the formation of some speech sounds.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "tongue",
+    "pronunciation": "",
+    "definition": "A very strong, flexible, and muscular structure that is important for chewing, speaking, and swallowing. The posterior portion is attached and the anterior end moves freely.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "dorsum",
+    "pronunciation": "",
+    "definition": "The upper surface of the tongue, which has a tough protective covering.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "papillae",
+    "pronunciation": "pah-PILL-ee",
+    "definition": "Small bumps on the upper surface of the tongue (singular, papilla) that contain taste buds.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "taste buds",
+    "pronunciation": "",
+    "definition": "The sensory receptors for the sense of taste, contained in the papillae.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "sublingual",
+    "pronunciation": "",
+    "definition": "Under the tongue. The sublingual surface and tissues under the tongue are covered with delicate highly vascular tissues, which makes them suitable for administering certain medications sublingually.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "highly vascular",
+    "pronunciation": "",
+    "definition": "Containing many blood vessels.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "lingual frenum",
+    "pronunciation": "",
+    "definition": "A band of tissue that attaches the tongue to the floor of the mouth and limits the motion of the tongue.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "periodontium",
+    "pronunciation": "pehr-ee-oh-DON-shee-um",
+    "definition": "The structures that surround, support, and are attached to the teeth. Consists of the bone of the dental arches and the soft tissues that surround and support the teeth.",
+    "breakdown_text": "peri-: surrounding ; odonti: the teeth ; -um: noun ending"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "gingiva",
+    "pronunciation": "JIN-jih-vah",
+    "definition": "Also known as masticatory mucosa or the gums (plural gingivae); the specialized mucous membrane that covers the bone of the dental arches and surrounds the neck of the teeth.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "sulcus",
+    "pronunciation": "",
+    "definition": "An area of space between a tooth and the surrounding gingiva (plural sulci). A buildup of food debris and bacteria in the sulcus can lead to infection. Sulci is also the term for fissures in the cerebral cortex of the brain.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "dental arches",
+    "pronunciation": "",
+    "definition": "The bony structures of the oral cavity that hold the teeth firmly in position to facilitate chewing and speaking.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "maxillary arch",
+    "pronunciation": "",
+    "definition": "Commonly known as the upper jaw; consists of bones of the lower surface of the skull. This arch does not move.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "mandibular arch",
+    "pronunciation": "",
+    "definition": "Commonly known as the lower jaw; a separate bone and the only movable component of the joint.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "temporomandibular joint",
+    "pronunciation": "tem-poh-roh-man-DIB-you-lar",
+    "definition": "Commonly known as the TMJ; formed at the back of the mouth where the maxillary and mandibular arches come together.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "dentition",
+    "pronunciation": "den-TISH-un",
+    "definition": "The natural teeth arranged in the upper and lower jaws. Human dentition consists of four types of teeth: incisors, canines, premolars, and molars.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "incisors",
+    "pronunciation": "",
+    "definition": "Teeth used for biting and tearing.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "canines",
+    "pronunciation": "",
+    "definition": "Also known as cuspids; teeth used for biting and tearing.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "premolars",
+    "pronunciation": "",
+    "definition": "Also known as bicuspids; teeth used for chewing and grinding.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "molars",
+    "pronunciation": "",
+    "definition": "Teeth used for chewing and grinding. The third molars, which are the last to erupt, are also known as wisdom teeth.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "primary dentition",
+    "pronunciation": "",
+    "definition": "Also known as the baby teeth. These 20 teeth erupt during early childhood, are normally lost in late childhood, and are replaced by the permanent teeth. Consists of eight incisors, four canines, and eight molars but no premolars.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "permanent dentition",
+    "pronunciation": "",
+    "definition": "Consists of 32 teeth designed to last a lifetime. Of these teeth, 20 replace primary teeth and 12 erupt at the back of the mouth. Includes 8 incisors, 4 canines, 8 premolars, and 12 molars.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "wisdom teeth",
+    "pronunciation": "",
+    "definition": "The third molars, which are the last to erupt.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "occlusion",
+    "pronunciation": "",
+    "definition": "As used in dentistry, any contact between the chewing surfaces of the upper and lower teeth.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "crown",
+    "pronunciation": "",
+    "definition": "The portion of a tooth that is visible in the mouth. It is covered with enamel. Also a metal or porcelain alloy cap shaped like a tooth cemented over a damaged tooth structure.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "enamel",
+    "pronunciation": "",
+    "definition": "The covering of the crown of the tooth; the hardest substance in the body.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "roots",
+    "pronunciation": "",
+    "definition": "The part of the tooth that holds it securely in place within the dental arch. Protected by cementum.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "cementum",
+    "pronunciation": "",
+    "definition": "The substance that protects the roots of the tooth; hard, but not as strong as enamel.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "cervix",
+    "pronunciation": "",
+    "definition": "Also known as the neck of the tooth; where the crown and root meet. The term is also used in female anatomy.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "dentin",
+    "pronunciation": "",
+    "definition": "The substance that makes up the bulk of the tooth. The portion above the gum line is covered with enamel and the root area is covered with cementum.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "pulp cavity",
+    "pronunciation": "",
+    "definition": "The area within the crown and roots of the tooth that is surrounded by the dentin to protect the delicate pulp of the tooth.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "root canals",
+    "pronunciation": "",
+    "definition": "The space in the roots where the pulp continues.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "pulp",
+    "pronunciation": "",
+    "definition": "The part of the tooth consisting of a rich supply of blood vessels and nerves that provide nutrients and innervation to the tooth.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "saliva",
+    "pronunciation": "",
+    "definition": "A colorless liquid that maintains the moisture in the mouth, helps maintain the health of the teeth, and begins the digestive process by lubricating food during chewing and swallowing. Contains the digestive enzyme amylase and is the first step in chemical digestion.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "salivary glands",
+    "pronunciation": "SAL-ih-ver-ee",
+    "definition": "Three pairs of glands that secrete saliva, which is carried by ducts into the mouth.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "parotid glands",
+    "pronunciation": "",
+    "definition": "Salivary glands located on the face, slightly in front of each ear. Their ducts are on the inside of the cheek near the upper molars.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "sublingual glands",
+    "pronunciation": "",
+    "definition": "Salivary glands whose glands and ducts are located on the floor of the mouth under the tongue.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "submandibular glands",
+    "pronunciation": "",
+    "definition": "Salivary glands whose glands and ducts are located on the floor of the mouth near the mandible.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "pharynx",
+    "pronunciation": "FAH-rinks",
+    "definition": "The common passageway for both respiration and digestion. Plays an important role in deglutition.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "deglutition",
+    "pronunciation": "",
+    "definition": "Commonly known as swallowing.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "epiglottis",
+    "pronunciation": "ep-ih-GLOT-is",
+    "definition": "A lid-like structure that closes off the entrance to the trachea (windpipe) to prevent food and liquids from moving from the pharynx during swallowing.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "esophagus",
+    "pronunciation": "eh-SOF-ah-gus",
+    "definition": "The muscular tube through which ingested food passes from the pharynx to the stomach.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "lower esophageal sphincter",
+    "pronunciation": "",
+    "definition": "Also known as the cardiac sphincter; a muscular ring between the esophagus and stomach. It relaxes during swallowing to allow food to enter the stomach and closes to prevent the stomach contents from regurgitating into the esophagus.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "regurgitating",
+    "pronunciation": "",
+    "definition": "Flowing backward.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "stomach",
+    "pronunciation": "",
+    "definition": "A sac-like organ composed of the fundus (upper, rounded part), body (main portion), and antrum (lower part).",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "rugae",
+    "pronunciation": "ROO-gay",
+    "definition": "The folds in the mucosa lining the stomach. These folds allow the stomach to increase and decrease in size. Glands located within these folds produce gastric juices.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "gastric juices",
+    "pronunciation": "",
+    "definition": "Made up of enzymes and hydrochloric acid, they aid in the beginning of food digestion.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "pyloric sphincter",
+    "pronunciation": "pye-LOR-ick",
+    "definition": "The ring-like muscle at the base of the stomach that controls the flow of partially digested food from the stomach to the duodenum of the small intestine.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "pylorus",
+    "pronunciation": "pye-LOR-us",
+    "definition": "The narrow passage that connects the stomach with the small intestine.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "small intestine",
+    "pronunciation": "",
+    "definition": "A coiled organ up to 20 feet in length that extends from the pyloric sphincter to the first part of the large intestine; consists of three sections where food is digested and the nutrients are absorbed into the bloodstream.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "duodenum",
+    "pronunciation": "dew-oh-DEE-num",
+    "definition": "The first portion of the small intestine, extending from the pylorus of the stomach to the jejunum.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "jejunum",
+    "pronunciation": "jeh-JOO-num",
+    "definition": "The middle portion of the small intestine, extending from the duodenum to the ileum.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "ileum",
+    "pronunciation": "ILL-ee-um",
+    "definition": "The last and longest portion of the small intestine, extending from the jejunum to the cecum of the large intestine.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "large intestine",
+    "pronunciation": "",
+    "definition": "Extends from the end of the small intestine to the anus. About twice as wide as the small intestine but only one-fourth as long. The major parts are the cecum, colon, rectum, and anus.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "cecum",
+    "pronunciation": "SEE-kum",
+    "definition": "A pouch that lies on the right side of the abdomen. Extends from the end of the ileum to the beginning of the colon.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "ileocecal sphincter",
+    "pronunciation": "ill-ee-oh-SEE-kull",
+    "definition": "The ring-like muscle that controls the flow from the ileum of the small intestine into the cecum of the large intestine.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "vermiform appendix",
+    "pronunciation": "",
+    "definition": "Commonly called the appendix; hangs from the lower portion of the cecum. Consists of lymphoid tissue. Vermiform refers to a worm-like shape.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "colon",
+    "pronunciation": "",
+    "definition": "The longest portion of the large intestine, subdivided into four parts: ascending, transverse, descending, and sigmoid.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "ascending colon",
+    "pronunciation": "",
+    "definition": "The part of the colon that travels upward from the cecum to the undersurface of the liver. Ascending means upward.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "transverse colon",
+    "pronunciation": "",
+    "definition": "The part of the colon that passes horizontally across the abdominal cavity from right to left toward the spleen. Transverse means across.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "descending colon",
+    "pronunciation": "",
+    "definition": "The part of the colon that travels down the left side of the abdominal cavity to the sigmoid colon. Descending means downward.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "sigmoid colon",
+    "pronunciation": "SIG-moid",
+    "definition": "An S-shaped structure that continues from the descending colon above and joins the rectum below. Sigmoid means curved like the letter S.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "rectum",
+    "pronunciation": "",
+    "definition": "The widest division of the large intestine. Makes up the last 4 inches of the large intestine and ends at the anus.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "anus",
+    "pronunciation": "",
+    "definition": "The lower opening of the digestive tract. The flow of waste through the anus is controlled by the internal anal sphincter and the external anal sphincter.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "anorectal",
+    "pronunciation": "ah-noh-RECK-tal",
+    "definition": "Refers to the anus and rectum as a single unit.",
+    "breakdown_text": "an/o: anus ; rect: rectum ; -al: pertaining to"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "liver",
+    "pronunciation": "",
+    "definition": "The largest organ in the body. Has several important functions related to removing toxins from the blood and turning food into the fuel and nutrients the body needs.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "hepatic",
+    "pronunciation": "",
+    "definition": "Pertaining to the liver.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "glucose",
+    "pronunciation": "",
+    "definition": "Commonly known as blood sugar. The liver removes excess glucose from the bloodstream and stores it as glycogen.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "glycogen",
+    "pronunciation": "",
+    "definition": "A form of glucose that is stored in the liver and muscles. When the blood sugar level is low, the liver converts glycogen back into glucose and releases it for use by the body.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "bile",
+    "pronunciation": "",
+    "definition": "A digestive juice secreted by the liver that is necessary for the digestion of fat. Travels from the liver to the gallbladder, where it is concentrated and stored.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "bilirubin",
+    "pronunciation": "bill-ih-ROO-bin",
+    "definition": "A pigment formed in the liver by the breakdown of hemoglobin and excreted in bile, giving it a yellow to green color. Excessive amounts can lead to jaundice and other diseases.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "biliary tree",
+    "pronunciation": "BILL-ee-air-ee",
+    "definition": "The channels through which bile is transported from the liver to the small intestine. Biliary means pertaining to bile.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "common hepatic duct",
+    "pronunciation": "",
+    "definition": "The trunk of the biliary tree, just outside the liver, through which bile travels from the liver to the gallbladder.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "cystic duct",
+    "pronunciation": "",
+    "definition": "The narrow duct through which bile enters and exits the gallbladder. It rejoins the common hepatic duct to form the common bile duct.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "common bile duct",
+    "pronunciation": "",
+    "definition": "Formed by the cystic duct rejoining the common hepatic duct; it joins the pancreatic duct, and together they enter the duodenum of the small intestine.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "gallbladder",
+    "pronunciation": "",
+    "definition": "A pear-shaped organ about the size of an egg located under the liver. Stores and concentrates bile for later use; contracts to force bile out through the biliary tree when needed.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "cholecystic",
+    "pronunciation": "koh-luh-SIS-tick",
+    "definition": "Pertaining to the gallbladder.",
+    "breakdown_text": "cholecyst: gallbladder ; -ic: pertaining to"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "pancreas",
+    "pronunciation": "PAN-kree-as",
+    "definition": "A soft, 6-inch-long, oblong gland located behind the stomach with important roles in both the digestive and endocrine systems.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "pancreatic juices",
+    "pronunciation": "",
+    "definition": "Secretions of the pancreas that aid in digestion and contain digestive enzymes and sodium bicarbonate to help neutralize stomach acids. Pancreatic means pertaining to the pancreas.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "pancreatic duct",
+    "pronunciation": "",
+    "definition": "The duct through which pancreatic juices leave the pancreas; it joins the common bile duct just before the entrance into the duodenum.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "digestion",
+    "pronunciation": "",
+    "definition": "The process by which complex foods are broken down into nutrients in a form the body can use.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "digestive enzymes",
+    "pronunciation": "",
+    "definition": "Substances responsible for the chemical changes that break foods down into simpler forms of nutrients for use by the body.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "nutrient",
+    "pronunciation": "",
+    "definition": "A substance, usually from food, that is necessary for the body to function.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "macronutrients",
+    "pronunciation": "",
+    "definition": "The primary nutrients, which provide the body with calories: carbohydrates, fats, and proteins.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "calorie",
+    "pronunciation": "",
+    "definition": "A unit of energy.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "micronutrients",
+    "pronunciation": "",
+    "definition": "Vitamins and minerals, which are essential and required only in small amounts.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "metabolism",
+    "pronunciation": "meh-TAB-oh-lizm",
+    "definition": "All of the processes involved in the body's use of nutrients. Consists of two parts: anabolism and catabolism.",
+    "breakdown_text": "metabol: change ; -ism: condition"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "anabolism",
+    "pronunciation": "an-NAB-oh-lizm",
+    "definition": "The building up of body cells or substances from nutrients. Anabolism is the opposite of catabolism.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "catabolism",
+    "pronunciation": "kah-TAB-oh-lizm",
+    "definition": "The breaking down of body cells or substances, releasing energy and carbon dioxide. Catabolism is the opposite of anabolism.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "absorption",
+    "pronunciation": "ab-SORP-shun",
+    "definition": "The process by which completely digested nutrients are transported to the cells throughout the body.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "villi",
+    "pronunciation": "VILL-eye",
+    "definition": "Finger-like projections covering the mucosa that lines the small intestine (singular, villus). Each villus contains blood vessels and lacteals.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "lacteals",
+    "pronunciation": "",
+    "definition": "Specialized structures of the lymphatic system in each villus that absorb fats and fat-soluble vitamins that cannot be transported directly by the bloodstream and transport them via lymphatic vessels.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "mastication",
+    "pronunciation": "mass-tih-KAY-shun",
+    "definition": "Also known as chewing; breaks food down into smaller pieces, mixes it with saliva, and prepares it to be swallowed.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "bolus",
+    "pronunciation": "BOH-lus",
+    "definition": "A mass of food that has been chewed and is ready to be swallowed. Also used in relation to the administration of tube feeding or medication.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "chyme",
+    "pronunciation": "KYM",
+    "definition": "The semifluid mass of partly digested food that passes out of the stomach, through the pyloric sphincter, and into the small intestine.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "emulsification",
+    "pronunciation": "",
+    "definition": "The action in the duodenum in which bile breaks apart large fat globules so that enzymes in the pancreatic juices can digest the fats. Must be completed before the nutrients can be absorbed into the body.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "feces",
+    "pronunciation": "FEE-seez",
+    "definition": "Also known as solid body waste or stool; expelled through the rectum and anus.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "defecation",
+    "pronunciation": "def-eh-KAY-shun",
+    "definition": "Also known as a bowel movement (BM); the evacuation or emptying of the large intestine.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "gut microflora",
+    "pronunciation": "",
+    "definition": "Organisms in the large intestine that help break down organic waste material. This process produces gas.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "gut microbiota",
+    "pronunciation": "",
+    "definition": "The billions of bacteria present in the large intestine to protect against infection and help maintain the immune system.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "flatulence",
+    "pronunciation": "FLAT-you-lens",
+    "definition": "The passage of gas, also called flatus, out of the body through the rectum.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "dentist",
+    "pronunciation": "",
+    "definition": "A professional who holds a doctor of dental surgery (DDS) or doctor of medical dentistry (DMD) degree and specializes in diagnosing and treating diseases and disorders of teeth and tissues of the oral cavity.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "prosthodontist",
+    "pronunciation": "",
+    "definition": "A dentist who specializes in the restoration and replacement of teeth.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "gastroenterologist",
+    "pronunciation": "gas-troh-en-ter-OL-oh-jist",
+    "definition": "A physician who specializes in diagnosing and treating diseases and disorders of the stomach and intestines.",
+    "breakdown_text": "gastr/o: stomach ; enter: small intestine ; -ologist: specialist"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "oral and maxillofacial surgeon",
+    "pronunciation": "mack-sill-oh-FAY-shul",
+    "definition": "A specialist in surgery of the face and jaws to correct deformities, treat diseases, and repair injuries.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "orthodontist",
+    "pronunciation": "or-thoh-DON-tist",
+    "definition": "A dental specialist who prevents or corrects malocclusion of the teeth and related facial structures.",
+    "breakdown_text": "orth: straight or normal ; odont: the teeth ; -ist: specialist"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "periodontist",
+    "pronunciation": "pehr-ee-oh-DON-tist",
+    "definition": "A dental specialist who prevents or treats disorders of the tissues surrounding the teeth.",
+    "breakdown_text": "peri-: surrounding ; odont: the teeth ; -ist: specialist"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "registered dietitian",
+    "pronunciation": "",
+    "definition": "Also known as RD or registered dietitian nutritionist (RDN); a specialist in food and nutrition who practices medical nutrition therapy and counsels patients on improving their dietary intake.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "ulcer",
+    "pronunciation": "",
+    "definition": "An open lesion of the skin or mucous membrane resulting in tissue loss around the edges.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "cold sores",
+    "pronunciation": "",
+    "definition": "Also known as herpes labialis or fever blisters; blister-like sores on the lips and adjacent facial tissue caused by the oral herpes simplex virus type 1 (HSV-1). Most adults have been infected, and in some it becomes reactivated periodically.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "oral thrush",
+    "pronunciation": "",
+    "definition": "A fungal infection in the mouth caused by Candida albicans. Symptoms are creamy white lesions on the tongue or inner cheeks. Occurs most often in infants, older adults with weakened immune systems, or individuals who have been taking antibiotics.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "cleft lip",
+    "pronunciation": "",
+    "definition": "A birth defect in which there is a deep groove of the lip running upward to the nose as a result of the failure of this portion of the lip to close during prenatal development.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "cleft palate",
+    "pronunciation": "",
+    "definition": "The failure of the palate to close during the early development of the fetus. This opening can involve the upper lip, hard palate, and/or soft palate. If not corrected, it makes it difficult for the child to eat and speak.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "bruxism",
+    "pronunciation": "BRUCK-sizm",
+    "definition": "The involuntary grinding of the teeth that usually occurs during sleep and is associated with tension or stress. Wears away tooth structure, damages periodontal tissues, and injures the temporomandibular joint.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "dental caries",
+    "pronunciation": "KAYR-eez",
+    "definition": "Also known as tooth decay or a cavity; an infectious disease caused by bacteria that destroy the enamel and dentin of the tooth. If the decay process is not arrested, the pulp can be exposed and become infected.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "dental plaque",
+    "pronunciation": "PLACK",
+    "definition": "Soft deposits in sheltered areas near the gums and between the teeth consisting of bacteria and bacterial by-products; a major cause of dental caries and periodontal disease.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "edentulous",
+    "pronunciation": "ee-DEN-too-lus",
+    "definition": "Without teeth. Describes the situation after the natural permanent teeth have been lost.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "halitosis",
+    "pronunciation": "hal-ih-TOH-sis",
+    "definition": "Also known as bad breath; an unpleasant odor coming from the mouth that can be caused by dental diseases or respiratory or gastric disorders.",
+    "breakdown_text": "halit: breath ; -osis: abnormal condition or disease"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "overbite",
+    "pronunciation": "",
+    "definition": "A malocclusion in which there is an excessive overlap of the upper and lower teeth.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "underbite",
+    "pronunciation": "",
+    "definition": "A malocclusion in which the lower teeth are in front of the upper teeth.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "periodontal disease",
+    "pronunciation": "",
+    "definition": "Also known as periodontitis; an inflammation of the tissues that surround and support the teeth. A progressive disease classified according to the degree of tissue involvement; in severe cases, the gums and bone surrounding the teeth are involved.",
+    "breakdown_text": "peri-: surrounding ; odont: tooth or teeth ; -al: pertaining to"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "dental calculus",
+    "pronunciation": "KAL-kyou-luhs",
+    "definition": "Also known as tartar; dental plaque that has calcified (hardened) on the teeth. These deposits irritate the surrounding tissues and cause increasingly serious periodontal diseases.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "gum recession",
+    "pronunciation": "",
+    "definition": "The shrinking of gingival tissue often associated with aging.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "gingivitis",
+    "pronunciation": "jin-jih-VYE-tis",
+    "definition": "The earliest stage of periodontal disease, in which the inflammation affects only the gums.",
+    "breakdown_text": "gingiv: gums ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "acute necrotizing ulcerative gingivitis",
+    "pronunciation": "",
+    "definition": "Also known as ANUG or trench mouth; caused by the abnormal growth of bacteria in the mouth. As it progresses, the inflammation, bleeding, deep ulceration, and the death of gum tissue become more severe. Necrotizing means causing ongoing tissue death.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "eosinophilic esophagitis",
+    "pronunciation": "ee-oh-sin-ah-FIL-ik eh-sof-ah-JEYE-tis",
+    "definition": "A chronic immune system disease in which a type of white blood cell called an eosinophil builds up in the esophagus, usually as the result of an allergy to certain foods. Abbreviated EoE. The resulting inflammation can make it difficult to swallow.",
+    "breakdown_text": "esophag: esophagus ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "Barrett's esophagus",
+    "pronunciation": "",
+    "definition": "A condition that occurs when the cells in the epithelial tissue of the esophagus are damaged by chronic acid exposure. Some patients with chronic GERD develop this complication, which slightly increases the risk of esophageal cancer.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "stricture",
+    "pronunciation": "",
+    "definition": "An abnormal narrowing of a bodily passage. A stricture of the esophagus resulting from scar tissue or other damage can cause swallowing difficulties.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "pyrosis",
+    "pronunciation": "pye-ROH-sis",
+    "definition": "Also known as heartburn; a burning sensation in the chest caused by the return of acidic stomach contents into the esophagus.",
+    "breakdown_text": "pyr: fever or fire ; -osis: abnormal condition or disease"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "hernia",
+    "pronunciation": "",
+    "definition": "The protrusion of a part or structure through the tissues that normally contain it.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "gastritis",
+    "pronunciation": "gas-TRY-tis",
+    "definition": "A common inflammation of the stomach lining that can cause nausea and vomiting. In chronic cases it is often caused by the bacterium Helicobacter pylori.",
+    "breakdown_text": "gastr: stomach ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "gastroenteritis",
+    "pronunciation": "gas-troh-en-ter-EYE-tis",
+    "definition": "An inflammation of the mucous membrane lining the stomach and intestines.",
+    "breakdown_text": "gastr/o: stomach ; enter: small intestine ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "gastric ulcers",
+    "pronunciation": "",
+    "definition": "Peptic ulcers that occur in the stomach.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "duodenal ulcers",
+    "pronunciation": "",
+    "definition": "Peptic ulcers that occur in the upper part of the small intestine.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "perforated ulcer",
+    "pronunciation": "",
+    "definition": "A complication of a peptic ulcer in which the ulcer erodes through the entire thickness of the organ wall.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "anorexia",
+    "pronunciation": "an-oh-RECK-see-ah",
+    "definition": "The loss of appetite for food, especially when caused by disease.",
+    "breakdown_text": "an-: without ; -orexia: appetite"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "dehydration",
+    "pronunciation": "",
+    "definition": "A condition in which fluid loss exceeds fluid intake and disrupts the body's normal electrolyte balance.",
+    "breakdown_text": "de-: removal ; hydra: water ; -tion: the process of"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "failure to thrive",
+    "pronunciation": "",
+    "definition": "Abbreviated FTT; when an infant or child does not grow as expected due to any number of reasons including malabsorption or malnutrition.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "malabsorption",
+    "pronunciation": "mal-ab-SORP-shun",
+    "definition": "A condition in which the small intestine cannot absorb nutrients from food that passes through it.",
+    "breakdown_text": "mal-: bad or poor"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "malnutrition",
+    "pronunciation": "",
+    "definition": "A lack of proper food or nutrients in the body due to a shortage of food, poor eating habits, or the inability of the body to digest, absorb, and distribute these nutrients.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "overweight",
+    "pronunciation": "",
+    "definition": "A weight classification based on BMI that is higher than a healthy weight for someone based on their height, gender, and age.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "body mass index",
+    "pronunciation": "",
+    "definition": "Abbreviated BMI; a ratio of weight in kilograms divided by height in meters squared. For adults the results fall into one of these categories: underweight, normal, overweight, or obese. For children under the age of 19, BMI is expressed as a percentile according to the growth chart.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "severe obesity",
+    "pronunciation": "oh-BEE-sih-tee",
+    "definition": "The condition of having a body mass index value greater than 40. BMI can indicate a high level of body fat but is not a measure of body fat.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "comorbidity",
+    "pronunciation": "",
+    "definition": "The presence of more than one disease or health condition in an individual at a given time.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "functional dyspepsia",
+    "pronunciation": "",
+    "definition": "Recurring indigestion with no known cause.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "emesis",
+    "pronunciation": "EM-eh-sis",
+    "definition": "Also known as vomiting; the reflex ejection of the stomach contents outward through the mouth. Used either as a standalone term or as the suffix -emesis.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "nausea",
+    "pronunciation": "NAW-see-ah",
+    "definition": "The urge to vomit.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "gluten",
+    "pronunciation": "",
+    "definition": "A type of protein found in grains such as wheat, barley, and rye.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "gluten intolerance",
+    "pronunciation": "",
+    "definition": "Also known as non-celiac gluten sensitivity; a response to gluten involving digestive distress but not causing the intestinal tissue damage of celiac disease.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "food allergy",
+    "pronunciation": "",
+    "definition": "An immune system reaction that occurs after eating a certain food.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "lactose intolerance",
+    "pronunciation": "",
+    "definition": "The inability to digest dairy products due to the absence of the enzyme lactase, which is needed to process the sugar (lactose) found in milk and some other dairy products. Particularly common among African-Americans and East Asians.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "small intestinal bacterial overgrowth",
+    "pronunciation": "",
+    "definition": "Abbreviated SIBO; can cause gastrointestinal upset such as gas, bloating, diarrhea, constipation, and nausea.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "colorectal carcinoma",
+    "pronunciation": "",
+    "definition": "Commonly known as colon cancer; often first manifests itself in polyps in the colon.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "diverticulum",
+    "pronunciation": "dye-ver-TICK-you-lum",
+    "definition": "A small pouch, or sac, found in the lining or wall of a tubular organ such as the colon (plural, diverticula).",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "ischemic colitis",
+    "pronunciation": "is-KEY-mick koh-LYE-tis",
+    "definition": "A condition that occurs when part of the large intestine is partially or completely deprived of blood. If this lack of blood persists, it can lead to inflammation and permanent damage of the affected area.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "postoperative ileus",
+    "pronunciation": "",
+    "definition": "A temporary impairment (stoppage) of bowel action that is considered to be a normal response to abdominal surgery. Often present for 24 to 72 hours, depending on which part of the digestive system was treated.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "irritable bowel syndrome",
+    "pronunciation": "",
+    "definition": "Abbreviated IBS; a common condition of unknown cause with symptoms that can include intermittent cramping and abdominal pain, accompanied by constipation or diarrhea. Usually aggravated by stress and by eating certain foods; not believed to be caused by pathogens.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "inflammatory bowel disease",
+    "pronunciation": "",
+    "definition": "Abbreviated IBD; the general name for diseases that cause inflammation and swelling in the intestines. The two most common are ulcerative colitis and Crohn's disease; both are chronic and incurable and can increase risk of colorectal cancer.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "flares",
+    "pronunciation": "",
+    "definition": "Intervals of active disease in inflammatory bowel disease, alternating with periods of remission.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "intestinal obstruction",
+    "pronunciation": "",
+    "definition": "The partial or complete blockage of the small or large intestine caused by a physical obstruction. Can result from scar tissue, a tumor, or the ingestion and buildup of indigestible materials, called a bezoar.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "bezoar",
+    "pronunciation": "",
+    "definition": "A buildup of ingested indigestible materials that can cause intestinal obstruction.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "intestinal adhesions",
+    "pronunciation": "",
+    "definition": "Conditions that abnormally hold together parts of the intestine that should be separate. Caused by inflammation or trauma and can lead to intestinal obstruction.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "strangulating obstruction",
+    "pronunciation": "",
+    "definition": "An obstruction in which the blood flow to a segment of the intestine is blocked. This can lead to gangrene or perforation.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "gangrene",
+    "pronunciation": "",
+    "definition": "Tissue death that is associated with a loss of normal circulation.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "perforation",
+    "pronunciation": "",
+    "definition": "As used here, a hole through the wall of a structure.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "strangulated hernia",
+    "pronunciation": "",
+    "definition": "A hernia in which a portion of the intestine is constricted inside the hernia, causing ischemia (insufficient oxygen) in this tissue by cutting off its blood supply.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "Clostridium difficile",
+    "pronunciation": "klos-TRID-ee-um dif-us-SEEL",
+    "definition": "Also known as C. diff; a common bacterial infection, typically following the use of antibiotics that wipe out competing bacteria. Causes diarrhea and can lead to inflammation of the colon.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "dysentery",
+    "pronunciation": "DIS-en-ter-ee",
+    "definition": "A bacterial infection that occurs most frequently in tropical countries where it is spread through food or water contaminated by human feces.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "E. coli",
+    "pronunciation": "",
+    "definition": "An infection caused by the bacterium Escherichia coli, transmitted through contaminated foods that have not been adequately cooked.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "anal fissure",
+    "pronunciation": "",
+    "definition": "A small crack-like sore in the skin of the anus that can cause severe pain during a bowel movement. A fissure is a groove or crack-like sore of the skin.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "fecal incontinence",
+    "pronunciation": "in-KON-tih-nents",
+    "definition": "The inability to control the excretion of feces.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "constipation",
+    "pronunciation": "",
+    "definition": "Having a bowel movement fewer than three times per week. Stools are usually hard, dry, small in size, and difficult to pass. Can be caused by a lack of fiber in the diet, disease, medication, and (especially in women) pelvic floor dysfunction.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "pelvic floor dysfunction",
+    "pronunciation": "",
+    "definition": "The lack of coordination of the muscles needed for the rectum to straighten and the anal sphincter to relax.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "diarrhea",
+    "pronunciation": "dye-ah-REE-ah",
+    "definition": "An abnormally frequent flow of loose or watery stools; can lead to dehydration.",
+    "breakdown_text": "dia-: through ; -rrhea: flow or discharge"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "hemorrhoids",
+    "pronunciation": "HEM-oh-roids",
+    "definition": "A cluster of veins, muscles, and tissues that slip near or through the anal opening. These veins can become inflamed, resulting in pain, fecal leakage, itching, and bleeding.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "rectocele",
+    "pronunciation": "RECK-toh-seel",
+    "definition": "A bulging of the front wall of the rectum into the vagina, usually as the result of childbirth or pregnancy.",
+    "breakdown_text": "rect/o: rectum ; -cele: hernia"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "hematochezia",
+    "pronunciation": "hee-mat-oh-KEE-zee-uh",
+    "definition": "The presence of bright red blood in the stool. The bright red color usually indicates that the blood is coming from the lower part of the gastrointestinal tract.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "steatorrhea",
+    "pronunciation": "stee-at-oh-REE-ah",
+    "definition": "The presence of excess fat in the stool. Results in frothy, foul-smelling stools and is usually caused by pancreatic disease, the removal of the gallbladder, or malabsorption disorders.",
+    "breakdown_text": "steat/o: fat ; -rrhea: flow or discharge"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "hepatomegaly",
+    "pronunciation": "hep-ah-toh-MEG-ah-lee",
+    "definition": "The abnormal enlargement of the liver.",
+    "breakdown_text": "hepat/o: liver ; -megaly: enlargement"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "hepatitis A virus",
+    "pronunciation": "",
+    "definition": "Abbreviated HAV; the most prevalent type of hepatitis. Highly contagious and transmitted mainly through contamination of food and water with infected fecal matter. A vaccine is available.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "hepatitis B virus",
+    "pronunciation": "",
+    "definition": "Abbreviated HBV; a bloodborne disease transmitted through contact with blood and other body fluids that are contaminated with this virus. A vaccine is available.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "hepatitis C virus",
+    "pronunciation": "",
+    "definition": "Abbreviated HCV; a bloodborne disease spread through contact with blood and other body fluids that are contaminated with this virus. Described as a silent epidemic because it can be present in the body for years and destroy the liver before any symptoms appear. There is no vaccine.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "degenerative",
+    "pronunciation": "",
+    "definition": "Progressive deterioration resulting in the loss of tissue or organ function.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "nonalcoholic fatty liver disease",
+    "pronunciation": "",
+    "definition": "Abbreviated NAFLD; the accumulation of fat in the liver, not associated with alcohol consumption. The leading liver disorder in the U.S. Patients usually have no signs or symptoms. Common comorbidities include obesity, type 2 diabetes, and high cholesterol.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "nonalcoholic steatohepatitis",
+    "pronunciation": "stee-ah-toh-hep-ah-TYE-tis",
+    "definition": "Abbreviated NASH; a more serious form of NAFLD consisting of fatty accumulations plus liver-damaging inflammation. In some cases, it will progress to cirrhosis, irreversible liver scarring, or liver cancer.",
+    "breakdown_text": "steat/o: fat ; hepat: liver ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "gallstone",
+    "pronunciation": "",
+    "definition": "Also known as a cholelith; a hard deposit formed in the gallbladder and bile ducts due to the concretion of bile components (plural, calculi).",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "biliary colic",
+    "pronunciation": "",
+    "definition": "The pain caused by the passage of a gallstone through the bile duct.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "abdominal computed tomography",
+    "pronunciation": "",
+    "definition": "Abbreviated CT; a radiographic procedure that uses x-rays to produce a detailed cross-section of the tissue structure within the abdomen, showing, for example, the presence of a tumor or obstruction.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "abdominal ultrasound",
+    "pronunciation": "",
+    "definition": "A noninvasive test used to visualize internal organs by using very high-frequency sound waves.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "upper GI series",
+    "pronunciation": "",
+    "definition": "A radiographic study to examine the digestive system that requires a contrast medium; a barium swallow is used.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "lower GI series",
+    "pronunciation": "",
+    "definition": "A radiographic study to examine the digestive system that requires a contrast medium; a barium enema is used.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "stool tests",
+    "pronunciation": "",
+    "definition": "Tests that use a specimen of feces to examine for content and characteristics. Abnormal findings such as blood, fat, nutrients, bacteria, or parasites in the stool can help diagnose disease or malabsorption.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "breath test",
+    "pronunciation": "",
+    "definition": "A test used to diagnose certain intestinal disorders, named for the gas being tested. The hydrogen breath test is used for lactose intolerance because hydrogen is found in excess levels when ingested lactose is not broken down. Can also diagnose small intestine bacterial overgrowth, fructose intolerance, and Helicobacter pylori infection.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "endoscope",
+    "pronunciation": "EN-doh-skope",
+    "definition": "An instrument used for an endoscopy.",
+    "breakdown_text": "endo-: within ; -scope: an instrument for visual examination"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "anoscopy",
+    "pronunciation": "ah-NOS-koh-pee",
+    "definition": "The visual examination of the anal canal and lower rectum.",
+    "breakdown_text": "an/o: anus ; -scopy: visual examination"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "capsule endoscopy",
+    "pronunciation": "",
+    "definition": "The use of a tiny video camera in a capsule that the patient swallows. For approximately 8 hours, as it passes through the small intestine, the camera transmits images of the walls of the small intestine to sensor devices attached to the patient's abdomen and then to a data recorder worn on the patient's belt.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "virtual colonoscopy",
+    "pronunciation": "",
+    "definition": "A procedure in which a small, flexible tube is inserted into the rectum and an MRI or CT machine is used to produce two- and three-dimensional images of the colon. The preparation is the same as for colonoscopy and sigmoidoscopy.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "Cologuard",
+    "pronunciation": "",
+    "definition": "A recently developed, noninvasive, collect-at-home stool test that uses DNA testing along with screening for hidden blood to determine the potential presence of colorectal cancer.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "filling",
+    "pronunciation": "",
+    "definition": "The restoration of a decaying tooth by removing the damaged area and replacing it with material to fill it in such as amalgam from metal or composite from resin to match the tooth.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "orthodontics",
+    "pronunciation": "",
+    "definition": "The treatment of alignment and malocclusion of the teeth and jaw. Braces and retainers are hardware used for this purpose.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "dental implant",
+    "pronunciation": "",
+    "definition": "The anchoring of a crown, bridge, or denture to the bone of the jaw.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "bridge",
+    "pronunciation": "",
+    "definition": "A fixed dental prosthesis used to join one or more artificial teeth to the adjacent teeth.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "denture",
+    "pronunciation": "",
+    "definition": "A plate holding one or more replacement teeth. Conventional dentures, also known as a full or partial set of false teeth, are removable.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "occlusal splint",
+    "pronunciation": "",
+    "definition": "A specially designed mouth guard worn at night to prevent grinding the teeth.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "scaling and root planing",
+    "pronunciation": "",
+    "definition": "The removal of plaque and tartar below the gum line for the treatment of gum disease.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "root canal",
+    "pronunciation": "",
+    "definition": "Refers both to the pulp cavity in the root of the tooth and to a procedure in which diseased or damaged pulp in the root canal is removed in order to save the tooth. After it is free of infection, the cavity is filled with a protective substance and sealed.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "gingivectomy",
+    "pronunciation": "jin-jih-VECK-toh-mee",
+    "definition": "The surgical removal of diseased gingival tissue.",
+    "breakdown_text": "gingiv: gingival tissue ; -ectomy: surgical removal"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "maxillofacial surgery",
+    "pronunciation": "mack-sill-oh-FAY-shul",
+    "definition": "Specialized surgery of the face and jaws to correct deformities, treat diseases, and repair injuries.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "antioxidants",
+    "pronunciation": "an-tye-OX-ih-dants",
+    "definition": "Chemicals such as vitamins A, C, and E; carotene; and lutein that may prevent or delay cell damage by blocking the activity of potentially harmful chemicals called free radicals. Naturally present in fruits, beans, berries, nuts, and dark chocolate.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "probiotics",
+    "pronunciation": "pro-bye-AH-tics",
+    "definition": "Living microorganisms sometimes described as good bacteria because of their role in aiding digestion and protecting the body from harmful bacteria. Found in fermented food and beverages such as yogurt, sauerkraut, and kombucha.",
+    "breakdown_text": "pro-: on supporting ; biot: life ; -ic: pertaining to"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "prebiotics",
+    "pronunciation": "",
+    "definition": "The nondigestible carbohydrates that probiotics feed on, found in fruits, vegetables, and whole grains.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "antacids",
+    "pronunciation": "",
+    "definition": "Medications that neutralize the acids in the stomach, taken to relieve the discomfort of conditions such as pyrosis or to help peptic ulcers heal.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "proton pump inhibitors",
+    "pronunciation": "",
+    "definition": "Abbreviated PPI; medications that block the action of the enzyme in the wall of the stomach that produces acid. Used to treat the symptoms of GERD.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "laxatives",
+    "pronunciation": "",
+    "definition": "Medications or foods given to stimulate bowel movements. Bulk-forming laxatives, such as bran, treat constipation by helping fecal matter retain water and remain soft as it moves through the intestines.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "antimotility agents",
+    "pronunciation": "",
+    "definition": "Over-the-counter medications that reduce diarrhea symptoms by slowing digestion, allowing for more water to be reabsorbed back into the body.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "intravenous fluids",
+    "pronunciation": "in-trah-VEE-nus",
+    "definition": "Abbreviated IV; fluids administered to combat the effects of dehydration.",
+    "breakdown_text": "intra: within ; ven/o: vein ; -us: noun ending"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "oral rehydration therapy",
+    "pronunciation": "",
+    "definition": "Abbreviated ORT; a treatment in which a solution of electrolytes is administered in a liquid preparation to counteract the dehydration that can accompany diarrhea, especially in young children.",
+    "breakdown_text": "re-: back or again ; hydra: water ; -tion: the process of"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "nutrition support",
+    "pronunciation": "",
+    "definition": "Helping a person get the nutrients they need through whatever means possible, such as by mouth (food), via tube (formula) or by vein (solution).",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "enteral nutrition",
+    "pronunciation": "",
+    "definition": "Abbreviated EN; feeding using the digestive system either through eating and drinking by mouth or via tube feeding. Tube feedings may be given bolus, a large amount in a short period of time, or continuous, providing calories throughout the day and/or night.",
+    "breakdown_text": "enter: small intestine ; -al: pertaining to"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "jejunostomy tube",
+    "pronunciation": "",
+    "definition": "A feeding tube similar to a gastrostomy tube but placed from the abdomen into the small intestine rather than the stomach.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "parenteral nutrition",
+    "pronunciation": "pah-REN-ter-al",
+    "definition": "Abbreviated PN, or total parenteral nutrition (TPN); administered to patients who cannot or should not get their nutrition through the digestive system. Some or all of the patient's nutritional requirements are met through a specialized solution administered intravenously. Parenteral means not in or through the digestive system.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "bariatric surgery",
+    "pronunciation": "",
+    "definition": "Surgery performed to treat severe obesity by restricting the amount of food that can enter the stomach and be digested. Limits food intake, decreases absorption, and forces a reduction in dietary intake in order to enable weight loss.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "gastric bypass surgery",
+    "pronunciation": "",
+    "definition": "Also known as Roux-en-Y gastric bypass; makes the stomach smaller by stapling a section to create a small pouch and causes food to bypass the first part of the small intestine. The most common form of bariatric surgery; not reversible and carries some risk of complications.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "lap-band",
+    "pronunciation": "",
+    "definition": "Also called adjustable gastric banding; a procedure that involves placing an inflatable band around the exterior of the stomach to restrict the amount of food that can enter. Reversible through the removal of the band.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "sleeve gastrectomy",
+    "pronunciation": "",
+    "definition": "One of several endoscopic options for bariatric surgeries requiring general anesthesia. The stomach is sutured to make it into a small tube, reducing its capacity by about 75 percent.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "colectomy",
+    "pronunciation": "koh-LECK-toh-mee",
+    "definition": "The surgical removal of all or part of the colon.",
+    "breakdown_text": "col: colon ; -ectomy: surgical removal"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "diverticulectomy",
+    "pronunciation": "dye-ver-tick-you-LECK-toh-mee",
+    "definition": "The surgical removal of a diverticulum.",
+    "breakdown_text": "diverticul: diverticulum ; -ectomy: surgical removal"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "ileectomy",
+    "pronunciation": "ill-ee-ECK-toh-mee",
+    "definition": "The surgical removal of the ileum. This term is spelled with a double e.",
+    "breakdown_text": "ile: the ileum ; -ectomy: surgical removal"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "fecal microbiota transplantation",
+    "pronunciation": "",
+    "definition": "Abbreviated FMT; also known as fecal transplant therapy; the transplant of stool from a healthy donor, used to restore gut bacteria. Used for patients whose frequent antibiotic use to treat C. difficile infection has wiped out good bacteria and is being studied to treat other conditions such as IBD.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "ostomy",
+    "pronunciation": "OSS-toh-mee",
+    "definition": "A surgical procedure to create an artificial opening between an organ and the body surface; the artificial opening is also known as a stoma. Can be used alone as a noun to describe a procedure or as a suffix with the word part that describes the organ involved.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "stoma",
+    "pronunciation": "",
+    "definition": "An artificial mouth-like opening between an organ and the body's surface.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "ileostomy",
+    "pronunciation": "ill-ee-OS-toh-mee",
+    "definition": "The surgical creation of an artificial excretory opening between the ileum, at the end of the small intestine, and the outside of the abdominal wall.",
+    "breakdown_text": "ile: small intestine ; -ostomy: surgically creating an opening"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "hemorrhoidectomy",
+    "pronunciation": "hem-oh-roid-ECK-toh-mee",
+    "definition": "The surgical removal of hemorrhoids.",
+    "breakdown_text": "hemorrhoid: hemorrhoid ; -ectomy: surgical removal"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "rubber band ligation",
+    "pronunciation": "",
+    "definition": "A procedure done instead of surgery in which rubber bands cut off the circulation at the base of an internal hemorrhoid, causing it to eventually fall off.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "ligation",
+    "pronunciation": "",
+    "definition": "The tying off of blood vessels or ducts.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "hepatectomy",
+    "pronunciation": "hep-ah-TECK-toh-mee",
+    "definition": "The surgical removal of all or part of the liver.",
+    "breakdown_text": "hepat: liver ; -ectomy: surgical removal"
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "liver transplant",
+    "pronunciation": "",
+    "definition": "An option for a patient whose liver has failed for a reason other than liver cancer. Because liver tissue regenerates, a partial liver transplant, in which only part of the organ is donated, can be adequate. A partial liver can be donated by a living donor whose blood and tissue types match.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "open cholecystectomy",
+    "pronunciation": "",
+    "definition": "The surgical removal of the gallbladder performed through an incision in the right side of the upper abdomen.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 8,
+    "system_group": "Digestive System",
+    "term": "laparoscopic cholecystectomy",
+    "pronunciation": "",
+    "definition": "Also known as a lap choley; the surgical removal of the gallbladder using a laparoscope and other instruments inserted through three or four small incisions in the abdominal wall. Performed for the treatment of gallstones, which can commonly reoccur without surgical intervention.",
+    "breakdown_text": ""
+  }
+]

@@ -1,0 +1,2258 @@
+[
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "bronch/o",
+    "pronunciation": "",
+    "definition": "bronchial tube, bronchus",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "bronchi/o",
+    "pronunciation": "",
+    "definition": "bronchial tube, bronchus",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "laryng/o",
+    "pronunciation": "",
+    "definition": "larynx, throat",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "nas/o",
+    "pronunciation": "",
+    "definition": "nose",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "ox/i",
+    "pronunciation": "",
+    "definition": "oxygen",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "ox/o",
+    "pronunciation": "",
+    "definition": "oxygen",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "ox/y",
+    "pronunciation": "",
+    "definition": "oxygen",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "pharyng/o",
+    "pronunciation": "",
+    "definition": "throat, pharynx",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "phon/o",
+    "pronunciation": "",
+    "definition": "sound, voice",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "pleur/o",
+    "pronunciation": "",
+    "definition": "pleura, side of the body",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "-pnea",
+    "pronunciation": "",
+    "definition": "breathing",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "pneum/o",
+    "pronunciation": "",
+    "definition": "lung, air",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "pneumon/o",
+    "pronunciation": "",
+    "definition": "lung, air",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "pneu-",
+    "pronunciation": "",
+    "definition": "lung, air",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "pulm/o",
+    "pronunciation": "",
+    "definition": "lung",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "pulmon/o",
+    "pronunciation": "",
+    "definition": "lung",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "sinus/o",
+    "pronunciation": "",
+    "definition": "sinus",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "somn/o",
+    "pronunciation": "",
+    "definition": "sleep",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "spir/o",
+    "pronunciation": "",
+    "definition": "to breathe",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "thorac/o",
+    "pronunciation": "",
+    "definition": "chest, pleural cavity",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "-thorax",
+    "pronunciation": "",
+    "definition": "chest, pleural cavity",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "trache/o",
+    "pronunciation": "",
+    "definition": "windpipe, trachea",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "trachea",
+    "pronunciation": "",
+    "definition": "windpipe, trachea",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "alveol/o",
+    "pronunciation": "",
+    "definition": "alveoli (air sacs)",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "epiglott/o",
+    "pronunciation": "",
+    "definition": "epiglottis",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "a-",
+    "pronunciation": "",
+    "definition": "without",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "an-",
+    "pronunciation": "",
+    "definition": "without",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "anti-",
+    "pronunciation": "",
+    "definition": "against",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "brady-",
+    "pronunciation": "",
+    "definition": "slow",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "dys-",
+    "pronunciation": "",
+    "definition": "bad, painful",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "endo-",
+    "pronunciation": "",
+    "definition": "within",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "eu-",
+    "pronunciation": "",
+    "definition": "good",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "hyp-",
+    "pronunciation": "",
+    "definition": "deficient",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "hyper-",
+    "pronunciation": "",
+    "definition": "excessive",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "hypo-",
+    "pronunciation": "",
+    "definition": "decreased",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "poly-",
+    "pronunciation": "",
+    "definition": "many",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "para-",
+    "pronunciation": "",
+    "definition": "near",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "tachy-",
+    "pronunciation": "",
+    "definition": "rapid",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "-al",
+    "pronunciation": "",
+    "definition": "pertaining to",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "-ation",
+    "pronunciation": "",
+    "definition": "state or action",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "-centesis",
+    "pronunciation": "",
+    "definition": "surgical puncture to remove fluid",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "-dynia",
+    "pronunciation": "",
+    "definition": "pain",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "-ectasis",
+    "pronunciation": "",
+    "definition": "stretching or enlargement",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "-ectomy",
+    "pronunciation": "",
+    "definition": "surgical removal",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "-emia",
+    "pronunciation": "",
+    "definition": "blood",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "-graphy",
+    "pronunciation": "",
+    "definition": "the process of recording",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "-ia",
+    "pronunciation": "",
+    "definition": "abnormal condition",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "-isy",
+    "pronunciation": "",
+    "definition": "noun ending",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "-is",
+    "pronunciation": "",
+    "definition": "noun ending",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "-itis",
+    "pronunciation": "",
+    "definition": "inflammation",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "-ive",
+    "pronunciation": "",
+    "definition": "performs",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "-meter",
+    "pronunciation": "",
+    "definition": "to measure",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "-oma",
+    "pronunciation": "",
+    "definition": "tumor",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "-ologist",
+    "pronunciation": "",
+    "definition": "specialist",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "-osis",
+    "pronunciation": "",
+    "definition": "abnormal condition or disease",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "-ostomy",
+    "pronunciation": "",
+    "definition": "surgically creating an opening",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "-otomy",
+    "pronunciation": "",
+    "definition": "surgical incision",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "-pharynx",
+    "pronunciation": "",
+    "definition": "throat",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "-plasty",
+    "pronunciation": "",
+    "definition": "surgical repair",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "-ptysis",
+    "pronunciation": "",
+    "definition": "spitting",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "-rrhea",
+    "pronunciation": "",
+    "definition": "abnormal discharge, abnormal flow",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "-scopy",
+    "pronunciation": "",
+    "definition": "direct visual examination",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "-spasm",
+    "pronunciation": "",
+    "definition": "involuntary contraction, sudden involuntary contraction",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "-ventilation",
+    "pronunciation": "",
+    "definition": "breathing",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "asbest",
+    "pronunciation": "",
+    "definition": "asbestos",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "atel",
+    "pronunciation": "",
+    "definition": "incomplete",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "bronchiol",
+    "pronunciation": "",
+    "definition": "bronchioles",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "capn",
+    "pronunciation": "",
+    "definition": "carbon dioxide",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "coni",
+    "pronunciation": "",
+    "definition": "dust",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "cyan",
+    "pronunciation": "",
+    "definition": "blue",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "expector",
+    "pronunciation": "",
+    "definition": "to cough up",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "fibros",
+    "pronunciation": "",
+    "definition": "fibrous connective tissue",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "granul",
+    "pronunciation": "",
+    "definition": "granular",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "hem/o",
+    "pronunciation": "",
+    "definition": "blood",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "lob",
+    "pronunciation": "",
+    "definition": "lobe",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "or/o",
+    "pronunciation": "",
+    "definition": "mouth",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "ot/o",
+    "pronunciation": "",
+    "definition": "ear",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "py/o",
+    "pronunciation": "",
+    "definition": "pus",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "rhin/o",
+    "pronunciation": "",
+    "definition": "nose",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "sept/o",
+    "pronunciation": "",
+    "definition": "septum",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "silic",
+    "pronunciation": "",
+    "definition": "glass",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "tuss",
+    "pronunciation": "",
+    "definition": "cough",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "anoxia",
+    "pronunciation": "ah-NOCK-see-ah",
+    "definition": "The absence of oxygen from the body's tissues and organs even though there is an adequate flow of blood.",
+    "breakdown_text": "an-: without ; ox: oxygen ; -ia: abnormal condition"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "antitussive",
+    "pronunciation": "an-tih-TUSS-iv",
+    "definition": "Medication administered to prevent or relieve coughing; commonly known as cough medicine.",
+    "breakdown_text": "anti-: against ; tuss: cough ; -ive: performs"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "aphonia",
+    "pronunciation": "ah-FOH-nee-ah",
+    "definition": "The loss of the ability of the larynx to produce normal speech sounds. Patients with aphonia are only able to whisper.",
+    "breakdown_text": "a-: without ; phon: sound or voice ; -ia: abnormal condition"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "asbestosis",
+    "pronunciation": "ass-beh-STOH-sis",
+    "definition": "The form of pneumoconiosis caused by asbestos particles in the lungs; usually occurs after working with asbestos.",
+    "breakdown_text": "asbest: asbestos ; -osis: abnormal condition or disease"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "asphyxia",
+    "pronunciation": "ass-FICK-see-ah",
+    "definition": "The loss of consciousness that occurs when the body cannot get the oxygen it needs to function. Can be caused by choking, suffocation, drowning, or inhaling gases such as carbon monoxide.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "asthma",
+    "pronunciation": "AZ-mah",
+    "definition": "A chronic inflammatory disease of the bronchial tubes, often triggered by an allergic reaction. An asthma attack is characterized by episodes of severe breathing difficulty, coughing, and wheezing.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "atelectasis",
+    "pronunciation": "at-ee-LEK-tah-sis",
+    "definition": "The incomplete expansion of part or all of a lung due to a blockage of the air passages or pneumothorax; also called collapsed lung.",
+    "breakdown_text": "atel: incomplete ; -ectasis: stretching or enlargement"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "bradypnea",
+    "pronunciation": "brad-ihp-NEE-ah",
+    "definition": "An abnormally slow rate of respiration, usually of less than 10 breaths per minute. Bradypnea is the opposite of tachypnea.",
+    "breakdown_text": "brady-: slow ; -pnea: breathing"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "bronchiectasis",
+    "pronunciation": "brong-kee-ECK-tah-sis",
+    "definition": "The permanent thickening of the walls of the bronchi, caused by chronic infection and inflammation.",
+    "breakdown_text": "bronch/i: bronchus ; -ectasis: stretching or enlargement"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "bronchodilator",
+    "pronunciation": "brong-koh-dye-LAY-tor",
+    "definition": "An inhaled medication that relaxes and expands the bronchial passages into the lungs. Short-acting bronchodilators are used as needed as rescue medications, while long-acting bronchodilators are used every day as controller medicines.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "bronchorrhea",
+    "pronunciation": "brong-koh-REE-ah",
+    "definition": "An excessive discharge of watery mucus from the bronchi. Often caused by chronic bronchitis or asthma.",
+    "breakdown_text": "bronch/o: bronchus ; -rrhea: abnormal flow"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "bronchoscopy",
+    "pronunciation": "brong-KOS-koh-pee",
+    "definition": "The visual examination of the bronchi using a bronchoscope.",
+    "breakdown_text": "bronch/o: bronchus ; -scopy: direct visual examination"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "bronchospasm",
+    "pronunciation": "BRONG-koh-spazm",
+    "definition": "A contraction of the smooth muscle in the walls of the bronchi and bronchioles, tightening and squeezing the airway shut.",
+    "breakdown_text": "bronch/o: bronchi ; -spasm: involuntary contraction"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "Cheyne-Stokes respiration",
+    "pronunciation": "CHAYN STOHKS",
+    "definition": "An irregular pattern of breathing characterized by alternating rapid or shallow respiration followed by slower respiration or apnea. Sometimes occurs in comatose patients or those nearing death.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "chronic obstructive pulmonary disease",
+    "pronunciation": "",
+    "definition": "A group of lung diseases in which the bronchial airflow is obstructed, making it difficult to breathe out. Most often caused by long-term smoking; generally permanent and progressive. Abbreviated COPD.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "croup",
+    "pronunciation": "KROOP",
+    "definition": "An acute respiratory infection in children and infants characterized by obstruction of the larynx, hoarseness, and swelling around the vocal cords resulting in a barking cough and stridor.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "cyanosis",
+    "pronunciation": "sigh-ah-NOH-sis",
+    "definition": "A bluish discoloration of the skin and mucous membranes caused by a lack of adequate oxygen in the blood.",
+    "breakdown_text": "cyan: blue ; -osis: abnormal condition or disease"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "cystic fibrosis",
+    "pronunciation": "SIS-tick figh-BROH-sis",
+    "definition": "A life-threatening genetic disorder in which the lungs and pancreas are clogged with large quantities of abnormally thick mucus. Abbreviated CF.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "dysphonia",
+    "pronunciation": "dis-FOH-nee-ah",
+    "definition": "Difficulty in speaking, which may include any impairment in vocal quality, including hoarseness, weakness, or the cracking of a boy's voice during puberty.",
+    "breakdown_text": "dys-: bad ; phon: sound or voice ; -ia: abnormal condition"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "dyspnea",
+    "pronunciation": "DISP-nee-ah",
+    "definition": "Difficult or labored breathing; also known as shortness of breath (SOB).",
+    "breakdown_text": "dys-: painful ; -pnea: breathing"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "emphysema",
+    "pronunciation": "em-fih-SEE-mah",
+    "definition": "The progressive, long-term loss of lung function, usually due to smoking. Characterized by a decrease in the total number of alveoli, enlargement of the remaining alveoli, and the progressive destruction of the walls of these remaining alveoli.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "empyema",
+    "pronunciation": "em-pye-EE-mah",
+    "definition": "A collection of pus in any body cavity.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "endotracheal intubation",
+    "pronunciation": "en-doh-TRAY-kee-al in-too-BAY-shun",
+    "definition": "The passage of a tube through the mouth into the trachea to establish or maintain an open airway, especially when a patient must be placed on a ventilator.",
+    "breakdown_text": "endo-: within ; trache: trachea ; -al: pertaining to"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "epistaxis",
+    "pronunciation": "ep-ih-STACK-sis",
+    "definition": "Bleeding from the nose that may be caused by dry air, injury, medication to prevent blood clotting, or high blood pressure; also known as a nosebleed.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "hemoptysis",
+    "pronunciation": "hee-MOP-tih-sis",
+    "definition": "The expectoration of blood or blood-stained sputum derived from the lungs or bronchial tubes as the result of a pulmonary or bronchial hemorrhage.",
+    "breakdown_text": "hem/o: blood ; -ptysis: spitting"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "hemothorax",
+    "pronunciation": "hee-moh-THOH-racks",
+    "definition": "A collection of blood in the pleural cavity. Often results from chest trauma, such as a stab wound, or can be caused by disease or surgery.",
+    "breakdown_text": "hem/o: blood ; -thorax: chest"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "hypercapnia",
+    "pronunciation": "high-per-KAP-nee-ah",
+    "definition": "The abnormal buildup of carbon dioxide in the blood; also known as CO2 retention.",
+    "breakdown_text": "hyper-: excessive ; capn: carbon dioxide ; -ia: abnormal condition"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "hyperpnea",
+    "pronunciation": "high-perp-NEE-ah",
+    "definition": "Breathing that is deeper and more rapid than is normal at rest. Hyperpnea is the opposite of hypopnea.",
+    "breakdown_text": "hyper-: excessive ; -pnea: breathing"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "hypopnea",
+    "pronunciation": "high-poh-NEE-ah",
+    "definition": "Shallow or slow respiration. The second \"p\" is silent in the American pronunciation. Hypopnea is the opposite of hyperpnea.",
+    "breakdown_text": "hypo-: decreased ; -pnea: breathing"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "hypoxemia",
+    "pronunciation": "high-pock-SEE-mee-ah",
+    "definition": "The condition of having low oxygen levels in the blood, usually due to respiratory disorders or heart conditions.",
+    "breakdown_text": "hyp-: deficient ; ox: oxygen ; -emia: blood"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "hypoxia",
+    "pronunciation": "high-POCK-see-ah",
+    "definition": "The condition of having deficient oxygen levels in the body's tissues and organs; less severe than anoxia.",
+    "breakdown_text": "hyp-: deficient ; ox: oxygen ; -ia: abnormal condition"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "laryngitis",
+    "pronunciation": "lar-in-JIGH-tis",
+    "definition": "An inflammation of the larynx. Also commonly used to describe voice loss caused by this inflammation.",
+    "breakdown_text": "laryng: larynx ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "laryngoscopy",
+    "pronunciation": "lar-ing-GOS-koh-pee",
+    "definition": "The visual examination of the larynx and vocal cords using a flexible or rigid laryngoscope inserted through the mouth.",
+    "breakdown_text": "laryng/o: larynx ; -scopy: direct visual examination"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "laryngospasm",
+    "pronunciation": "lah-RING-goh-spazm",
+    "definition": "The sudden spasmodic closure of the larynx. Sometimes associated with gastroesophageal reflux disease (GERD).",
+    "breakdown_text": "laryng/o: larynx ; -spasm: a sudden involuntary contraction"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "mediastinum",
+    "pronunciation": "mee-dee-as-TYE-num",
+    "definition": "The middle section of the chest cavity located between the lungs. Contains connective tissue and organs, including the heart and its veins and arteries, the esophagus, trachea, bronchi, thymus gland, and lymph nodes.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "nebulizer",
+    "pronunciation": "NEB-you-lye-zer",
+    "definition": "An electronic device that pumps air or oxygen through a liquid medicine to turn it into a mist, which is then inhaled by the patient via a face mask or mouthpiece.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "otolaryngologist",
+    "pronunciation": "oh-toh-lar-in-GOL-oh-jist",
+    "definition": "A physician with specialized training in the diagnosis and treatment of diseases and disorders of the head and neck; also known as an ENT (Ear, Nose & Throat).",
+    "breakdown_text": "ot/o: ear ; laryng: larynx ; -ologist: specialist"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "pertussis",
+    "pronunciation": "per-TUS-is",
+    "definition": "A contagious bacterial infection of the upper respiratory tract characterized by recurrent bouts of a paroxysmal cough, followed by breathlessness and a noisy inspiration; also known as whooping cough.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "pharyngitis",
+    "pronunciation": "fah-rin-JIGH-tis",
+    "definition": "An inflammation of the pharynx; also known as a sore throat. Often a symptom of a cold, flu, or sinus infection.",
+    "breakdown_text": "pharyng: pharynx ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "pleural effusion",
+    "pronunciation": "eh-FEW-zhun",
+    "definition": "The excess accumulation of fluid in the pleural space. Produces a feeling of breathlessness because it prevents the lung from fully expanding.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "pleurisy",
+    "pronunciation": "PLOOR-ih-see",
+    "definition": "An inflammation of the pleura, the membranes that cover the lungs and line the pleural cavity; also known as pleuritis.",
+    "breakdown_text": "pleur: pleura ; -isy: noun ending"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "pleurodynia",
+    "pronunciation": "ploor-oh-DIN-ee-ah",
+    "definition": "A sharp chest pain that occurs when the inflamed pleural membranes rub against each other with each inhalation.",
+    "breakdown_text": "pleur/o: pleura ; -dynia: pain"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "pneumoconiosis",
+    "pronunciation": "new-moh-koh-nee-OH-sis",
+    "definition": "Any fibrosis of the lung tissues caused by mineral dust in the lungs after prolonged environmental or occupational contact.",
+    "breakdown_text": "pneum/o: lung ; coni: dust ; -osis: abnormal condition or disease"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "pneumonectomy",
+    "pronunciation": "new-moh-NECK-toh-mee",
+    "definition": "The surgical removal of all or part of a lung.",
+    "breakdown_text": "pneumon: lung ; -ectomy: surgical removal"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "pneumonia",
+    "pronunciation": "new-MOH-nee-ah",
+    "definition": "A serious inflammation of the lungs in which the alveoli and air passages fill with pus and other fluids. Abbreviated PNA.",
+    "breakdown_text": "pneumon: lung ; -ia: abnormal condition"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "pneumothorax",
+    "pronunciation": "new-moh-THOH-racks",
+    "definition": "The accumulation of air in the pleural space resulting in a pressure imbalance that causes the lung to fully or partially collapse.",
+    "breakdown_text": "pneum/o: lung or air ; -thorax: chest"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "polysomnography",
+    "pronunciation": "pol-ee-som-NOG-rah-fee",
+    "definition": "The diagnostic measurement of physiological activity during sleep, often performed to detect nocturnal defects in breathing associated with sleep apnea; also known as a sleep study.",
+    "breakdown_text": "poly-: many ; somn/o: sleep ; -graphy: the process of recording"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "pulmonary edema",
+    "pronunciation": "eh-DEE-mah",
+    "definition": "An accumulation of fluid in lung tissues, especially the alveoli. Often a symptom of heart failure.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "pulmonologist",
+    "pronunciation": "pull-mah-NOL-oh-jist",
+    "definition": "A physician who specializes in diagnosing and treating diseases and disorders of the respiratory system.",
+    "breakdown_text": "pulmon: lung ; -ologist: specialist"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "pulse oximeter",
+    "pronunciation": "ock-SIM-eh-ter",
+    "definition": "An external monitor placed on the patient's fingertip or earlobe to measure the oxygen saturation level in the blood.",
+    "breakdown_text": "ox/i: oxygen ; -meter: to measure"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "pyothorax",
+    "pronunciation": "pye-oh-THOH-racks",
+    "definition": "The presence of pus in the pleural cavity between the layers of the pleural membrane resulting from a bacterial infection; also known as pleural empyema.",
+    "breakdown_text": "py/o: pus ; -thorax: chest"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "sinusitis",
+    "pronunciation": "sigh-nuh-SIGH-tis",
+    "definition": "An inflammation of the sinuses.",
+    "breakdown_text": "sinus: sinus ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "sleep apnea",
+    "pronunciation": "AP-nee-ah",
+    "definition": "A potentially serious disorder in which breathing repeatedly stops and starts during sleep for periods long enough to cause a measurable decrease in blood oxygen levels.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "spirometer",
+    "pronunciation": "spih-ROM-eh-ter",
+    "definition": "A recording device that measures the amount of air inhaled or exhaled (volume) and the length of time required for each breath.",
+    "breakdown_text": "spir/o: to breathe ; -meter: to measure"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "tachypnea",
+    "pronunciation": "tack-ihp-NEE-ah",
+    "definition": "An abnormally rapid rate of respiration, usually of more than 20 breaths per minute. Tachypnea is the opposite of bradypnea.",
+    "breakdown_text": "tachy-: rapid ; -pnea: breathing"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "thoracentesis",
+    "pronunciation": "thoh-rah-sen-TEE-sis",
+    "definition": "The surgical puncture of the chest wall with a needle to obtain fluid from the pleural cavity. Performed to remove liquid (pleural effusion, hemothorax) or air (pneumothorax) from the pleural cavity.",
+    "breakdown_text": "thor/a: thorax or chest ; -centesis: surgical puncture to remove fluid"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "thoracotomy",
+    "pronunciation": "thoh-rah-KOT-oh-mee",
+    "definition": "A surgical incision into the chest wall to open the pleural cavity for biopsy or treatment. Used to gain access to the lungs, heart, esophagus, diaphragm, and other organs.",
+    "breakdown_text": "thorac: chest ; -otomy: surgical incision"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "tracheostomy",
+    "pronunciation": "tray-kee-OS-toh-mee",
+    "definition": "The surgical creation of a stoma into the trachea below the vocal cords to insert a temporary or permanent tube to facilitate breathing. The term refers to the surgical procedure and to the stoma itself.",
+    "breakdown_text": "trache: trachea ; -ostomy: surgically creating an opening"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "tracheotomy",
+    "pronunciation": "tray-kee-OT-oh-mee",
+    "definition": "An emergency procedure in which an incision is made into the trachea to gain access to the airway below a blockage.",
+    "breakdown_text": "trache: trachea ; -otomy: surgical incision"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "tuberculosis",
+    "pronunciation": "too-ber-kew-LOH-sis",
+    "definition": "An infectious disease caused by Mycobacterium tuberculosis that usually attacks the lungs; it can also affect other parts of the body. Abbreviated TB.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "thoracic cavity",
+    "pronunciation": "thoh-RAS-ick",
+    "definition": "The rib cage; also known as the thorax. Contains and protects the bronchial tree and lungs.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "airway",
+    "pronunciation": "",
+    "definition": "The upper respiratory tract and the bronchial tree of the lower respiratory tract.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "nasal septum",
+    "pronunciation": "NAY-zal SEP-tum",
+    "definition": "A wall of cartilage that divides the nose into two equal sections. A septum is a wall that separates two chambers.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "cilia",
+    "pronunciation": "SIL-ee-ah",
+    "definition": "The thin hairs located just inside the nostrils that filter incoming air to remove debris.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "mucous membranes",
+    "pronunciation": "MYOU-kus",
+    "definition": "Specialized tissues that line the nose, digestive, reproductive, and urinary systems, as well as other parts of the respiratory system.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "mucus",
+    "pronunciation": "MYOU-kus",
+    "definition": "A slippery secretion produced by the mucous membranes that protects and lubricates these tissues. In the nose, mucus helps moisten, warm, and filter the air as it enters.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "olfactory receptors",
+    "pronunciation": "ol-FACK-toh-ree",
+    "definition": "Nerve endings that act as the receptors for the sense of smell and are also important to the sense of taste. Located in the mucous membrane in the upper part of the nasal cavity.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "tonsils",
+    "pronunciation": "",
+    "definition": "Part of the lymphatic system that helps protect the body from infection coming through the nose or the mouth; also called the palatine tonsils. Located at the back of the mouth.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "adenoids",
+    "pronunciation": "",
+    "definition": "Part of the lymphatic system that helps protect the body from infection coming through the nose or the mouth; also called the nasopharyngeal tonsils. Located higher up, behind the nose and the roof of the mouth.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "paranasal sinuses",
+    "pronunciation": "",
+    "definition": "Air-filled cavities lined with mucous membrane, located in the bones of the skull. They make the bones of the skull lighter, help produce sound by giving resonance to the voice, and produce mucus to provide lubrication for the tissues of the nasal cavity.",
+    "breakdown_text": "para-: near ; nas: nose ; -al: pertaining to"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "frontal sinuses",
+    "pronunciation": "",
+    "definition": "The paranasal sinuses located in the frontal bone just above the eyebrows. An infection here can cause severe pain in this area.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "sphenoid sinuses",
+    "pronunciation": "",
+    "definition": "The paranasal sinuses located in the sphenoid bone behind the eye and under the pituitary gland, close to the optic nerves. An infection here can damage vision.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "maxillary sinuses",
+    "pronunciation": "",
+    "definition": "The largest of the paranasal sinuses, located in the maxillary bones under the eyes. An infection in these sinuses can cause pain in the posterior maxillary teeth.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "ethmoid sinuses",
+    "pronunciation": "",
+    "definition": "The paranasal sinuses located in the ethmoid bones between the nose and the eyes; irregularly shaped air cells separated from the orbital (eye) cavity by only a thin layer of bone.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "pharynx",
+    "pronunciation": "FAR-inks",
+    "definition": "The throat; receives the air after it passes through the nose or mouth, as well as food.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "nasopharynx",
+    "pronunciation": "nay-zoh-FAR-inks",
+    "definition": "The portion of the pharynx posterior to the nasal cavity that continues downward to behind the mouth. Used only by the respiratory system for the transport of air and opens into the oropharynx.",
+    "breakdown_text": "nas/o: nose ; -pharynx: throat"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "oropharynx",
+    "pronunciation": "oh-roh-FAR-inks",
+    "definition": "The portion of the pharynx that is visible when looking into the mouth. Shared by the respiratory and digestive systems and transports air, food, and fluids downward to the laryngopharynx.",
+    "breakdown_text": "or/o: mouth ; -pharynx: throat"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "laryngopharynx",
+    "pronunciation": "lah-ring-goh-FAR-inks",
+    "definition": "The portion of the pharynx shared by both the respiratory and digestive systems. Air, food, and fluids continue downward to the openings of the esophagus and trachea.",
+    "breakdown_text": "laryng/o: larynx ; -pharynx: throat"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "larynx",
+    "pronunciation": "LAR-inks",
+    "definition": "The voice box; a triangular chamber located between the pharynx and the trachea. Protected and supported by nine separate cartilages and contains the vocal cords.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "thyroid cartilage",
+    "pronunciation": "",
+    "definition": "The largest cartilage of the larynx; when enlarged it projects from the front of the throat and is commonly known as the Adam's apple.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "vocal cords",
+    "pronunciation": "",
+    "definition": "Structures within the larynx that separate during breathing to let air pass and close together during speech, producing sound as air is expelled from the lungs and the cords vibrate against each other.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "soft palate",
+    "pronunciation": "",
+    "definition": "The muscular posterior portion of the roof of the mouth that moves up and backward during swallowing to close off the nasopharynx.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "epiglottis",
+    "pronunciation": "ep-ih-GLOT-is",
+    "definition": "A lid-like structure located at the base of the tongue that swings downward during swallowing and closes off the laryngopharynx so that food does not enter the trachea and the lungs.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "trachea",
+    "pronunciation": "TRAY-kee-ah",
+    "definition": "The windpipe; a tube located directly in front of the esophagus that transports air to and from the lungs. Held open by a series of flexible C-shaped cartilage rings.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "bronchi",
+    "pronunciation": "BRONG-kee",
+    "definition": "Two large tubes, also known as primary bronchi, which branch out from the trachea and convey air into the two lungs (singular, bronchus).",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "bronchial tree",
+    "pronunciation": "",
+    "definition": "The bronchi and their branches, so called because of the similarity of these structures to an inverted tree.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "bronchioles",
+    "pronunciation": "BRONG-kee-ohlz",
+    "definition": "The smallest branches of the bronchi.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "alveoli",
+    "pronunciation": "al-VEE-oh-lye",
+    "definition": "Also known as air sacs; very small, grapelike clusters found at the end of each bronchiole where the exchange of oxygen and carbon dioxide takes place (singular, alveolus).",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "pulmonary",
+    "pronunciation": "PULL-mah-nair-ee",
+    "definition": "Relating to or affecting the lungs.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "pulmonary capillaries",
+    "pronunciation": "",
+    "definition": "A network of microscopic capillaries that surrounds the alveoli.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "surfactant",
+    "pronunciation": "",
+    "definition": "A detergent-like substance produced by the alveoli that reduces the surface tension of the fluid in the lungs, making the alveoli more stable so they do not collapse when an individual exhales. Premature babies often lack adequate surfactant.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "lungs",
+    "pronunciation": "",
+    "definition": "The essential organs of respiration, divided into lobes. The right lung is larger and has three lobes; the left lung has only two lobes.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "lobe",
+    "pronunciation": "",
+    "definition": "A subdivision or part of an organ.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "pleura",
+    "pronunciation": "PLOOR-ah",
+    "definition": "A thin, moist, and slippery membrane that covers the outer surface of the lungs and lines the inner surface of the thoracic cavity.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "parietal pleura",
+    "pronunciation": "pah-RYE-eh-tal",
+    "definition": "The outer layer of the pleura; lines the walls of the thoracic cavity, covers the diaphragm, and forms the sac containing each lung. Attached to the chest wall. Parietal means relating to the walls of a cavity.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "visceral pleura",
+    "pronunciation": "VIS-er-al",
+    "definition": "The inner layer of pleura that covers each lung and is attached directly to the lungs. Visceral means relating to the internal organs.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "pleural cavity",
+    "pronunciation": "",
+    "definition": "Also known as the pleural space; the thin, fluid-filled space between the parietal and visceral pleural membranes. The fluid acts as a lubricant, allowing the membranes to slide easily over each other during respiration.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "diaphragm",
+    "pronunciation": "DYE-ah-fram",
+    "definition": "Also known as the thoracic diaphragm; a dome-shaped sheet of muscle that separates the thoracic cavity from the abdomen. Its contraction and relaxation make breathing possible.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "phrenic nerves",
+    "pronunciation": "FREN-ick",
+    "definition": "Nerves that stimulate the diaphragm and cause it to contract.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "respiration",
+    "pronunciation": "",
+    "definition": "Breathing; the exchange of oxygen for carbon dioxide that is essential to life. A single respiration, or breath, consists of one inhalation and one exhalation.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "ventilation",
+    "pronunciation": "",
+    "definition": "Another word for moving air in and out of the lungs.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "inhalation",
+    "pronunciation": "in-hah-LAY-shun",
+    "definition": "The act of taking in air as the diaphragm contracts and pulls downward, causing the thoracic cavity to expand and creating negative pressure that draws air into the lungs.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "exhalation",
+    "pronunciation": "ecks-hah-LAY-shun",
+    "definition": "The act of breathing out. As the diaphragm relaxes, it moves upward, causing the thoracic cavity to become narrower and creating positive pressure that forces air out of the lungs.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "external respiration",
+    "pronunciation": "",
+    "definition": "The act of bringing air in and out of the lungs from the outside environment and, in the process, exchanging oxygen for carbon dioxide.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "internal respiration",
+    "pronunciation": "",
+    "definition": "Also known as cellular respiration; the exchange of gases within the cells of the blood and tissues. Oxygen passes from the bloodstream into the cells, and the cells give off the waste product carbon dioxide, which passes into the bloodstream.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "respiratory therapist",
+    "pronunciation": "",
+    "definition": "A licensed medical professional who specializes in treating patients who are having difficulty breathing, both in hospital and outpatient settings. Abbreviated RT.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "thoracic surgeon",
+    "pronunciation": "",
+    "definition": "A physician who performs operations on the organs inside the thorax, or chest, including the heart, lungs, and esophagus.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "chronic bronchitis",
+    "pronunciation": "brong-KYE-tis",
+    "definition": "A disease in which the airways have become inflamed due to recurrent exposure to an inhaled irritant, usually cigarette smoke. Causes chronic coughing, difficulty getting air in and out of the lungs, and increased risk of bacterial lung infections.",
+    "breakdown_text": "bronch: bronchus ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "barrel chest",
+    "pronunciation": "",
+    "definition": "A slightly rounded shape of the chest resulting from chronic overinflation of the lungs in emphysema, in which the rib cage stays partially expanded all the time.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "wheezing",
+    "pronunciation": "",
+    "definition": "A breath sound caused by a partially obstructed airway.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "airway inflammation",
+    "pronunciation": "",
+    "definition": "The swelling and clogging of the bronchial tubes with mucus, usually occurring after the airway has been exposed to inhaled allergens.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "exercise-induced bronchoconstriction",
+    "pronunciation": "",
+    "definition": "The narrowing of the airways that develops after 5 to 15 minutes of physical exertion, usually triggered by the inhalation of cold, dry air.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "upper respiratory infection",
+    "pronunciation": "",
+    "definition": "Also known as URI or acute nasopharyngitis; terms used to describe the common cold. Can be caused by any one of 200 different viruses, the most common of which is the human rhinovirus.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "common cold",
+    "pronunciation": "",
+    "definition": "An upper respiratory infection caused by any one of 200 different viruses, the most common of which is the human rhinovirus.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "allergic rhinitis",
+    "pronunciation": "rye-NIGH-tis",
+    "definition": "Commonly referred to as an allergy; an allergic reaction to airborne allergens that causes an increased flow of mucus.",
+    "breakdown_text": "rhin: nose ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "nonallergic rhinitis",
+    "pronunciation": "",
+    "definition": "An inflammation of the lining of the nose caused by something other than an allergen, such as cold air, spicy food, or medication.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "stridor",
+    "pronunciation": "",
+    "definition": "A harsh, high-pitched sound caused by a blockage present when breathing in.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "influenza",
+    "pronunciation": "in-flew-EN-zah",
+    "definition": "Also known as the flu; an acute, highly contagious viral infection characterized by respiratory inflammation, fever, chills, and muscle pain. Spread by respiratory droplets and occurs most commonly in epidemics during the colder months.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "paroxysmal",
+    "pronunciation": "",
+    "definition": "Sudden or spasm-like.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "respiratory syncytial virus",
+    "pronunciation": "sin-SIH-shul",
+    "definition": "A common, highly contagious viral infection spread by respiratory droplets. Most infections are mild and similar to the common cold; however, it can cause bronchiolitis in younger children and infants, which may require hospitalization. Abbreviated RSV.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "bronchiolitis",
+    "pronunciation": "",
+    "definition": "Inflammation of the bronchioles.",
+    "breakdown_text": "bronchiol: bronchioles ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "rhinorrhea",
+    "pronunciation": "rye-noh-REE-ah",
+    "definition": "Also known as a runny nose; the watery flow of mucus from the nose.",
+    "breakdown_text": "rhin/o: nose ; -rrhea: abnormal discharge"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "strep throat",
+    "pronunciation": "",
+    "definition": "Pharyngitis caused by the bacteria Streptococcus.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "voice disorders",
+    "pronunciation": "",
+    "definition": "Disorders of the voice, including aphonia, dysphonia, and laryngitis.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "acute bronchitis",
+    "pronunciation": "",
+    "definition": "Also known as a chest cold; inflammation of the bronchi usually caused by a viral infection. Characterized by a productive cough, shortness of breath, and often wheezing and a low-grade fever.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "productive cough",
+    "pronunciation": "",
+    "definition": "A cough that brings up mucus or phlegm.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "acute respiratory distress syndrome",
+    "pronunciation": "",
+    "definition": "A life-threatening lung condition usually caused by trauma, pneumonia, smoke or fumes, inhaled vomit, or sepsis, in which inflammation in the lungs and fluid in the alveoli lead to low levels of oxygen in the blood. Abbreviated ARDS.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "sepsis",
+    "pronunciation": "",
+    "definition": "A systemic bacterial infection.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "granuloma",
+    "pronunciation": "gran-you-LOH-mah",
+    "definition": "A general term used to describe a localized area of inflammation, usually in the lungs. Most commonly caused by infections such as tuberculosis.",
+    "breakdown_text": "granul: granular ; -oma: tumor"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "edema",
+    "pronunciation": "",
+    "definition": "Swelling.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "pulmonary embolism",
+    "pronunciation": "EM-boh-lizm",
+    "definition": "The sudden blockage of a pulmonary artery by foreign matter or by an embolus that has formed in the leg or pelvic region.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "latent",
+    "pronunciation": "",
+    "definition": "Present but not active.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "drug-resistant tuberculosis",
+    "pronunciation": "",
+    "definition": "A dangerous form of the disease that can occur when the prescribed drug regimen is not strictly followed, rendering the treatment insufficient to destroy all the bacteria.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "bronchopneumonia",
+    "pronunciation": "brong-koh-new-MOH-nee-ah",
+    "definition": "A localized form of pneumonia that often affects the bronchioles. Often leads to lobar pneumonia.",
+    "breakdown_text": "bronch/o: bronchial tubes ; pneumon: lung ; -ia: abnormal condition"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "lobar pneumonia",
+    "pronunciation": "",
+    "definition": "Pneumonia that affects larger areas of the lungs, often including one or more sections, or lobes, of a lung.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "double pneumonia",
+    "pronunciation": "",
+    "definition": "Lobar pneumonia involving both lungs; usually a form of bacterial pneumonia.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "aspiration pneumonia",
+    "pronunciation": "ass-pih-RAY-shun",
+    "definition": "Pneumonia that can occur when a foreign substance, such as vomit, is inhaled into the lungs. Aspiration means inhaling or drawing a foreign substance into the upper respiratory tract.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "community-acquired pneumonia",
+    "pronunciation": "",
+    "definition": "Any pneumonia that results from contagious infection outside of a hospital or clinic. Most commonly bacterial, but can also be caused by a virus or fungi; the most common form of pneumonia. Abbreviated CAP.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "bacterial pneumonia",
+    "pronunciation": "",
+    "definition": "Pneumonia most commonly caused by Streptococcus pneumoniae. Pneumococcal pneumonia is the only form of pneumonia that can be prevented through vaccination.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "hospital-acquired pneumonia",
+    "pronunciation": "",
+    "definition": "Also known as nosocomial pneumonia; pneumonia contracted during a stay in the hospital when a patient's defenses are impaired. Patients on a ventilator are particularly at risk. Nosocomial means hospital-acquired.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "mycoplasma pneumonia",
+    "pronunciation": "",
+    "definition": "A milder but longer-lasting form of pneumonia caused by the bacteria Mycoplasma pneumoniae; often called walking pneumonia because the patient is not usually bedridden.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "pneumocystis pneumonia",
+    "pronunciation": "new-moh-SIS-tis new-MOH-nee-ah",
+    "definition": "An opportunistic infection caused by the yeast-like fungus Pneumocystis jirovecii. Abbreviated PCP or PJP.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "viral pneumonia",
+    "pronunciation": "",
+    "definition": "Pneumonia that can be caused by several different types of viruses and accounts for approximately a third of all pneumonias.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "interstitial lung disease",
+    "pronunciation": "in-ter-STISH-al",
+    "definition": "A group of almost 200 disorders that cause inflammation and scarring of the alveoli and their supporting structures, leading to a reduction of oxygen being transferred to the blood. Interstitial means relating to spaces within or around a tissue or an organ.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "pulmonary fibrosis",
+    "pronunciation": "figh-BROH-sis",
+    "definition": "The progressive formation of scar tissue in the lung, resulting in decreased lung capacity and increased difficulty breathing.",
+    "breakdown_text": "fibros: fibrous connective tissue ; -is: noun ending"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "fibrosis",
+    "pronunciation": "",
+    "definition": "A condition in which normal tissue is replaced by fibrotic (hardened) tissue.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "silicosis",
+    "pronunciation": "sill-ih-KOH-sis",
+    "definition": "A disease caused by inhaling silica dust in the lungs; usually occurs after working in occupations including foundry work, quarrying, ceramics, glasswork, and sandblasting.",
+    "breakdown_text": "silic: glass ; -osis: abnormal condition or disease"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "lung cancer",
+    "pronunciation": "",
+    "definition": "A condition in which cancer cells form in the tissues of the lung; the leading cause of cancer death in the United States. Important risk factors are smoking and inhaling secondhand smoke.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "breathing disorders",
+    "pronunciation": "",
+    "definition": "The general term describing abnormal changes in the rate or depth of breathing.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "eupnea",
+    "pronunciation": "youp-NEE-ah",
+    "definition": "Easy or normal breathing; the baseline for judging some breathing disorders. Eupnea is the opposite of apnea.",
+    "breakdown_text": "eu-: good ; -pnea: breathing"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "apnea",
+    "pronunciation": "AP-nee-ah",
+    "definition": "The temporary absence of spontaneous respiration; a common respiratory problem in premature infants. Apnea is the opposite of eupnea.",
+    "breakdown_text": "a-: without ; -pnea: breathing"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "hyperventilation",
+    "pronunciation": "high-per-ven-tih-LAY-shun",
+    "definition": "An abnormally rapid rate of deep respiration that is usually associated with anxiety. Decreases the level of carbon dioxide in the blood, causing dizziness and tingling in the hands and feet.",
+    "breakdown_text": "hyper-: excessive ; -ventilation: breathing"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "sleep-related breathing disorders",
+    "pronunciation": "",
+    "definition": "Disruptions of normal breathing patterns that only occur during sleep and are associated with higher risks of cardiovascular disease and strokes.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "obstructive sleep apnea",
+    "pronunciation": "",
+    "definition": "Sleep apnea caused by the muscles at the back of the throat relaxing and blocking the airway; often accompanied by periods of hypopnea, in which the airway is partially blocked. Abbreviated OSA.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "snoring",
+    "pronunciation": "",
+    "definition": "Noisy breathing caused by vibration of the soft palate; can be a symptom of sleep apnea.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "expectoration",
+    "pronunciation": "eck-SPEK-toh-ray-shun",
+    "definition": "The act of coughing up and spitting out saliva, mucus, or other body fluid.",
+    "breakdown_text": "expector: to cough up ; -ation: state or action"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "airway obstruction",
+    "pronunciation": "",
+    "definition": "Commonly known as choking; occurs when food or a foreign object partially or completely blocks the airway and prevents air from entering or leaving the lungs. A life-threatening emergency requiring immediate action through abdominal thrusts (Heimlich maneuver) on children or adults; back blows are performed on choking infants.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "altitude sickness",
+    "pronunciation": "",
+    "definition": "A condition brought on by the lower air pressure and decreased oxygen level in the air at higher altitudes, usually above 8,000 feet. Severe altitude sickness can cause high-altitude pulmonary edema, which can be life threatening.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "asphyxiation",
+    "pronunciation": "",
+    "definition": "A state of asphyxia or suffocation. Oxygen levels in the blood drop quickly and carbon dioxide levels rise; unless breathing is restored within a few minutes, death or serious brain damage follows.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "carbon monoxide poisoning",
+    "pronunciation": "",
+    "definition": "A potentially fatal condition in which exposure to carbon monoxide (CO) from fire or poorly vented heaters in an enclosed area causes high concentrations of CO in the bloodstream, interfering with the body's ability to utilize oxygen. Treated with oxygen therapy, including hyperbaric oxygen therapy.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "respiratory failure",
+    "pronunciation": "",
+    "definition": "Also known as respiratory acidosis; a medical emergency in which the level of oxygen in the blood becomes dangerously low (hypoxemia) or the level of carbon dioxide becomes dangerously high (hypercapnia).",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "smoke inhalation",
+    "pronunciation": "",
+    "definition": "Chemical damage and burns to the lungs caused by breathing in hot smoke containing products of combustion, including carbon monoxide.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "sudden infant death syndrome",
+    "pronunciation": "",
+    "definition": "The sudden and unexplainable death of an apparently healthy sleeping infant between the ages of 1 month and 1 year. Abbreviated SIDS.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "respiratory rate",
+    "pronunciation": "",
+    "definition": "An important vital sign; a count of the number of breaths (one inhalation and one exhalation) per minute.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "chest x-ray",
+    "pronunciation": "",
+    "definition": "A valuable tool for diagnosing pneumonia, lung cancer, pneumothorax, pleural effusion, tuberculosis, and emphysema. Abbreviated CXR.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "bronchoscope",
+    "pronunciation": "",
+    "definition": "A flexible, fiber-optic device that is passed through the nose or mouth and down the airways; can also be used for operative procedures such as tissue repair or removal of a foreign object.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "indirect laryngoscopy",
+    "pronunciation": "",
+    "definition": "A simpler version of laryngoscopy in which the larynx is viewed by shining a light on an angled mirror held at the back of the soft palate.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "peak flow meter",
+    "pronunciation": "",
+    "definition": "An inexpensive handheld device used by asthma patients to measure air flow out of the lungs, revealing any narrowing of the airways in advance of an asthma attack.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "peak expiratory flow",
+    "pronunciation": "",
+    "definition": "A person's highest number on a peak flow meter. Abbreviated PEF.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "pulmonary function tests",
+    "pronunciation": "",
+    "definition": "A group of tests that measure volume and flow of air by using a spirometer, measured against a norm for the individual's age, height, and sex. Abbreviated PFTs.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "incentive spirometer",
+    "pronunciation": "",
+    "definition": "A device used to help patients who have recently had surgery keep their lungs healthy during recovery.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "sputum cytology",
+    "pronunciation": "",
+    "definition": "A procedure in which a sample of mucus is coughed up from the lungs and then examined under a microscope to detect cancer cells.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "sputum culture & sensitivity",
+    "pronunciation": "",
+    "definition": "A test in which a sample of mucus coughed up from the lungs is monitored for bacterial growth; if bacteria grows, it is tested for sensitivity or resistance to different antibiotics. Used to diagnose specific types of bacterial pneumonia and determine the most effective treatment.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "sputum",
+    "pronunciation": "SPYOU-tum",
+    "definition": "Phlegm ejected through the mouth that can be examined for diagnostic purposes.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "phlegm",
+    "pronunciation": "FLEM",
+    "definition": "Thick mucus secreted by the tissues lining the respiratory passages.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "tuberculin skin testing",
+    "pronunciation": "",
+    "definition": "Also known as Mantoux PPD skin test; a screening test for tuberculosis in which a very small amount of tuberculin Purified Protein Derivative is injected just under the top layer of the skin on the forearm. The site is checked for a reaction 48 to 72 hours later.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "decongestant",
+    "pronunciation": "",
+    "definition": "Also known as a nasal decongestant; administered orally or intranasally to relieve nasal congestion from allergies or illness.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "expectorant",
+    "pronunciation": "",
+    "definition": "An oral medication that makes it easier to cough up mucus by making it thinner and less viscous.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "rescue medications",
+    "pronunciation": "",
+    "definition": "Short-acting bronchodilators that patients with asthma use as needed.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "controller medicines",
+    "pronunciation": "",
+    "definition": "Long-acting medications, such as inhaled corticosteroids, taken daily to prevent asthma attacks by helping control inflammation and stopping the airways from reacting to the factors that trigger the asthma.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "metered-dose inhaler",
+    "pronunciation": "",
+    "definition": "A device that administers a specific amount of a medication such as a bronchodilator in aerosol form, using a gas propellant mixed with the medicine to push it into the lungs. Abbreviated MDI.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "intubation",
+    "pronunciation": "",
+    "definition": "The insertion of a tube, usually for the passage of air or fluids.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "functional endoscopic sinus surgery",
+    "pronunciation": "",
+    "definition": "A procedure performed using an endoscope in which chronic sinusitis is treated by enlarging the opening between the nose and sinus. Abbreviated FESS.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "laryngotomy",
+    "pronunciation": "lar-ing-OT-oh-mee",
+    "definition": "A surgical incision into the larynx, performed when the upper part of the airway is obstructed.",
+    "breakdown_text": "laryng: larynx ; -otomy: surgical incision"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "septoplasty",
+    "pronunciation": "SEP-toh-plas-tee",
+    "definition": "The surgical repair of parts of the nasal septum, usually to correct a deviated septum.",
+    "breakdown_text": "sept/o: septum ; -plasty: surgical repair"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "deviated septum",
+    "pronunciation": "",
+    "definition": "The displacement of the nasal septum that may cause difficulty breathing through one or both nostrils. Can be congenital or caused by an injury, and increases the likelihood of recurrent sinus infections.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "stoma",
+    "pronunciation": "",
+    "definition": "A surgically created opening on a body surface.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "lobectomy",
+    "pronunciation": "loh-BECK-toh-mee",
+    "definition": "The surgical removal of a lobe of an organ, usually the lung, brain, liver, or thyroid gland.",
+    "breakdown_text": "lob: lobe ; -ectomy: surgical removal"
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "wedge resection",
+    "pronunciation": "",
+    "definition": "A surgery in which a small wedge-shaped piece of cancerous lung tissue is removed, along with a margin of healthy tissue around the cancer. Removes less tissue than a lobectomy.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "video-assisted thoracic surgery",
+    "pronunciation": "",
+    "definition": "The use of a thoracoscope to view the inside of the pleural cavity through very small incisions. Used to remove small sections of cancerous tissue, obtain biopsy specimens, and treat repeatedly collapsing lungs. Abbreviated VATS.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "thoracoscope",
+    "pronunciation": "",
+    "definition": "A specialized endoscope used for treating the thorax.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "CPAP machine",
+    "pronunciation": "",
+    "definition": "Continuous Positive Airway Pressure; a noninvasive ventilation device used in the treatment of sleep apnea. A face mask is connected to a pump that creates constant air pressure in the nasal passages, holding the airway open. Does not cure sleep apnea but reduces snoring and prevents dangerous apnea disturbances.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "BiPAP machine",
+    "pronunciation": "",
+    "definition": "Bilevel Positive Airway Pressure; like a CPAP machine but can be set at a higher pressure for inhaling and a lower pressure for exhaling. Used for sleep apnea in patients with neuromuscular diseases or those who find the CPAP machine uncomfortable.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "Ambu bag",
+    "pronunciation": "",
+    "definition": "Also known as BVM (Bag Valve Mask); an emergency resuscitator used to assist ventilation in which a flexible air chamber is squeezed to force air through a face mask into the lungs of the patient, a process referred to as bagging.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "ventilator",
+    "pronunciation": "",
+    "definition": "A mechanical device for artificial respiration used to replace or supplement the patient's natural breathing function. Forces air into the lungs; exhalation takes place passively as the lungs contract.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "supplemental oxygen",
+    "pronunciation": "",
+    "definition": "Oxygen administered when the patient is unable to maintain an adequate blood oxygen saturation level from breathing normal air, using a compressor either flowing into a hood or tent or delivered directly to the patient.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "nasal cannula",
+    "pronunciation": "",
+    "definition": "A small tube that divides into two nasal prongs, used to deliver supplemental oxygen.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "rebreather mask",
+    "pronunciation": "",
+    "definition": "A mask that allows the exhaled breath to be partially reused, delivering up to 60% oxygen.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "non-rebreather mask",
+    "pronunciation": "",
+    "definition": "A mask that allows higher levels of oxygen to be added to the air taken in by the patient.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 7,
+    "system_group": "Respiratory System",
+    "term": "hyperbaric oxygen therapy",
+    "pronunciation": "high-per-BARE-ik",
+    "definition": "Therapy that involves breathing pure oxygen in a special chamber that allows air pressure to be raised up to three times higher than normal, so the lungs and bloodstream absorb more oxygen to promote healing and fight infection. Also used for carbon monoxide poisoning. Abbreviated HBOT.",
+    "breakdown_text": ""
+  }
+]

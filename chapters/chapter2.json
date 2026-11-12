@@ -1,0 +1,650 @@
+[
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "aden/o",
+    "pronunciation": "",
+    "definition": "Gland.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "adip/o",
+    "pronunciation": "",
+    "definition": "Fat.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "anter/o",
+    "pronunciation": "",
+    "definition": "Before, front.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "caud/o",
+    "pronunciation": "",
+    "definition": "Lower part of body, tail.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "cephal/o",
+    "pronunciation": "",
+    "definition": "Head.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "cyt/o",
+    "pronunciation": "",
+    "definition": "Cell.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "-cyte",
+    "pronunciation": "",
+    "definition": "Cell.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "end-",
+    "pronunciation": "",
+    "definition": "In, within, inside.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "endo-",
+    "pronunciation": "",
+    "definition": "In, within, inside.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "exo-",
+    "pronunciation": "",
+    "definition": "Out of, outside, away from.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "hist/o",
+    "pronunciation": "",
+    "definition": "Tissue.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "-ologist",
+    "pronunciation": "",
+    "definition": "Specialist.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "-ology",
+    "pronunciation": "",
+    "definition": "The science or study of.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "path/o",
+    "pronunciation": "",
+    "definition": "Disease, suffering, feeling, emotion.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "-pathy",
+    "pronunciation": "",
+    "definition": "Disease, suffering, feeling, emotion.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "plas/i",
+    "pronunciation": "",
+    "definition": "",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "plas/o",
+    "pronunciation": "",
+    "definition": "",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "-plasia",
+    "pronunciation": "",
+    "definition": "Development, growth, formation.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "poster/o",
+    "pronunciation": "",
+    "definition": "Behind, toward the back.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "-stasis",
+    "pronunciation": "",
+    "definition": "Control, maintenance of a constant level.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "-static",
+    "pronunciation": "",
+    "definition": "Control, maintenance of a constant level.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Abdominal cavity",
+    "pronunciation": "/ab-DOM-ih-nal/",
+    "definition": "Contains the major organs of digestion.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Adenocarcinoma",
+    "pronunciation": "/ad-eh-noh-kar-sih-NOH-mah/",
+    "definition": "A malignant tumor that originates in the glands and may spread to other parts of the body.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Adenoma",
+    "pronunciation": "/ad-eh-NOH-mah/",
+    "definition": "Benign tumor that starts in the epithelial tissue of a gland or gland-like structure.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Anaplasia",
+    "pronunciation": "/an-ah-PLAY-zee-ah/",
+    "definition": "A change in the structure of cells and in their orientation to each other.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Anatomy",
+    "pronunciation": "/ah-NAT-oh-mee/",
+    "definition": "The study of the structures of the body.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Anomaly",
+    "pronunciation": "/ah-NOM-ah-lee/",
+    "definition": "A deviation from what is regarded as normal.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Anterior",
+    "pronunciation": "/an-TEER-ee-or/",
+    "definition": "Situated in the front.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Aplasia",
+    "pronunciation": "/ah-PLAY-zee-ah/",
+    "definition": "The defective development, or the congenital absence, of an organ or tissue.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Atresia",
+    "pronunciation": "/ah-TREE-zee-ah/",
+    "definition": "Congenital absence or narrowing of a normal body opening or passage.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Autopsy",
+    "pronunciation": "/AW-top-see/",
+    "definition": "A postmortem examination.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Bloodborne transmission",
+    "pronunciation": "",
+    "definition": "The spread of pathogens through infected blood or other body fluids.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Caudal",
+    "pronunciation": "/KAW-dal/",
+    "definition": "Toward the lower part of the body.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Cephalic",
+    "pronunciation": "/seh-FAL-ick/",
+    "definition": "Toward the head.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Chromosome",
+    "pronunciation": "/KROH-moh-sohme/",
+    "definition": "A genetic structure located within the nucleus of each cell.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Communicable disease",
+    "pronunciation": "/kuh-MEW-nih-kuh-bul/",
+    "definition": "Any condition that is transmitted from one person to another either directly or by indirect contact with contaminated objects.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Congenital disorder",
+    "pronunciation": "/kon-JEN-ih-tahl/",
+    "definition": "An abnormal condition that exists at the time of birth.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Cytoplasm",
+    "pronunciation": "/SIGH-toh-plazm/",
+    "definition": "The material within the cell membrane that is not part of the nucleus.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Distal",
+    "pronunciation": "/DIS-tal/",
+    "definition": "Situated farthest from the midline or beginning of a body structure.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Dorsal",
+    "pronunciation": "/DOR-sal/",
+    "definition": "The back of the organ or body.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Dysplasia",
+    "pronunciation": "/dis-PLAY-see-ah/",
+    "definition": "“the abnormal development or growth of cells, or the presence of abnormal cells within a type of tissue.”",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Endemic",
+    "pronunciation": "/en-DEM-ick/",
+    "definition": "The ongoing presence of a disease within a population, group, or area.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Endocrine glands",
+    "pronunciation": "/EN-doh-krin/",
+    "definition": "Produce hormones, do not have ducts.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Epidemic",
+    "pronunciation": "/ep-ih-DEM-ick/",
+    "definition": "A sudden and widespread outbreak of a disease within a specific population group or area.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Epigastric region",
+    "pronunciation": "/ep-ih-GAS-trick/",
+    "definition": "Located above the stomach.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Etiology",
+    "pronunciation": "/ee-tee-OL-oh-jee/",
+    "definition": "The study of the causes of diseases or abnormal conditions.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Exocrine glands",
+    "pronunciation": "/ECK-soh-krin/",
+    "definition": "Secrete chemical substances into ducts that lead either to other organs or out of the body.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Functional disorder",
+    "pronunciation": "",
+    "definition": "A condition that produced physical symptoms for which no disease or other organic cause can be identified.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Genetic disorder",
+    "pronunciation": "",
+    "definition": "A pathological condition caused by an absent or defective gene.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Geriatrician",
+    "pronunciation": "/jer-ee-ah-TRISH-un/",
+    "definition": "A physician who specializes in the care of older people.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Hemophilia",
+    "pronunciation": "/hee-moh-FILL-ee-ah/",
+    "definition": "A hereditary bleeding disorder in which a blood-clotting factor is missing.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Histology",
+    "pronunciation": "/hiss-TOL-oh-jee/",
+    "definition": "The microscopic study of the structure, composition, and function of tissues.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Homeostasis",
+    "pronunciation": "/hoh-mee-oh-STAY-sis/",
+    "definition": "The processes through which the body maintains a constant internal environment.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Hyperplasia",
+    "pronunciation": "/high-per-PLAY-zhee-ah/",
+    "definition": "An increase in the number of cells in a tissue or organ.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Hypertrophy",
+    "pronunciation": "/high-PER-troh-fee/",
+    "definition": "A general increase in the bulk of a body part or organ due to an increase in the size, but not the number, of cells in the tissues.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Hypogastric region",
+    "pronunciation": "/high-poh-GAS-trick/",
+    "definition": "Located below the stomach.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Hypoplasia",
+    "pronunciation": "/high-poh-PLAY-zee-ah/",
+    "definition": "The underdevelopment of an organ or tissue, usually due to a deficiency in the number of cells.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Iatrogenic illness",
+    "pronunciation": "/eye-at-roh-JEN-ick/",
+    "definition": "An unfavorable response due to prescribed medical treatment.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Idiopathic disease",
+    "pronunciation": "/id-ee-oh-PATH-ick/",
+    "definition": "Any disease without a known cause.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Infectious disease",
+    "pronunciation": "/in-FECK-shus/",
+    "definition": "An illness caused by living pathogenic organisms such as bacteria and viruses.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Inguinal",
+    "pronunciation": "/ING-gwih-nal/",
+    "definition": "Relating to the groin, refers to the entire lower area of the abdomen.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Medial",
+    "pronunciation": "/MEE-dee-al/",
+    "definition": "The direction toward, or, nearer the midline.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Mesentery",
+    "pronunciation": "/MESS-en-terr-ee/",
+    "definition": "A fused double layer of the parietal peritoneum that attaches parts of the intestine to the interior abdominal wall.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Midsagittal plane",
+    "pronunciation": "/mid-SADJ-ih-tal/",
+    "definition": "Also known as the midline, the sagittal plane that divides the body into equal left and right halves.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Nosocomial infection",
+    "pronunciation": "/nahs-oh-KOH-mee-al/",
+    "definition": "A disease acquired in a hospital or clinical setting.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Pandemic",
+    "pronunciation": "/pan-DEM-ick/",
+    "definition": "An outbreak of a disease occurring over a large geographic area, sometimes even worldwide.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Pathology",
+    "pronunciation": "/pah-THOL-oh-jee/",
+    "definition": "The study of disease.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Pelvic cavity",
+    "pronunciation": "/PEL-vick/",
+    "definition": "The space formed by the hip bones and contains the organs of the reproductive and excretory systems.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Peritoneum",
+    "pronunciation": "/pehr-ih-toh-NEE-um/",
+    "definition": "A multilayered membrane that protects and holds the organs in place within the abdominal cavity.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Peritonitis",
+    "pronunciation": "/pehr-ih-toh-NIGH-tis/",
+    "definition": "Inflammation of the peritoneum.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Physiology",
+    "pronunciation": "/fiz-ee-OL-oh-jee/",
+    "definition": "The study of the functions of the structures of the body.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Posterior",
+    "pronunciation": "/pos-TEER-ee-or/",
+    "definition": "Situated in the back or on the back part of an organ.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Proximal",
+    "pronunciation": "/PROCK-sih-mal/",
+    "definition": "Situated nearest the midline or beginning of a body structure.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Retroperitoneal",
+    "pronunciation": "/ret-roh-pehr-ih-toh-NEE-al/",
+    "definition": "Located behind the peritoneum.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Stem cells",
+    "pronunciation": "",
+    "definition": "Unspecialized cells that are able to renew themselves for long periods of time by cell division.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Syndrome",
+    "pronunciation": "/SIN-drohm/",
+    "definition": "A set of signs and symptoms that occur together as part of a specific disease process.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Thoracic cavity",
+    "pronunciation": "/thoh-RAS-ick/",
+    "definition": "Also known as the chest cavity or thorax; surrounds and protects the heart and lungs.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Transverse plane",
+    "pronunciation": "/trans-VERSE/",
+    "definition": "A horizontal plane that divides the body into superior (upper) and inferior (lower) portions.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Umbilicus",
+    "pronunciation": "/um-BILL-ih-kus/",
+    "definition": "Commonly known as the belly button or navel, this pit in the center of the abdominal wall marks the point where the umbilical cord was attached before birth.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Vector-borne transmission",
+    "pronunciation": "",
+    "definition": "Is the spread of certain disease through blood-sucking vectors.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 2,
+    "system_group": "The Human Body",
+    "term": "Ventral",
+    "pronunciation": "/VEN-tral/",
+    "definition": "Refers to the front, or belly side, of the organ or body.",
+    "breakdown_text": ""
+  }
+]
