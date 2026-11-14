@@ -1,0 +1,2274 @@
+[
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "lymph/o",
+    "pronunciation": "",
+    "definition": "Lymph, lymphatic tissue. Lymph is the fluid that removes cellular waste products, pathogens, and dead blood cells from the tissues.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "lymphangi/o",
+    "pronunciation": "",
+    "definition": "Lymph vessel. Related structures are the capillaries, vessels, and ducts that return lymph from the tissues to the venous bloodstream.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "lymphaden/o",
+    "pronunciation": "",
+    "definition": "Lymph node or gland. Lymph nodes are bean-shaped structures of the lymphatic system where pathogens and other harmful substances are filtered from the lymph by specialized cells of the immune system.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "tonsill/o",
+    "pronunciation": "",
+    "definition": "Tonsils. Tonsils are lymphoid structures of the lymphatic system that protect the entry to the respiratory system.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "adenoid/o",
+    "pronunciation": "",
+    "definition": "Adenoids. Adenoids are lymphoid structures of the lymphatic system that protect the entry to the respiratory system.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "splen/o",
+    "pronunciation": "",
+    "definition": "Spleen. This combining form is spelled with only one e. The spleen is a sac-like mass of lymphoid tissue with protective roles in both the immune and lymphatic systems.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "myel/o",
+    "pronunciation": "",
+    "definition": "Bone marrow. Bone marrow produces lymphocytes, which are specialized leukocytes (white blood cells). Myel/o also means spinal cord (see Chapter 10).",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "lymphocyt/o",
+    "pronunciation": "",
+    "definition": "Lymphocytes. Lymphocytes are specialized leukocytes that play important roles in immune reactions.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "thym/o",
+    "pronunciation": "",
+    "definition": "Thymus. The thymus is a gland located in the upper chest with specialized roles in both the lymphatic and immune systems.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "anti-",
+    "pronunciation": "",
+    "definition": "Against.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "carcin/o",
+    "pronunciation": "",
+    "definition": "Cancerous.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "immun/o",
+    "pronunciation": "",
+    "definition": "Immune, protection, safe.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "neo-",
+    "pronunciation": "",
+    "definition": "New, strange.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "ne/o",
+    "pronunciation": "",
+    "definition": "New, strange.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "-oma",
+    "pronunciation": "",
+    "definition": "Tumor, neoplasm.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "onc/o",
+    "pronunciation": "",
+    "definition": "Tumor.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "phag/o",
+    "pronunciation": "",
+    "definition": "Eat, swallow.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "-plasm",
+    "pronunciation": "",
+    "definition": "Formative material of cells.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "sarc/o",
+    "pronunciation": "",
+    "definition": "Flesh, connective tissue.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "-tic",
+    "pronunciation": "",
+    "definition": "Pertaining to.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "tox/o",
+    "pronunciation": "",
+    "definition": "Poison, poisonous.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "cervic",
+    "pronunciation": "",
+    "definition": "Neck.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "-al",
+    "pronunciation": "",
+    "definition": "Pertaining to.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "axill",
+    "pronunciation": "",
+    "definition": "Armpit.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "-ary",
+    "pronunciation": "",
+    "definition": "Pertaining to.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "inguin",
+    "pronunciation": "",
+    "definition": "Groin.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "-cytes",
+    "pronunciation": "",
+    "definition": "Cells.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "-cyte",
+    "pronunciation": "",
+    "definition": "Cell.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "hem/o",
+    "pronunciation": "",
+    "definition": "Blood.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "-lytic",
+    "pronunciation": "",
+    "definition": "To destroy.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "macro-",
+    "pronunciation": "",
+    "definition": "Large.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "-phage",
+    "pronunciation": "",
+    "definition": "A cell that eats.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "-ologist",
+    "pronunciation": "",
+    "definition": "Specialist.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "-itis",
+    "pronunciation": "",
+    "definition": "Inflammation.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "-pathy",
+    "pronunciation": "",
+    "definition": "Disease.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "angi",
+    "pronunciation": "",
+    "definition": "Lymph vessel.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "-megaly",
+    "pronunciation": "",
+    "definition": "Enlargement.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "-edema",
+    "pronunciation": "",
+    "definition": "Swelling.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "-therapy",
+    "pronunciation": "",
+    "definition": "Treatment.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "-ic",
+    "pronunciation": "",
+    "definition": "Pertaining to.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "cyt/o",
+    "pronunciation": "",
+    "definition": "Cell.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "megal/o",
+    "pronunciation": "",
+    "definition": "Large.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "vir",
+    "pronunciation": "",
+    "definition": "Virus.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "-us",
+    "pronunciation": "",
+    "definition": "A singular noun ending.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "staphyl/o",
+    "pronunciation": "",
+    "definition": "Clusters or bunches of grapes.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "-cocci",
+    "pronunciation": "",
+    "definition": "Spherical bacteria.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "strept/o",
+    "pronunciation": "",
+    "definition": "Twisted chain.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "bio",
+    "pronunciation": "",
+    "definition": "Life.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "bacteri",
+    "pronunciation": "",
+    "definition": "Bacteria.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "bacteri/o",
+    "pronunciation": "",
+    "definition": "Bacteria.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "-cide",
+    "pronunciation": "",
+    "definition": "Causing death.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "-static",
+    "pronunciation": "",
+    "definition": "Causing control.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "fung",
+    "pronunciation": "",
+    "definition": "Fungus.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "-ology",
+    "pronunciation": "",
+    "definition": "Study of.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "-genesis",
+    "pronunciation": "",
+    "definition": "Reproduction.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "my",
+    "pronunciation": "",
+    "definition": "Muscle.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "my/o",
+    "pronunciation": "",
+    "definition": "Muscle.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "aden/o",
+    "pronunciation": "",
+    "definition": "Gland.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "oste/o",
+    "pronunciation": "",
+    "definition": "Bone.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "mamm/o",
+    "pronunciation": "",
+    "definition": "Breast.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "-graphy",
+    "pronunciation": "",
+    "definition": "The process of producing a picture or record.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "bi-",
+    "pronunciation": "",
+    "definition": "Pertaining to life.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "-opsy",
+    "pronunciation": "",
+    "definition": "View of.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "mast",
+    "pronunciation": "",
+    "definition": "Breast.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "-ectomy",
+    "pronunciation": "",
+    "definition": "Surgical removal.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "plast",
+    "pronunciation": "",
+    "definition": "Growth or formation.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "brachy-",
+    "pronunciation": "",
+    "definition": "Short.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "tele-",
+    "pronunciation": "",
+    "definition": "Distant.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "tom/o",
+    "pronunciation": "",
+    "definition": "Slice.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Acquired immunodeficiency syndrome",
+    "pronunciation": "/im-you-noh-deh-FISH-en-see/",
+    "definition": "The most advanced and fatal stage of an HIV infection. Commonly known as AIDS.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Allergen",
+    "pronunciation": "/AL-er-jen/",
+    "definition": "A substance that produces an allergic reaction in an individual.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Anaphylaxis",
+    "pronunciation": "/an-ah-fih-LACK-sis/",
+    "definition": "A severe, systemic response to an allergen. Also described as a systemic reaction or anaphylactic shock.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Antibiotics",
+    "pronunciation": "",
+    "definition": "Medication capable of inhibiting the growth of or killing pathogenic bacteria. Inhibit means to slow the growth or development. Antibiotics are effective against most bacterial infections but not against viral infections.",
+    "breakdown_text": "anti-: against ; bio: life ; -tic: pertaining to"
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Antibody",
+    "pronunciation": "/AN-tih-bod-ee/",
+    "definition": "A disease-fighting protein created by the immune system in response to the presence of a specific antigen. The terms antibody and immunoglobulin are often used interchangeably.",
+    "breakdown_text": "anti-: against"
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Antifungal",
+    "pronunciation": "/an-tih-FUNG-gul/",
+    "definition": "An agent that destroys or inhibits the growth of fungi. Also known as an antimycotic. Lotrimin is an example of a topical antifungal.",
+    "breakdown_text": "anti-: against ; fung: fungus ; -al: pertaining to"
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Antigen",
+    "pronunciation": "/AN-tih-jen/",
+    "definition": "Any substance that the body regards as being foreign. This includes viruses, bacteria, toxins, and transplanted tissues.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Antigen–antibody reaction",
+    "pronunciation": "",
+    "definition": "Binding antigens to antibodies. This reaction labels a potentially dangerous antigen so it can be recognized and destroyed by other cells of the immune system. Also known as the immune reaction.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Autoimmune disorder",
+    "pronunciation": "/aw-toh-ih-MYOUN/",
+    "definition": "Any of a large group of diseases characterized by a condition in which the immune system produces antibodies against its own tissues, mistaking healthy cells, tissues, or organs for antigens. Also known as an autoimmune disease.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Bacilli",
+    "pronunciation": "/bah-SILL-eye/",
+    "definition": "Rod-shaped, spore-forming bacteria. Bacilli means rod-shaped. The singular is bacillus.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Bacteria",
+    "pronunciation": "/back-TEER-ee-ah/",
+    "definition": "A group of one-celled microscopic organisms, some of which are pathogenic. The singular is bacterium.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Benign",
+    "pronunciation": "/bee-NINE/",
+    "definition": "Something that is not life-threatening.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Candidiasis",
+    "pronunciation": "/kan-dih-DYE-ah-sis/",
+    "definition": "A yeast infection caused by the pathogenic yeast Candida albicans.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Carcinoma",
+    "pronunciation": "/kar-sih-NOH-mah/",
+    "definition": "A malignant tumor that occurs in epithelial tissue.",
+    "breakdown_text": "carcin: cancer ; -oma: tumor"
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Carcinoma in situ",
+    "pronunciation": "/kar-sih-NOH-mah in SIGH-too/",
+    "definition": "A malignant tumor in its original position that has not yet disturbed or invaded the surrounding tissues. In situ means in the place where the cancer first occurred.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Complement system",
+    "pronunciation": "/KOM-pleh-ment/",
+    "definition": "A group of proteins that normally circulate in the blood in an inactive form. When needed, these cells complement the ability of antibodies to ward off pathogens by combining with them to dissolve and remove pathogenic bacteria and other foreign cells. Complement means to complete or make whole.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "COVID-19",
+    "pronunciation": "/KOH-vid/",
+    "definition": "A highly contagious viral infection caused by the SARS-CoV-2 virus. The name comes from COronaVIrus Disease 2019.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Cytokines",
+    "pronunciation": "/SIGH-toh-kyens/",
+    "definition": "A group of proteins such as interferons and interleukins released primarily by the T cells. These cells act as intracellular signals to begin the immune response.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Cytomegalovirus",
+    "pronunciation": "/sigh-toh-meg-ah-loh-VYE-rus/",
+    "definition": "A type of herpesvirus found in most body fluids. Commonly abbreviated CMV.",
+    "breakdown_text": "cyt/o: cell ; megal/o: large ; vir: virus ; -us: a singular noun ending"
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Cytotoxic drug",
+    "pronunciation": "/sigh-toh-TOK-sick/",
+    "definition": "Medication that kills or damages cells. These drugs are used as immunosuppressants or as antineoplastics.",
+    "breakdown_text": "cyt/o: cell ; tox: poison ; -ic: pertaining to"
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Ductal carcinoma in situ",
+    "pronunciation": "/DUCK-tal kar-sih-NOH-mah in SIGH-too/",
+    "definition": "Breast cancer at its earliest stage before the abnormal cells have broken through the wall of the milk duct. Commonly abbreviated DCIS.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Hemolytic",
+    "pronunciation": "/hee-moh-LIT-ick/",
+    "definition": "Destroying worn-out erythrocytes (red blood cells) and releasing their hemoglobin for reuse.",
+    "breakdown_text": "hem/o: blood ; -lytic: to destroy"
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Herpes zoster",
+    "pronunciation": "/HER-peez ZOS-ter/",
+    "definition": "An acute viral infection characterized by painful skin eruptions that follow the underlying route of an inflamed nerve. Commonly known as shingles and abbreviated HZ.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Hodgkin’s lymphoma",
+    "pronunciation": "/HODJ-kinz lim-FOH-mah/",
+    "definition": "A cancer of the immune system distinguished by the presence of large, cancerous lymphocytes known as Reed-Sternberg cells. Also known as Hodgkin’s (or Hodgkin) disease and abbreviated HL.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Human immunodeficiency virus",
+    "pronunciation": "/im-you-noh-deh-FISH-en-see/",
+    "definition": "A bloodborne infection in which the virus damages or kills the T cells of the immune system, causing it to progressively fail, thus leaving the body at risk of developing many life-threatening opportunistic infections. Commonly known as HIV.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Immunoglobulins",
+    "pronunciation": "/im-you-noh-GLOB-you-lins/",
+    "definition": "Antibodies that bind with specific antigens in the antigen-antibody response.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Immunosuppressant",
+    "pronunciation": "/im-you-noh-soo-PRES-ant/",
+    "definition": "A substance that prevents or reduces the body’s normal immune response. This medication is administered to prevent the rejection of donor tissue and to depress autoimmune disorders.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Immunotherapy",
+    "pronunciation": "/im-you-noh-THER-ah-pee/",
+    "definition": "A disease treatment that involves either stimulating or repressing the immune system. Also called biological therapy.",
+    "breakdown_text": "immun/o: immune ; -therapy: treatment"
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Infiltrating ductal carcinoma",
+    "pronunciation": "/in-FILL-tray-ting DUK-tal kar-sih-NOH-mah/",
+    "definition": "Breast cancer that starts in the milk duct and invades the fatty breast tissue outside the duct. Commonly abbreviated IDC. This is the most common form of breast cancer.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Interferons",
+    "pronunciation": "/in-ter-FEAR-onz/",
+    "definition": "Produced in response to the presence of antigens, particularly viruses or tumor cells. Interferons activate the immune system, fight viruses by slowing or stopping their multiplication, and signal other cells to increase their defenses. Commonly abbreviated IFNs.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Lymphadenopathy",
+    "pronunciation": "/lim-fad-eh-NOP-ah-thee/",
+    "definition": "Any disease process affecting a lymph node or nodes.",
+    "breakdown_text": "lymphaden/o: lymph node ; -pathy: disease"
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Lymphangioma",
+    "pronunciation": "/lim-fan-jee-OH-mah/",
+    "definition": "A benign tumor formed by an abnormal collection of lymphatic vessels due to a congenital malformation of the lymphatic system.",
+    "breakdown_text": "lymph: lymph ; angi: lymph vessel ; -oma: tumor"
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Lymphedema",
+    "pronunciation": "/lim-feh-DEE-mah/",
+    "definition": "Swelling of the tissues due to an abnormal accumulation of lymph fluid within the tissues. Commonly abbreviated LE.",
+    "breakdown_text": "lymph: lymph ; -edema: swelling"
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Lymphocytes",
+    "pronunciation": "/LIM-foh-sights/",
+    "definition": "Also known as lymphoid cells. Leukocytes that are formed in bone marrow as stem cells and work together with the body’s organs to defend the body against antigens.",
+    "breakdown_text": "lymph/o: lymph ; -cytes: cells"
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Lymphoma",
+    "pronunciation": "/lim-FOH-mah/",
+    "definition": "A general term applied to malignancies affecting lymphoid tissues. This includes lymph nodes, the spleen, liver, and bone marrow.",
+    "breakdown_text": "lymph: lymph ; -oma: tumor"
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Lymphoscintigraphy",
+    "pronunciation": "/lim-foh-sin-TIH-grah-fee/",
+    "definition": "A diagnostic test that is performed to detect damage or malformations of the lymphatic vessels. A radioactive substance is injected into lymph ducts, and a scanner or probe is used to follow the movement of the substance on a computer screen.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Macrophage",
+    "pronunciation": "/MACK-roh-fayj/",
+    "definition": "A type of leukocyte that surrounds and kills invading cells. Macrophages also remove dead cells and stimulate the action of other immune cells.",
+    "breakdown_text": "macro-: large ; -phage: a cell that eats"
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Malaria",
+    "pronunciation": "/mah-LAY-ree-ah/",
+    "definition": "A disease caused by a parasite that lives in certain mosquitoes and is transferred to humans by the bite of an infected mosquito. Symptoms develop from 1 to 4 weeks after being infected and include fever, shaking, chills, headache, muscle aches, and fatigue.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Malignant",
+    "pronunciation": "/mah-LIG-nant/",
+    "definition": "Becoming progressively worse and life-threatening.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Mammography",
+    "pronunciation": "/mam-OG-rah-fee/",
+    "definition": "An x-ray examination of the breasts to detect the presence of tumors or precancerous cells. The resulting record is a mammogram.",
+    "breakdown_text": "mamm/o: breast ; -graphy: the process of producing a picture or record"
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Metastasis",
+    "pronunciation": "/meh-TAS-tah-sis/",
+    "definition": "Describes the process by which cancer is spread to a new site, and the term is also used to describe the tumor itself. The plural is metastases. Metastasis is a Latin word meaning transition.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Metastasize",
+    "pronunciation": "/meh-TAS-tah-sighz/",
+    "definition": "To spread from one place to another, as in cancer.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Myoma",
+    "pronunciation": "/my-OH-mah/",
+    "definition": "A benign tumor made up of muscle tissue.",
+    "breakdown_text": "my: muscle ; -oma: tumor"
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Myosarcoma",
+    "pronunciation": "/my-oh-sahr-KOH-mah/",
+    "definition": "A malignant tumor derived from muscle tissue.",
+    "breakdown_text": "my/o: muscle ; sarc: flesh ; -oma: tumor"
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Non-Hodgkin’s lymphoma",
+    "pronunciation": "/non-HODJ-kinz lim-FOH-mah/",
+    "definition": "The term used to describe all lymphomas other than Hodgkin’s lymphoma. Commonly abbreviated NHL. This is the more common type, and all types originate in the lymphocytes.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Opportunistic infection",
+    "pronunciation": "/op-ur-too-NIHS-tick/",
+    "definition": "Infection caused by a pathogen that does not normally produce an illness in healthy humans. However, when the host is debilitated, these pathogens are able to cause an infection. Debilitated means weakened by another condition.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Osteosarcoma",
+    "pronunciation": "/oss-tee-oh-sar-KOH-mah/",
+    "definition": "A hard-tissue sarcoma that usually involves the upper shaft of long bones, pelvis, or knee.",
+    "breakdown_text": "oste/o: bone ; sarc: flesh ; -oma: tumor"
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Parasite",
+    "pronunciation": "/PAR-ah-sight/",
+    "definition": "A plant or animal that lives on or within another living organism at the expense of that organism.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Rabies",
+    "pronunciation": "/RAY-beez/",
+    "definition": "An acute viral infection transmitted to humans by the bite or saliva of an infected animal.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Rickettsia",
+    "pronunciation": "/rih-KET-see-ah/",
+    "definition": "A small bacterium that lives in lice, fleas, ticks, and mites. The plural is rickettsiae.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Rubella",
+    "pronunciation": "/roo-BELL-ah/",
+    "definition": "A viral infection characterized by a low-grade fever, swollen glands, inflamed eyes, and a fine, pink rash. Also known as German measles.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Sarcoma",
+    "pronunciation": "/sar-KOH-mah/",
+    "definition": "A malignant tumor that arises from connective tissues, including hard and, more commonly, soft tissues. The plural is sarcomas or sarcomata.",
+    "breakdown_text": "sarc: flesh ; -oma: tumor"
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Spirochetes",
+    "pronunciation": "/SPY-roh-keets/",
+    "definition": "Long, slender, spiral-shaped bacteria that have flexible walls and are capable of movement.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Splenomegaly",
+    "pronunciation": "/splee-noh-MEG-ah-lee/",
+    "definition": "An abnormal enlargement of the spleen.",
+    "breakdown_text": "splen/o: spleen ; -megaly: enlargement"
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Staphylococci",
+    "pronunciation": "/staf-ih-loh-KOCK-sigh/",
+    "definition": "A group of about 30 species of bacteria that form irregular groups or clusters resembling grapes. The singular is staphylococcus.",
+    "breakdown_text": "staphyl/o: clusters or bunches of grapes ; -cocci: spherical bacteria"
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Streptococci",
+    "pronunciation": "/strep-toh-KOCK-sigh/",
+    "definition": "Bacteria that form a chain. The singular is streptococcus.",
+    "breakdown_text": "strept/o: twisted chain ; -cocci: spherical bacteria"
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Systemic reaction",
+    "pronunciation": "/sis-TEH-mik/",
+    "definition": "Also described as anaphylaxis or anaphylactic shock, is a severe response to an allergen. The symptoms of this response develop quickly, and without prompt medical aid, the patient can die within a few minutes.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Teletherapy",
+    "pronunciation": "/tel-eh-THER-ah-pee/",
+    "definition": "Precisely targeted radiation therapy administered at a distance from the body.",
+    "breakdown_text": "tele-: distant ; -therapy: treatment"
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Toxoplasmosis",
+    "pronunciation": "/tock-soh-plaz-MOH-sis/",
+    "definition": "A disease caused by a parasite most commonly transmitted from pets to humans by contact with contaminated feces.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Varicella",
+    "pronunciation": "/var-ih-SEL-ah/",
+    "definition": "A highly contagious infection caused by the herpesvirus Varicella zoster. Also known as chickenpox.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Lacteals",
+    "pronunciation": "/LACK-tee-ahlz/",
+    "definition": "Specialized structures of the lymphatic system that absorb those fats that cannot be transported by the bloodstream.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Villi",
+    "pronunciation": "",
+    "definition": "Small fingerlike projections that line the small intestine. The singular is villus. Each villus contains lacteals and blood vessels.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Interstitial fluid",
+    "pronunciation": "/in-ter-STISH-al/",
+    "definition": "Plasma from arterial blood that flows out of the arterioles and into the capillaries, and then flows into the spaces between the cells of the tissues. Also known as intercellular or tissue fluid.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Lymph",
+    "pronunciation": "/LIMF/",
+    "definition": "The remaining 10% of the returning interstitial fluid. A clear, watery fluid containing electrolytes and proteins that works in close cooperation with the immune system.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Lymphatic capillaries",
+    "pronunciation": "",
+    "definition": "Microscopic, blind-ended (sealed on one end) tubes located near the surface of the body with capillary walls that are only one cell in thickness.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Lymphatic vessels",
+    "pronunciation": "",
+    "definition": "Progressively larger vessels located deeper within the tissues that receive lymph from the lymphatic capillaries. Like veins, they have valves to prevent the backward flow of lymph.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Right lymphatic duct",
+    "pronunciation": "",
+    "definition": "The duct that collects lymph from the right side of the head and neck, the upper right quadrant of the body, and the right arm. It empties into the right subclavian vein.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Thoracic duct",
+    "pronunciation": "",
+    "definition": "The largest lymphatic vessel in the body. It collects lymph from the left side of the head and neck, the upper left quadrant of the trunk, the left arm, the entire lower portion of the trunk, and both legs. It empties into the left subclavian vein.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Subclavian vein",
+    "pronunciation": "",
+    "definition": "The proximal part of the main vein of the arm.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Lymph node",
+    "pronunciation": "",
+    "definition": "A small, bean-shaped structure containing specialized lymphocytes that are capable of destroying pathogens. Lymph nodes filter the lymph to remove harmful substances and other impurities.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Cervical lymph nodes",
+    "pronunciation": "/SER-vih-kal/",
+    "definition": "Lymph nodes located along the sides of the neck.",
+    "breakdown_text": "cervic: neck ; -al: pertaining to"
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Axillary lymph nodes",
+    "pronunciation": "/AK-sih-lar-ee/",
+    "definition": "Lymph nodes located under the arms in the area known as the armpits.",
+    "breakdown_text": "axill: armpit ; -ary: pertaining to"
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Inguinal lymph nodes",
+    "pronunciation": "/ING-gwih-nal/",
+    "definition": "Lymph nodes located in the inguinal (groin) area of the lower abdomen.",
+    "breakdown_text": "inguin: groin ; -al: pertaining to"
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Natural killer cells",
+    "pronunciation": "",
+    "definition": "Lymphocytes that play an important role in the killing of cancer cells and cells infected by viruses. Also known as NK cells.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "B cells",
+    "pronunciation": "",
+    "definition": "Also known as B lymphocytes. Specialized lymphocytes that produce antibodies. Each lymphocyte makes a specific antibody that is capable of destroying a specific antigen.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Plasma cells",
+    "pronunciation": "",
+    "definition": "Cells that develop from B cells and secrete a large volume of antibodies coded to destroy specific antigens.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "T cells",
+    "pronunciation": "",
+    "definition": "Also known as T lymphocytes. They get the T in their name from their origin in the thymus. These lymphocytes play a central role in cell-mediated immunity.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Interleukins",
+    "pronunciation": "/in-ter-LOO-kinz/",
+    "definition": "Proteins that play multiple roles in the immune system, including directing B and T cells to divide and proliferate.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Maturation",
+    "pronunciation": "",
+    "definition": "The process of becoming mature.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Differentiation",
+    "pronunciation": "",
+    "definition": "To be modified to perform a specific function.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Lymphoid",
+    "pronunciation": "",
+    "definition": "Pertaining to the lymphatic system or resembling lymph or lymphatic tissue.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Tonsils",
+    "pronunciation": "/TON-sils/",
+    "definition": "Three masses of lymphoid tissue that form a protective ring around the back of the nose and upper throat. They prevent pathogens from entering the respiratory system when breathing through the nose and mouth.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Adenoids",
+    "pronunciation": "/AD-eh-noids/",
+    "definition": "Also known as the nasopharyngeal tonsils. Located in the nasopharynx, which is the upper part of the pharynx.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Palatine tonsils",
+    "pronunciation": "/PAL-ah-tine/",
+    "definition": "Tonsils located on the left and right sides of the throat in the area that is visible at the back of the mouth. Palatine describes the hard and soft palates that form the roof of the mouth.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Lingual tonsils",
+    "pronunciation": "/LING-gwal/",
+    "definition": "Tonsils located at the base of the tongue that are not readily visible. Lingual means pertaining to the tongue.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Thymus",
+    "pronunciation": "/THIGH-mus/",
+    "definition": "A mass of lymphoid tissue located above the heart that reaches its greatest size at puberty and becomes smaller with age. As part of the endocrine system, it secretes a hormone that stimulates the maturation of lymphocytes into T cells.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Vermiform appendix",
+    "pronunciation": "",
+    "definition": "Commonly referred to as the appendix. It hangs from the lower portion of the cecum, which is the first section of the large intestine, and may play an important role in the immune system.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Spleen",
+    "pronunciation": "",
+    "definition": "A sac-like mass of lymphoid tissue located in the left upper quadrant of the abdomen, just inferior to (below) the diaphragm and posterior to (behind) the stomach. It filters microorganisms and other foreign material from the blood, forms lymphocytes and monocytes, destroys worn-out erythrocytes, and stores extra erythrocytes.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Pathogens",
+    "pronunciation": "",
+    "definition": "Disease-producing microorganisms.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Toxins",
+    "pronunciation": "",
+    "definition": "Poisonous or harmful substances.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Malignant cells",
+    "pronunciation": "",
+    "definition": "Potentially life-threatening cancer cells.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Tolerance",
+    "pronunciation": "",
+    "definition": "An acquired unresponsiveness to a specific antigen. The term is also used to describe a decline in the effective response to a drug, usually due to repeated use.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Immunoglobulin G",
+    "pronunciation": "",
+    "definition": "Abbreviated IgG. The most abundant class of antibodies, found in blood and lymph. These antibodies are active against bacteria, fungi, viruses, and foreign particles.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Immunoglobulin A",
+    "pronunciation": "",
+    "definition": "Abbreviated IgA. The class of antibodies produced predominantly against ingested antigens. They are found in body secretions such as saliva, sweat, or tears, and prevent the attachment of viruses and bacteria to the epithelial surfaces that line most organs.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Immunoglobulin M",
+    "pronunciation": "",
+    "definition": "Abbreviated IgM. The class of antibodies that are found in circulating body fluids. These are the first antibodies to appear in response to an initial exposure to an antigen.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Immunoglobulin D",
+    "pronunciation": "",
+    "definition": "Abbreviated IgD. The class of antibodies found only on the surface of B cells. These antibodies are important in B cell activation.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Immunoglobulin E",
+    "pronunciation": "",
+    "definition": "Abbreviated IgE. The class of antibodies produced in the lungs, skin, and mucous membranes. These antibodies are responsible for allergic reactions.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Phagocytes",
+    "pronunciation": "/FAG-oh-sights/",
+    "definition": "Specialized leukocytes that act as part of the antigen–antibody reaction by destroying substances such as cell debris, dust, pollen, and pathogens by the process of phagocytosis. Phagocytes include monocytes, macrophages, dendritic cells, and mast cells.",
+    "breakdown_text": "phag/o: to eat or swallow ; -cyte: cell"
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Phagocytosis",
+    "pronunciation": "",
+    "definition": "The process of destroying pathogens by surrounding and swallowing them.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Monocytes",
+    "pronunciation": "",
+    "definition": "Leukocytes that provide immunological defenses against many infectious organisms. When monocytes leave the bloodstream and enter into the tissue, they become macrophages and dendritic cells.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Dendritic cells",
+    "pronunciation": "/den-DRIT-ic/",
+    "definition": "Specialized leukocytes that patrol the body searching for antigens that produce infections. When such a cell is found, the dendritic cell grabs it, swallows it, and alerts B and T cells to act against this specific antigen.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Immunity",
+    "pronunciation": "",
+    "definition": "The state of being resistant to a specific disease. This resistance can be present naturally, or it can be acquired.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Natural immunity",
+    "pronunciation": "",
+    "definition": "Also known as passive immunity. Resistance to a disease present without the administration of an antigen or exposure to a disease. It is present at birth and can be augmented when breast milk passes from a nursing mother to her baby.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Acquired immunity",
+    "pronunciation": "",
+    "definition": "Immunity obtained by having had a contagious disease. Being vaccinated against a contagious disease provides protection against that disease without having been exposed to the risk of actually having the disease.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Vaccine",
+    "pronunciation": "",
+    "definition": "A preparation containing an antigen, consisting of whole or partial disease-causing organisms, which have been killed or weakened.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Vaccination",
+    "pronunciation": "",
+    "definition": "Provides protection against a disease. For some conditions a periodic booster is required to maintain the effectiveness of the immunization.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Allergist",
+    "pronunciation": "/AL-er-jist/",
+    "definition": "A specialist in diagnosing and treating conditions of altered immunologic reactivity, such as allergic reactions.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Infectious disease specialist",
+    "pronunciation": "",
+    "definition": "A physician who specializes in diagnosing and treating diseases caused by microorganisms such as viruses, bacteria, and parasites.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Immunologist",
+    "pronunciation": "/im-you-NOL-oh-jist/",
+    "definition": "A specialist in diagnosing and treating disorders of the immune system.",
+    "breakdown_text": "immun: protected ; -ologist: specialist"
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Lymphologist",
+    "pronunciation": "/lim-FOL-oh-jist/",
+    "definition": "A physician who specializes in diagnosing and treating disorders of the lymphatic system.",
+    "breakdown_text": "lymph: lymphatic system ; -ologist: specialist"
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Oncologist",
+    "pronunciation": "/ong-KOL-oh-jist/",
+    "definition": "A physician who specializes in diagnosing and treating malignant disorders such as tumors and cancer.",
+    "breakdown_text": "onc: tumor ; -ologist: specialist"
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Lymphadenitis",
+    "pronunciation": "/lim-fad-eh-NIGH-tis/",
+    "definition": "An inflammation of the lymph nodes. Commonly known as swollen glands. Swelling of the lymph nodes is frequently an indication of an infection.",
+    "breakdown_text": "lymphaden: lymph node ; -itis: inflammation"
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Ruptured spleen",
+    "pronunciation": "",
+    "definition": "A medical emergency that occurs when the covering of the spleen is torn, usually as the result of a blow to the abdomen.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Primary lymphedema",
+    "pronunciation": "",
+    "definition": "A hereditary condition of the lymphatic system that develops with swelling beginning in the feet and progressing into the ankles and in an upward direction along the legs. It occurs most frequently in females and symptoms begin to appear during puberty.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Secondary lymphedema",
+    "pronunciation": "",
+    "definition": "Lymphedema caused by damage to lymphatic vessels that is most frequently due to cancer treatment, surgery, trauma, or burns.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Compression",
+    "pronunciation": "",
+    "definition": "A treatment for lymphedema that uses specialized clothing such as socks, stockings, and sleeves or bandages to exert pressure, which can be used to improve circulation and lymph flow.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Bioimpedance spectroscopy",
+    "pronunciation": "/BYE-oh-im-pee-dens/",
+    "definition": "A noninvasive method of diagnosing lymphedema. It measures the resistance to an electrical current passed through the affected limb, with abnormally low results showing a buildup of lymph.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Allergic reaction",
+    "pronunciation": "",
+    "definition": "Occurs when the body’s immune system reacts to a harmless allergen such as pollen, food, or animal dander as if it were a dangerous invader.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Allergy",
+    "pronunciation": "",
+    "definition": "Also known as hypersensitivity. An overreaction by the body to a particular antigen.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Localized allergic response",
+    "pronunciation": "",
+    "definition": "Also known as a cellular response. It includes redness, itching, and burning where the skin has come into contact with an allergen.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Scratch test",
+    "pronunciation": "",
+    "definition": "A diagnostic test to identify commonly troublesome allergens such as tree pollen and ragweed. Swelling and itching indicate an allergic reaction.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Allergen-specific immunoglobulin E blood test",
+    "pronunciation": "",
+    "definition": "A blood test sometimes used to determine whether a person is allergic to a particular substance.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Antihistamines",
+    "pronunciation": "",
+    "definition": "Medications administered to relieve or prevent the symptoms of allergy to wind-borne pollens and other types of allergies. They work by preventing the effects of histamine.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Histamine",
+    "pronunciation": "",
+    "definition": "A substance produced by the body that causes the itching, sneezing, runny nose, and watery eyes of an allergic reaction.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Immunodeficiency disorder",
+    "pronunciation": "/im-you-noh-deh-FISH-en-see/",
+    "definition": "A disorder that occurs when the immune response is compromised. Compromised means weakened or not functioning properly.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Severe combined immunodeficiency",
+    "pronunciation": "",
+    "definition": "Abbreviated SCID. An inherited condition in which abnormalities in the immune system cause an increased susceptibility to infection and failure to thrive as a result of infections.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Kaposi’s sarcoma",
+    "pronunciation": "/KAP-oh-seez sar-KOH-mah/",
+    "definition": "An example of an opportunistic infection that is frequently associated with HIV. This cancer causes patches of abnormal tissue to grow under the skin; in the lining of the mouth, nose, and throat; or in other organs.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "ELISA",
+    "pronunciation": "",
+    "definition": "The acronym for enzyme-linked immunosorbent assay. A blood test used to screen for the presence of HIV antibodies, as well as Lyme disease and other infectious conditions.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "HIV differentiation assay",
+    "pronunciation": "",
+    "definition": "A test used to confirm a positive ELISA test.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Synthetic immunoglobulins",
+    "pronunciation": "",
+    "definition": "Also known as immune serum. Used as a post-exposure preventive measure against certain viruses, including rabies and some types of hepatitis.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Synthetic interferon",
+    "pronunciation": "",
+    "definition": "Used in the treatment of multiple sclerosis, hepatitis C, and some cancers.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Monoclonal antibodies",
+    "pronunciation": "",
+    "definition": "Any of a class of antibodies produced in the laboratory by identical offspring of a clone of specific cells. They are used to enhance the patient’s immune response to certain malignancies, including some non-Hodgkin’s lymphoma, melanoma, breast cancer, and colon cancer.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Antiretroviral therapy",
+    "pronunciation": "",
+    "definition": "Abbreviated ART. Treatment for HIV, sometimes referred to as a treatment regimen because it is often more than one drug taken in combination with each other.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Pre-exposure prophylaxis",
+    "pronunciation": "",
+    "definition": "Abbreviated PrEP. A daily preventative drug for people at high risk of HIV infection.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Post-exposure prophylaxis",
+    "pronunciation": "",
+    "definition": "Abbreviated PEP. Treatment for people who have had suspected or confirmed exposure to the virus, taken for 28 days.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Immunosuppression",
+    "pronunciation": "/im-you-noh-sup-PRESH-un/",
+    "definition": "Treatment to repress or interfere with the ability of the immune system to respond to stimulation by antigens.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Corticosteroid drug",
+    "pronunciation": "/kor-tih-koh-STEHR-oid/",
+    "definition": "A synthetic hormone that closely resembles the cortisol secreted by the adrenal glands.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Pathogen",
+    "pronunciation": "/PATH-oh-jen/",
+    "definition": "A microorganism that causes a disease in humans.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Microorganism",
+    "pronunciation": "",
+    "definition": "A living organism that is so small it can be seen only with the aid of a microscope.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Pathogenic",
+    "pronunciation": "",
+    "definition": "Capable of producing disease.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Anthrax",
+    "pronunciation": "/AN-thraks/",
+    "definition": "A contagious disease that can be transmitted through livestock infected with Bacillus anthracis.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Shigellosis",
+    "pronunciation": "",
+    "definition": "An infection caused by the bacteria shigella which can cause diarrhea and fever and can be prevented by handwashing and good hygiene.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Lyme disease",
+    "pronunciation": "/LIME/",
+    "definition": "A disease transmitted to humans by the bite of a tick that has had contact with a deer infected with the spirochete Borrelia burgdorferi. Symptoms include fever, headache, fatigue, and a characteristic skin rash known as erythema migrans.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Staphylococcus aureus",
+    "pronunciation": "/staf-ih-loh-KOCK-us OR-ee-us/",
+    "definition": "Also known as staph aureus. A form of staphylococcus that often infects wounds and causes serious problems such as toxic shock syndrome or food poisoning.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Antibiotic-resistant bacteria",
+    "pronunciation": "",
+    "definition": "Bacteria that occur when antibiotics fail to kill all of the bacteria they target. The surviving bacteria become resistant to this particular drug.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Nosocomial",
+    "pronunciation": "",
+    "definition": "Hospital or clinic acquired.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Methicillin-resistant Staphylococcus aureus",
+    "pronunciation": "",
+    "definition": "Commonly known as MRSA. One of several types of bacteria that are now resistant to most antibiotics.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Fungus",
+    "pronunciation": "/FUNG-gus/",
+    "definition": "A simple parasitic organism. The plural is fungi. Some are harmless to humans and others are pathogenic.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Tinea pedis",
+    "pronunciation": "",
+    "definition": "Commonly known as athlete’s foot. A fungal infection that develops between the toes.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Aspergillosis",
+    "pronunciation": "",
+    "definition": "A rare infection caused by mold (a type of fungus) inhaled into the lungs.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Yeast",
+    "pronunciation": "",
+    "definition": "A type of fungus.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Oral thrush",
+    "pronunciation": "",
+    "definition": "A yeast infection that occurs in the mouth, especially in infants.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Giardiasis",
+    "pronunciation": "/gee-are-DIE-uh-sis/",
+    "definition": "A diarrheal disease caused by the parasite Giardia. The most common method of transmission is via water that has been contaminated with feces.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Trichomoniasis",
+    "pronunciation": "",
+    "definition": "A common sexually transmitted disease caused by the parasite Trichomonas vaginalis.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Viruses",
+    "pronunciation": "/VYE-rus-ez/",
+    "definition": "Very small infectious agents that live only by invading other cells. After invading the cell, the virus reproduces and then breaks the wall of the infected cell to release the newly formed viruses.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Coronavirus",
+    "pronunciation": "",
+    "definition": "A type of virus that has crown-like structures on the surface. Corona means crown.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Ebola",
+    "pronunciation": "/ee-BOH-lah/",
+    "definition": "A rare and generally fatal disease transmitted by contact with any bodily fluids infected with the Ebola virus.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Influenza",
+    "pronunciation": "/in-floo-EN-zah/",
+    "definition": "Commonly known as the flu. A highly contagious viral respiratory infection that usually occurs in seasonal epidemics.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Measles",
+    "pronunciation": "",
+    "definition": "An acute, highly contagious infection that is transmitted by respiratory droplets of the rubeola virus.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Mumps",
+    "pronunciation": "",
+    "definition": "An acute viral infection that is characterized by the swelling of the parotid glands, which are the salivary glands located just in front of the ears.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "MMR",
+    "pronunciation": "",
+    "definition": "The measles, mumps, and rubella vaccination. This immunization can prevent these three viral illnesses and should be administered in early childhood.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "West Nile virus",
+    "pronunciation": "",
+    "definition": "A virus spread to humans by the bite of an infected mosquito. A mild form has flu-like symptoms, and a more severe variety spreads to the spinal cord and brain.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Zika virus",
+    "pronunciation": "",
+    "definition": "A virus spread to humans by the bite of an infected mosquito, by a woman to her fetus, or through sexual intercourse.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Herpesviruses",
+    "pronunciation": "",
+    "definition": "A group of viruses that includes varicella zoster, Epstein-Barr, cytomegalovirus, and herpes simplex.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Postherpetic neuralgia",
+    "pronunciation": "",
+    "definition": "A complication that may follow herpes zoster if nerve fibers have been damaged during the outbreak. The resulting pain can be severe and persistent.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Infectious mononucleosis",
+    "pronunciation": "/mon-oh-new-klee-OH-sis/",
+    "definition": "Also known as mono. A condition caused by the Epstein-Barr virus, most common in adolescents and young adults.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Roseola",
+    "pronunciation": "/row-zee-OH-la/",
+    "definition": "Also called sixth disease. A condition common in infants ages 6 months to 2 years, characterized by a high fever followed by a rash.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Bactericide",
+    "pronunciation": "/back-TEER-ih-side/",
+    "definition": "A substance that causes the death of bacteria. This group of antibiotics includes penicillins and cephalosporins.",
+    "breakdown_text": "bacteri: bacteria ; -cide: causing death"
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Bacteriostatic agent",
+    "pronunciation": "",
+    "definition": "An agent that slows or stops the growth of bacteria. This group of antibiotics includes tetracycline, sulfonamide, and erythromycin.",
+    "breakdown_text": "bacteri/o: bacteria ; -static: causing control"
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Antiviral drug",
+    "pronunciation": "/an-tih-VYE-ral/",
+    "definition": "A drug used to treat viral infections or to provide temporary immunity.",
+    "breakdown_text": "anti-: against ; vir: virus ; -al: pertaining to"
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Oncology",
+    "pronunciation": "/ong-KOL-oh-jee/",
+    "definition": "The study of the prevention, causes, and treatment of tumors and cancer.",
+    "breakdown_text": "onc: tumor ; -ology: study of"
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Tumor",
+    "pronunciation": "",
+    "definition": "An abnormal growth of body tissue. Also known as a neoplasm. Within this mass, the multiplication of cells is uncontrolled, abnormal, rapid, and progressive.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Neoplasm",
+    "pronunciation": "",
+    "definition": "An abnormal growth of body tissue. Also known as a tumor.",
+    "breakdown_text": "neo-: new or strange ; -plasm: formation"
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Benign tumor",
+    "pronunciation": "",
+    "definition": "A tumor that is not a form of cancer and is not life-threatening, although it can cause damage as it grows and places pressure on adjacent structures.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Malignant tumor",
+    "pronunciation": "",
+    "definition": "A tumor that is a form of cancer. It is capable of spreading to distant body sites, including to other body systems, and it is potentially life-threatening.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Angiogenesis",
+    "pronunciation": "/an-jee-oh-JEN-eh-sis/",
+    "definition": "The process through which a tumor supports its growth by creating its own blood supply. Angiogenesis is the opposite of antiangiogenesis.",
+    "breakdown_text": "angi/o: vessel ; -genesis: reproduction"
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Antiangiogenesis",
+    "pronunciation": "/an-tih-an-jee-oh-JEN-eh-sis/",
+    "definition": "A form of treatment that disrupts the blood supply to the tumor. Antiangiogenesis is the opposite of angiogenesis.",
+    "breakdown_text": "anti-: against ; angi/o: vessel ; -genesis: reproduction"
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Cancer",
+    "pronunciation": "",
+    "definition": "A class of diseases characterized by the uncontrolled division of cells and the ability of these cells to invade other tissues, either by invasion through direct growth into adjacent tissue or by spreading into distant sites by metastasizing. Commonly abbreviated CA.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Infiltrate",
+    "pronunciation": "",
+    "definition": "To gain access to.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Adenocarcinoma",
+    "pronunciation": "/ad-eh-noh-kar-sih-NOH-mah/",
+    "definition": "Any one of a large group of carcinomas derived from glandular tissue.",
+    "breakdown_text": "aden/o: gland ; carcin: cancer ; -oma: tumor"
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Hard-tissue sarcomas",
+    "pronunciation": "",
+    "definition": "Sarcomas that arise from bone or cartilage.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Soft-tissue sarcomas",
+    "pronunciation": "",
+    "definition": "Cancers of the muscle, fat, fibrous tissue, blood and lymphatic vessels, or other supporting tissue, including the synovial tissues that line the cavities of joints.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Synovial sarcoma",
+    "pronunciation": "",
+    "definition": "A tumor of the tissues surrounding a synovial joint such as the knees or elbows.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Staging",
+    "pronunciation": "",
+    "definition": "The process of classifying tumors by how far the disease has progressed, the potential for its responding to therapy, and the patient’s prognosis.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "BRCA1 and BRCA2 genes",
+    "pronunciation": "",
+    "definition": "BReast CAncer 1 and 2. Abnormal genes that carry a higher risk of breast, ovarian, and certain other cancers. These genes are often a factor in inherited cancers.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Breast cancer",
+    "pronunciation": "",
+    "definition": "A carcinoma that develops from the cells of the breast and can spread to adjacent lymph nodes and other body sites. The majority of all breast cancers are ER-positive, which means that they grow in response to the hormone estrogen.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Inflammatory breast cancer",
+    "pronunciation": "",
+    "definition": "Abbreviated IBC. A rare but aggressive form of breast cancer in which the cancer cells block the lymphatic vessels in the skin of the breast.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Male breast cancer",
+    "pronunciation": "",
+    "definition": "Cancer that can occur in the small amount of breast tissue that is normally present in men.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Breast self-examination",
+    "pronunciation": "",
+    "definition": "A self-care procedure for the early detection of breast cancer. The focus is checking for a new lump or for changes in an existing lump, the shape of the nipple, or the skin covering the breast.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Palpation of the breast",
+    "pronunciation": "",
+    "definition": "A test performed by a trained health care provider to check the texture, size, and consistency of the breast as well as the lymph nodes in the armpit.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Molecular breast imaging",
+    "pronunciation": "",
+    "definition": "Abbreviated MBI. A nuclear medicine technique using gamma radiation to detect potential tumors in particularly dense breast tissue.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Ultrasound",
+    "pronunciation": "",
+    "definition": "Often used as an initial follow-up test when an abnormality is found by mammography.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Breast MRI",
+    "pronunciation": "",
+    "definition": "A test that uses magnets and radio waves, and the insertion of a contrast medium via IV, to get more detailed information for those already diagnosed with cancer or to look for signs of cancer in patients at high risk.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Core needle biopsy",
+    "pronunciation": "/BYE-op-see/",
+    "definition": "A technique in which a hollow needle is used with or without imaging such as ultrasound to remove small samples of tissue from the breast for diagnosis and the planning of treatment.",
+    "breakdown_text": "bi-: pertaining to life ; -opsy: view of"
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Surgical biopsy",
+    "pronunciation": "",
+    "definition": "The removal of a larger piece of tissue for examination to confirm a diagnosis.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Sentinel node biopsy",
+    "pronunciation": "",
+    "definition": "A biopsy of the first lymph node to come into contact with cancer cells as they leave the organ of origination and start spreading into the rest of the body.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Lymph node dissection",
+    "pronunciation": "",
+    "definition": "A surgical procedure in which all of the lymph nodes in a major group are removed to determine or slow the spread of cancer in this area.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Hormone therapy",
+    "pronunciation": "",
+    "definition": "A treatment for breast cancer used if the cancer cells are ER-positive, PR-positive, or both. Hormone therapy drugs work to decrease estrogen levels or block estrogen receptors.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Lumpectomy",
+    "pronunciation": "",
+    "definition": "Also called partial mastectomy or breast-conserving surgery. The surgical removal of only the cancerous tissue with the surrounding margin of normal tissue.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Mastectomy",
+    "pronunciation": "/mas-TECK-toh-mee/",
+    "definition": "The surgical removal of the entire breast and nipple. Also referred to as a simple or total mastectomy.",
+    "breakdown_text": "mast: breast ; -ectomy: surgical removal"
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Double mastectomy",
+    "pronunciation": "",
+    "definition": "The surgical removal of both breasts.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Modified radical mastectomy",
+    "pronunciation": "",
+    "definition": "The surgical removal of the entire breast and all of the axillary lymph nodes under the adjacent arm.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Breast reconstruction",
+    "pronunciation": "",
+    "definition": "Surgery chosen by many women who have undergone a mastectomy as an alternative to wearing an external prosthesis.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Cancer treatments",
+    "pronunciation": "",
+    "definition": "The most common forms of treatment for all types of cancer are surgery, chemotherapy, and radiation therapy.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Laser surgery",
+    "pronunciation": "",
+    "definition": "Surgery that uses targeted beams of light to destroy cancer cells.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Cryosurgery",
+    "pronunciation": "",
+    "definition": "Surgery in which cancerous cells are frozen and destroyed using a substance such as liquid nitrogen.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Chemotherapy",
+    "pronunciation": "",
+    "definition": "The use of chemical agents and drugs in combinations selected to destroy malignant cells and tissues.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Chemoprevention",
+    "pronunciation": "/kee-moh-pree-VEN-shun/",
+    "definition": "The use of natural or synthetic substances such as drugs or vitamins to reduce the risk of developing cancer or to reduce the chance that cancer will recur.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Antineoplastic",
+    "pronunciation": "/an-tih-nee-oh-PLAS-tick/",
+    "definition": "A medication that blocks the development, growth, or proliferation of malignant cells. Proliferation means to increase rapidly.",
+    "breakdown_text": "anti-: against ; ne/o: new ; plast: growth or formation ; -ic: pertaining to"
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Radiation therapy",
+    "pronunciation": "",
+    "definition": "Therapy used in the treatment of some cancers with the goal of destroying only the cancerous tissues while sparing healthy tissues.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Brachytherapy",
+    "pronunciation": "/brack-ee-THER-ah-pee/",
+    "definition": "The use of radioactive materials in contact with or implanted into the tissues to be treated.",
+    "breakdown_text": "brachy-: short ; -therapy: treatment"
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Tomotherapy",
+    "pronunciation": "",
+    "definition": "The combination of tomography with radiation therapy to precisely target the tumor being treated. Radiation is delivered slice by slice to the tumor and is able to avoid healthy tissue.",
+    "breakdown_text": "tom/o: slice ; -therapy: treatment"
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Targeted therapy",
+    "pronunciation": "",
+    "definition": "A developing form of anticancer drug therapy that uses drugs or other substances to identify and attack specific cancer cells without harming normal cells.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Adjuvant therapy",
+    "pronunciation": "/AD-jeh-vant/",
+    "definition": "Therapy sometimes used after the primary cancer treatments have been completed to decrease the chance that a cancer will recur. Adjuvant refers to an agent intended to increase the effectiveness of a drug.",
+    "breakdown_text": ""
+  },
+  {
+    "chapter_num": 6,
+    "system_group": "Lymphatic and Immune Systems",
+    "term": "Clinical trials",
+    "pronunciation": "",
+    "definition": "Testing of new and promising cancer treatments that have not yet received Food and Drug Administration (FDA) approval on patients who agree to be part of the research.",
+    "breakdown_text": ""
+  }
+]
